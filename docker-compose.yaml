@@ -17,3 +17,15 @@ services:
               capabilities: [gpu] # Indique que le conteneur a besoin d'accès au GPU
     volumes:
       - libretranslate_data:/app/data # Pour persister les données, comme les modèles téléchargés
+  # argos-translate:
+  #   build:
+  #     context: ./argos-image
+  #     dockerfile: Dockerfile
+  #   ports:
+  #     - "5000:5000"
+  #   volumes:
+  #     - argos-data:/root/.local/share/argos-translate
+
+volumes:
+  # argos-data:
+  libretranslate_data:
