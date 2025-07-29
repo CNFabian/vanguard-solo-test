@@ -1,0 +1,189 @@
+# CF VANGUARD STRIDE TO VICTORY - Translation Project .gitignore
+
+# =============================================================================
+# ROM FILES AND EXTRACTED CONTENT
+# =============================================================================
+
+# Original ROM files (copyrighted content)
+*.3ds
+*.cia
+cf_vanguard.3ds
+cf_vanguard_g_stv.cia
+
+# Extracted ROM content
+romfs/
+code.bin
+full_padded.bin
+full_patched.bin
+exheader.bin
+exheader_patched.bin
+
+# Built/modified ROM files
+rebuild_*.3ds
+*_patched.3ds
+*_translated.3ds
+extracted/
+modified/
+
+# Binary dumps and extracted sections
+*.bin
+extract/
+extracted_content/
+
+# =============================================================================
+# TEMPORARY AND WORKING FILES
+# =============================================================================
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =============================================================================
+# TRANSLATION WORK FILES
+# =============================================================================
+
+# Large/complete datasets (keep only samples in repo)
+files/original/
+files/complete/
+
+# Translation cache and temporary files
+*_temp.csv
+*_backup.csv
+*_working.csv
+translation_cache/
+temp_translations/
+
+# LibreTranslate and API data
+libretranslate_data/
+translation_api_cache/
+
+# Large processed files
+extracted_strings_complete.csv
+card_list_complete.json
+
+# =============================================================================
+# DOCKER AND DEVELOPMENT
+# =============================================================================
+
+# Docker volumes and data
+docker-compose.override.yml
+libretranslate_data/
+argos-data/
+
+# Log files
+*.log
+logs/
+debug.log
+translation.log
+
+# =============================================================================
+# TESTING AND OUTPUT
+# =============================================================================
+
+# Test ROM builds
+test_builds/
+test_output/
+*_test.3ds
+*_debug.3ds
+
+# IDA Pro files (if using)
+*.i64
+*.idb
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+# Hex editor sessions
+*.ses
+
+# =============================================================================
+# KEEP THESE FILES (commented for clarity)
+# =============================================================================
+
+# Keep small sample files for testing and development:
+# files/reduced/
+# files/character_selection_*.csv
+# scripts/
+# docker-compose.yaml
+# README.md
+# *.md documentation files
+# cf_vanguard.rsf
+
+# =============================================================================
+# PLATFORM SPECIFIC
+# =============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# =============================================================================
+# COMPRESSION AND ARCHIVES
+# =============================================================================
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+backup_*.zip
+rom_backup_*.zip

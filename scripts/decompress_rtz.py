@@ -26,7 +26,7 @@ def decompress_rtz(path: Path):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python rtz_tool.py <dossier_ou_fichier.rtz>")
+        print("Usage: python decompress_rtz.py <dossier_ou_fichier.rtz>")
         sys.exit(1)
 
     target = Path(sys.argv[1])

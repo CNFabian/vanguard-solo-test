@@ -1,5 +1,3 @@
-# Updated extraction script without cleaning (only newline escaping)
-
 # -*- coding: utf-8 -*-
 import csv
 from pathlib import Path
@@ -10,10 +8,9 @@ PATCH_START = 0x949720
 PATCH_END   = 0xB51CD0
 SEP_BYTES   = {b'\x00\x00', b'\xff\xff'}
 
-BIN_PATH       = Path("full_padded.bin")
+BIN_PATH       = Path("code.bin")
 CSV_INPUT      = Path("rodata_pointers.csv")
 OUTPUT_CSV     = Path("extracted_strings.csv")
-
 
 def is_separator(pair: bytes) -> bool:
     return bytes(pair) in SEP_BYTES

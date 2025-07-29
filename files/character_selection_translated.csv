@@ -1,0 +1,5 @@
+pointer_offsets;pointer_value;separators;extract
+0x8D3F50;0x00949ED8;00 00;You can change your character's appearance, name, and nickname
+0xDAEE24;0x00B4B9D0;00 00 00 00;Change character appearance
+0xC29AB8;0x0094BAAC;00 00 FF FF;Please select an avatar to change
+0xC29C14;0x0094C274;00 00;Change current deck name
