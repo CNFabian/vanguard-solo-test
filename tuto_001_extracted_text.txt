@@ -1,0 +1,1039 @@
+Extracted Japanese text from extract/romfs/fe/tuto_001.rtz
+==================================================
+
+Entry 1:
+Position: 0x-00001
+Encoding: utf-16le
+Length: 10 bytes
+Text: 逶沮縚叛厫
+------------------------------
+
+Entry 2:
+Position: 0x-00001
+Encoding: utf-16le
+Length: 10 bytes
+Text: 媠狌鑺篝皝
+------------------------------
+
+Entry 3:
+Position: 0x-00001
+Encoding: utf-16le
+Length: 12 bytes
+Text: 誴情浴嘸眾泬
+------------------------------
+
+Entry 4:
+Position: 0x-00001
+Encoding: utf-16le
+Length: 8 bytes
+Text: 疨楠鵉牻
+------------------------------
+
+Entry 5:
+Position: 0x-00001
+Encoding: utf-16le
+Length: 10 bytes
+Text: 镣喁弁銄咯
+------------------------------
+
+Entry 6:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 8 bytes
+Text: 搖壤仞椈
+------------------------------
+
+Entry 7:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾀ｢ｶ卸
+------------------------------
+
+Entry 8:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 6 bytes
+Text: ﾁｭ吩ﾎ･
+------------------------------
+
+Entry 9:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾋﾃｨﾒ
+------------------------------
+
+Entry 10:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 13 bytes
+Text: ﾛｳ搖壤仞椈ｸ鯨
+------------------------------
+
+Entry 11:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 4 bytes
+Text: ｺﾑ｡ｿ
+------------------------------
+
+Entry 12:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾑｰﾍｯ
+------------------------------
+
+Entry 13:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 7 bytes
+Text: ﾌｭ搨ﾑｮｦ
+------------------------------
+
+Entry 14:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 6 bytes
+Text: ｺ衍ﾂｰﾈ
+------------------------------
+
+Entry 15:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 7 bytes
+Text: ﾐ湧ﾚﾐ贓
+------------------------------
+
+Entry 16:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 6 bytes
+Text: 翊ｨ棚ｭ
+------------------------------
+
+Entry 17:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 6 bytes
+Text: 倖ｵｮﾒﾏ
+------------------------------
+
+Entry 18:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 6 bytes
+Text: 岾ｹｺﾈﾞ
+------------------------------
+
+Entry 19:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾖｫ貉ﾉ
+------------------------------
+
+Entry 20:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 6 bytes
+Text: 播ﾇｦｫｽ
+------------------------------
+
+Entry 21:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 5 bytes
+Text: ｽﾘﾎ猯
+------------------------------
+
+Entry 22:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 4 bytes
+Text: ｯ｡ﾃｱ
+------------------------------
+
+Entry 23:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 4 bytes
+Text: ｳﾂﾇｭ
+------------------------------
+
+Entry 24:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 4 bytes
+Text: ｼｶﾛﾋ
+------------------------------
+
+Entry 25:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 7 bytes
+Text: ﾓ恠ﾈﾃ荏
+------------------------------
+
+Entry 26:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 6 bytes
+Text: 紋ﾀｪ蓑
+------------------------------
+
+Entry 27:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾓﾈﾝﾛｳ
+------------------------------
+
+Entry 28:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾌﾊｹｻ
+------------------------------
+
+Entry 29:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 5 bytes
+Text: 頴､ｸｿ
+------------------------------
+
+Entry 30:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 7 bytes
+Text: ぃﾅﾚﾗﾉﾅ
+------------------------------
+
+Entry 31:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 7 bytes
+Text: 鰤ﾁﾕﾓﾝﾁ
+------------------------------
+
+Entry 32:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 7 bytes
+Text: ﾄﾇﾘｸ臟ｯ
+------------------------------
+
+Entry 33:
+Position: 0x-00001
+Encoding: shift_jis
+Length: 5 bytes
+Text: 腓ｱｬﾝ
+------------------------------
+
+Entry 34:
+Position: 0x00003A
+Encoding: shift_jis
+Length: 10 bytes
+Text: 朷分ﾘﾊ｣憾ﾄ
+------------------------------
+
+Entry 35:
+Position: 0x00004E
+Encoding: shift_jis
+Length: 5 bytes
+Text: ･未･･
+------------------------------
+
+Entry 36:
+Position: 0x00006D
+Encoding: shift_jis
+Length: 11 bytes
+Text: 残ﾄ雪ｹ訴ｩ損
+------------------------------
+
+Entry 37:
+Position: 0x00007E
+Encoding: utf-16be
+Length: 10 bytes
+Text: 謘醛揪進狈
+------------------------------
+
+Entry 38:
+Position: 0x00008F
+Encoding: shift_jis
+Length: 6 bytes
+Text: ｪﾒ矮範
+------------------------------
+
+Entry 39:
+Position: 0x0000D3
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾌﾅ馴ｩ
+------------------------------
+
+Entry 40:
+Position: 0x0000E1
+Encoding: shift_jis
+Length: 8 bytes
+Text: ﾃｲ導ｳ｢輙
+------------------------------
+
+Entry 41:
+Position: 0x0000F8
+Encoding: shift_jis
+Length: 7 bytes
+Text: 蘚称ﾂ纈
+------------------------------
+
+Entry 42:
+Position: 0x000102
+Encoding: utf-16le
+Length: 18 bytes
+Text: 菭卓扆发鄑鎃鍳鉓剳
+------------------------------
+
+Entry 43:
+Position: 0x00010B
+Encoding: shift_jis
+Length: 8 bytes
+Text: 巣都鉄痴
+------------------------------
+
+Entry 44:
+Position: 0x00010C
+Encoding: utf-16be
+Length: 8 bytes
+Text: 莓玓厒獒
+------------------------------
+
+Entry 45:
+Position: 0x0001BD
+Encoding: shift_jis
+Length: 7 bytes
+Text: ﾗﾛ免ぼｫ
+------------------------------
+
+Entry 46:
+Position: 0x0001D6
+Encoding: utf-16be
+Length: 8 bytes
+Text: 羪媎觧鯿
+------------------------------
+
+Entry 47:
+Position: 0x00022C
+Encoding: utf-16le
+Length: 8 bytes
+Text: 槶翀春衬
+------------------------------
+
+Entry 48:
+Position: 0x0002C2
+Encoding: utf-16be
+Length: 10 bytes
+Text: 鑄堫覰娒憽
+------------------------------
+
+Entry 49:
+Position: 0x0002EE
+Encoding: utf-16be
+Length: 8 bytes
+Text: ￝霎噦鵫
+------------------------------
+
+Entry 50:
+Position: 0x0002F2
+Encoding: utf-16le
+Length: 12 bytes
+Text: 晖殝簿蠹釡臥
+------------------------------
+
+Entry 51:
+Position: 0x000300
+Encoding: shift_jis
+Length: 6 bytes
+Text: 萵痳ﾒﾊ
+------------------------------
+
+Entry 52:
+Position: 0x000318
+Encoding: utf-16be
+Length: 10 bytes
+Text: 豇襰聈萣圢
+------------------------------
+
+Entry 53:
+Position: 0x000366
+Encoding: utf-16le
+Length: 8 bytes
+Text: 絻て盜飇
+------------------------------
+
+Entry 54:
+Position: 0x000396
+Encoding: shift_jis
+Length: 6 bytes
+Text: 續詑ｾﾃ
+------------------------------
+
+Entry 55:
+Position: 0x0003A6
+Encoding: utf-16le
+Length: 8 bytes
+Text: 錽髙綍哫
+------------------------------
+
+Entry 56:
+Position: 0x0003E0
+Encoding: utf-16be
+Length: 10 bytes
+Text: 逓欻類撳炶
+------------------------------
+
+Entry 57:
+Position: 0x0003FC
+Encoding: utf-16be
+Length: 8 bytes
+Text: 闾殲璣川
+------------------------------
+
+Entry 58:
+Position: 0x000437
+Encoding: shift_jis
+Length: 6 bytes
+Text: 磚店ﾉﾃ
+------------------------------
+
+Entry 59:
+Position: 0x00046D
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾝﾓｶｾﾆ
+------------------------------
+
+Entry 60:
+Position: 0x00047C
+Encoding: utf-16be
+Length: 10 bytes
+Text: 弲貺嫇廗碐
+------------------------------
+
+Entry 61:
+Position: 0x000512
+Encoding: utf-16be
+Length: 8 bytes
+Text: 揠ペ唩綧
+------------------------------
+
+Entry 62:
+Position: 0x000596
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾚｦﾒﾖﾓ
+------------------------------
+
+Entry 63:
+Position: 0x0005AA
+Encoding: utf-16be
+Length: 8 bytes
+Text: 蓛吻烺磪
+------------------------------
+
+Entry 64:
+Position: 0x0005C2
+Encoding: shift_jis
+Length: 8 bytes
+Text: 祷ｦ父ｦﾒﾞ
+------------------------------
+
+Entry 65:
+Position: 0x000655
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾁﾂﾉﾍ
+------------------------------
+
+Entry 66:
+Position: 0x000677
+Encoding: shift_jis
+Length: 7 bytes
+Text: ﾘﾍ琢ﾍ版
+------------------------------
+
+Entry 67:
+Position: 0x0006CB
+Encoding: shift_jis
+Length: 5 bytes
+Text: ､ﾐｦﾕｫ
+------------------------------
+
+Entry 68:
+Position: 0x00070C
+Encoding: shift_jis
+Length: 6 bytes
+Text: 斫ﾓﾅ鷹
+------------------------------
+
+Entry 69:
+Position: 0x000739
+Encoding: shift_jis
+Length: 5 bytes
+Text: ｫﾝ謗ﾆ
+------------------------------
+
+Entry 70:
+Position: 0x000748
+Encoding: shift_jis
+Length: 5 bytes
+Text: ｧﾄ蔆ｼ
+------------------------------
+
+Entry 71:
+Position: 0x000750
+Encoding: utf-16be
+Length: 10 bytes
+Text: 鶺格邦餹钻
+------------------------------
+
+Entry 72:
+Position: 0x000763
+Encoding: shift_jis
+Length: 5 bytes
+Text: ｬ鞄ﾆｮ
+------------------------------
+
+Entry 73:
+Position: 0x000768
+Encoding: utf-16be
+Length: 10 bytes
+Text: 濙裎蓭幁柍
+------------------------------
+
+Entry 74:
+Position: 0x00078C
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾊｾｾｨ
+------------------------------
+
+Entry 75:
+Position: 0x0007F0
+Encoding: utf-16be
+Length: 8 bytes
+Text: ﾰ格聄紷
+------------------------------
+
+Entry 76:
+Position: 0x00081C
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾐﾂﾁｲ
+------------------------------
+
+Entry 77:
+Position: 0x000832
+Encoding: shift_jis
+Length: 5 bytes
+Text: ･ｷ騙ｭ
+------------------------------
+
+Entry 78:
+Position: 0x000853
+Encoding: shift_jis
+Length: 8 bytes
+Text: ﾙ墻ﾚｮ波ﾜ
+------------------------------
+
+Entry 79:
+Position: 0x00086C
+Encoding: utf-16be
+Length: 8 bytes
+Text: 銕沵髱珳
+------------------------------
+
+Entry 80:
+Position: 0x0008A0
+Encoding: utf-16be
+Length: 8 bytes
+Text: 亾褘誉呐
+------------------------------
+
+Entry 81:
+Position: 0x0008CA
+Encoding: utf-16be
+Length: 12 bytes
+Text: 秼畱飚谷樼邿
+------------------------------
+
+Entry 82:
+Position: 0x0008E1
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾖ｢ｳル
+------------------------------
+
+Entry 83:
+Position: 0x0008F8
+Encoding: utf-16le
+Length: 10 bytes
+Text: 垳勃律棯厜
+------------------------------
+
+Entry 84:
+Position: 0x000900
+Encoding: shift_jis
+Length: 6 bytes
+Text: 彜ｰｩﾅﾐ
+------------------------------
+
+Entry 85:
+Position: 0x000956
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾋ｢ﾑﾋ
+------------------------------
+
+Entry 86:
+Position: 0x00096E
+Encoding: utf-16le
+Length: 8 bytes
+Text: 穬肮鶜彗
+------------------------------
+
+Entry 87:
+Position: 0x0009A8
+Encoding: utf-16be
+Length: 8 bytes
+Text: 唏蹧訒冱
+------------------------------
+
+Entry 88:
+Position: 0x0009E6
+Encoding: utf-16le
+Length: 8 bytes
+Text: あ連琒馘
+------------------------------
+
+Entry 89:
+Position: 0x000A25
+Encoding: shift_jis
+Length: 5 bytes
+Text: 腋ﾇﾍﾑ
+------------------------------
+
+Entry 90:
+Position: 0x000A82
+Encoding: shift_jis
+Length: 8 bytes
+Text: 噛ｫ甓ﾏ藉
+------------------------------
+
+Entry 91:
+Position: 0x000A9B
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾋｧ酌ｧ
+------------------------------
+
+Entry 92:
+Position: 0x000B19
+Encoding: shift_jis
+Length: 5 bytes
+Text: 額ｭｼ｢
+------------------------------
+
+Entry 93:
+Position: 0x000B8A
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾃｫ萱ﾌ
+------------------------------
+
+Entry 94:
+Position: 0x000C4C
+Encoding: utf-16le
+Length: 8 bytes
+Text: 錺吺磐駀
+------------------------------
+
+Entry 95:
+Position: 0x000C96
+Encoding: shift_jis
+Length: 5 bytes
+Text: ､枚ﾎｾ
+------------------------------
+
+Entry 96:
+Position: 0x000CEA
+Encoding: utf-16be
+Length: 8 bytes
+Text: 懆誻帋畇
+------------------------------
+
+Entry 97:
+Position: 0x000D06
+Encoding: utf-16be
+Length: 10 bytes
+Text: 剘缣絊癐醦
+------------------------------
+
+Entry 98:
+Position: 0x000D14
+Encoding: utf-16be
+Length: 10 bytes
+Text: 閰唊躾躔浘
+------------------------------
+
+Entry 99:
+Position: 0x000D43
+Encoding: shift_jis
+Length: 4 bytes
+Text: ｯﾒｭｨ
+------------------------------
+
+Entry 100:
+Position: 0x000DE4
+Encoding: utf-16le
+Length: 8 bytes
+Text: 蚇暹裊丅
+------------------------------
+
+Entry 101:
+Position: 0x000E16
+Encoding: utf-16be
+Length: 8 bytes
+Text: 皵秬醑柸
+------------------------------
+
+Entry 102:
+Position: 0x000E69
+Encoding: shift_jis
+Length: 4 bytes
+Text: ﾎｿｼﾘ
+------------------------------
+
+Entry 103:
+Position: 0x000E78
+Encoding: utf-16be
+Length: 10 bytes
+Text: 尘墸グ灡惡
+------------------------------
+
+Entry 104:
+Position: 0x000E81
+Encoding: shift_jis
+Length: 6 bytes
+Text: 眥ﾐ匣ﾄ
+------------------------------
+
+Entry 105:
+Position: 0x000E8A
+Encoding: shift_jis
+Length: 7 bytes
+Text: ﾛﾗﾃｭ鴇ﾘ
+------------------------------
+
+Entry 106:
+Position: 0x000F1A
+Encoding: utf-16le
+Length: 12 bytes
+Text: 鉋抐聉醕橤司
+------------------------------
+
+Entry 107:
+Position: 0x000F2F
+Encoding: shift_jis
+Length: 5 bytes
+Text: ｹ窶ﾆﾖ
+------------------------------
+
+Entry 108:
+Position: 0x000F46
+Encoding: utf-16le
+Length: 8 bytes
+Text: 鬩瑜嶋擷
+------------------------------
+
+Entry 109:
+Position: 0x000F4E
+Encoding: shift_jis
+Length: 7 bytes
+Text: 矮ｮﾟｾ颱
+------------------------------
+
+Entry 110:
+Position: 0x000F58
+Encoding: utf-16be
+Length: 8 bytes
+Text: 軇嵄簈枖
+------------------------------
+
+Entry 111:
+Position: 0x000F9C
+Encoding: utf-16be
+Length: 8 bytes
+Text: 闙繠噟漿
+------------------------------
+
+Entry 112:
+Position: 0x000FB6
+Encoding: utf-16le
+Length: 8 bytes
+Text: 歜蚕葘麵
+------------------------------
+
+Entry 113:
+Position: 0x000FE6
+Encoding: utf-16le
+Length: 8 bytes
+Text: 顅欖埅る
+------------------------------
+
+Entry 114:
+Position: 0x000FF6
+Encoding: utf-16be
+Length: 8 bytes
+Text: 噼揀枓填
+------------------------------
+
+Entry 115:
+Position: 0x001019
+Encoding: shift_jis
+Length: 6 bytes
+Text: 罍後ｺﾇ
+------------------------------
+
+Entry 116:
+Position: 0x00106C
+Encoding: utf-16le
+Length: 20 bytes
+Text: 信蘥筷稝洆攒巌肝瑧激
+------------------------------
+
+Entry 117:
+Position: 0x001098
+Encoding: utf-16le
+Length: 8 bytes
+Text: 簯羁ヾ籾
+------------------------------
+
+Entry 118:
+Position: 0x0010F0
+Encoding: shift_jis
+Length: 6 bytes
+Text: ､ｴ艤｡ﾜ
+------------------------------
+
+Entry 119:
+Position: 0x001109
+Encoding: shift_jis
+Length: 7 bytes
+Text: ｻ〈鑾鵝
+------------------------------
+
+Entry 120:
+Position: 0x001111
+Encoding: shift_jis
+Length: 8 bytes
+Text: ｪ晞､ﾁ｢術
+------------------------------
+
+Entry 121:
+Position: 0x00113C
+Encoding: shift_jis
+Length: 7 bytes
+Text: 皓柁ﾑﾓﾔ
+------------------------------
+
+Entry 122:
+Position: 0x0011A6
+Encoding: utf-16le
+Length: 8 bytes
+Text: 牌鳲埔里
+------------------------------
+
+Entry 123:
+Position: 0x0011D8
+Encoding: utf-16le
+Length: 8 bytes
+Text: 狄篨驝瞋
+------------------------------
+
+Entry 124:
+Position: 0x0011DC
+Encoding: utf-16be
+Length: 8 bytes
+Text: 嶚護锥鰯
+------------------------------
+
+Entry 125:
+Position: 0x0012C7
+Encoding: shift_jis
+Length: 7 bytes
+Text: 懾ｷ閑篩
+------------------------------
+
+Entry 126:
+Position: 0x00134F
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾉ偃､ｮ
+------------------------------
+
+Entry 127:
+Position: 0x0013BA
+Encoding: utf-16be
+Length: 8 bytes
+Text: 誟瑅凌烍
+------------------------------
+
+Entry 128:
+Position: 0x0013F2
+Encoding: utf-16le
+Length: 8 bytes
+Text: 員雥廆搶
+------------------------------
+
+Entry 129:
+Position: 0x001452
+Encoding: utf-16be
+Length: 8 bytes
+Text: 鳃鱨教阽
+------------------------------
+
+Entry 130:
+Position: 0x00150A
+Encoding: utf-16le
+Length: 8 bytes
+Text: 觃恠算諝
+------------------------------
+
+Entry 131:
+Position: 0x001551
+Encoding: shift_jis
+Length: 6 bytes
+Text: ･偶ｧｨｾ
+------------------------------
+
+Entry 132:
+Position: 0x001566
+Encoding: utf-16le
+Length: 12 bytes
+Text: 骭瘙篁丱陊阒
+------------------------------
+
+Entry 133:
+Position: 0x00157E
+Encoding: utf-16be
+Length: 10 bytes
+Text: 吔攗鼧儈襮
+------------------------------
+
+Entry 134:
+Position: 0x0015CF
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾖｾﾏ稼
+------------------------------
+
+Entry 135:
+Position: 0x001755
+Encoding: shift_jis
+Length: 8 bytes
+Text: 蹶毟烹跋
+------------------------------
+
+Entry 136:
+Position: 0x001778
+Encoding: utf-16le
+Length: 12 bytes
+Text: 彨霺娮痮瞏缕
+------------------------------
+
+Entry 137:
+Position: 0x001778
+Encoding: utf-16le
+Length: 16 bytes
+Text: 彨霺娮痮瞏缕を訕
+------------------------------
+
+Entry 138:
+Position: 0x0017D2
+Encoding: utf-16le
+Length: 8 bytes
+Text: 轾迣牯緪
+------------------------------
+
+Entry 139:
+Position: 0x0017F4
+Encoding: utf-16le
+Length: 8 bytes
+Text: 龂域襶啅
+------------------------------
+
+Entry 140:
+Position: 0x001800
+Encoding: utf-16le
+Length: 8 bytes
+Text: 剹嚨沧材
+------------------------------
+
+Entry 141:
+Position: 0x001810
+Encoding: utf-16le
+Length: 8 bytes
+Text: 蓡韊礊兺
+------------------------------
+
+Entry 142:
+Position: 0x00182C
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾌ鎖､ｮ
+------------------------------
+
+Entry 143:
+Position: 0x00184C
+Encoding: euc-jp
+Length: 8 bytes
+Text: 蛔葬孑歔
+------------------------------
+
+Entry 144:
+Position: 0x00185A
+Encoding: shift_jis
+Length: 5 bytes
+Text: ﾅ舜､｢
+------------------------------
+
+Entry 145:
+Position: 0x001866
+Encoding: shift_jis
+Length: 6 bytes
+Text: ｷ忿ﾁ祕
+------------------------------
+
+Entry 146:
+Position: 0x001874
+Encoding: utf-16be
+Length: 10 bytes
+Text: 顖雳溓吺俇
+------------------------------
+
+Entry 147:
+Position: 0x001898
+Encoding: utf-16le
+Length: 8 bytes
+Text: 猥菥噿蘦
+------------------------------
+
+Entry 148:
+Position: 0x0018C6
+Encoding: utf-16le
+Length: 8 bytes
+Text: 闪庴达弮
+------------------------------
+
