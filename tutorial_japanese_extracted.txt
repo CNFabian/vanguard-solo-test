@@ -1,0 +1,2368 @@
+CF VANGUARD TUTORIAL JAPANESE TEXT EXTRACTION
+==================================================
+
+File: romfs/fe/tuto_001.rtz
+Total entries: 278
+
+ENTRY 001:
+  ID: TUTO_001
+  Offset: 0x2217
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|色々教|いろいろおし|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 002:
+  ID: TUTO_002
+  Offset: 0x232B
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|下画面|したがめん|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 003:
+  ID: TUTO_003
+  Offset: 0x1EC8
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|退却|たいきゃく|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 004:
+  ID: TUTO_004
+  Offset: 0x1D6D
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|説明|せつめい|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 005:
+  ID: TUTO_005
+  Offset: 0x226A
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|攻撃|こうげき|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 006:
+  ID: TUTO_006
+  Offset: 0x22B0
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|防御|ぼうぎょ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 007:
+  ID: TUTO_007
+  Offset: 0x23A7
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|拡大|かくだい|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 008:
+  ID: TUTO_008
+  Offset: 0x24FA
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|一緒|いっしょ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 009:
+  ID: TUTO_009
+  Offset: 0x2779
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|分身|ぶんしん|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 010:
+  ID: TUTO_010
+  Offset: 0x2882
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|山札|やまふだ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 011:
+  ID: TUTO_011
+  Offset: 0x2B48
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|枚数|まいすう|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 012:
+  ID: TUTO_012
+  Offset: 0x2BAE
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|注意|ちゅうい|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 013:
+  ID: TUTO_013
+  Offset: 0x2E35
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|特別|とくべつ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 014:
+  ID: TUTO_014
+  Offset: 0x2E69
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|最大|さいだい|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 015:
+  ID: TUTO_015
+  Offset: 0x1C5F
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|数字|すうじ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 016:
+  ID: TUTO_016
+  Offset: 0x1F09
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|手札|てふだ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 017:
+  ID: TUTO_017
+  Offset: 0x1F51
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|場所|ばしょ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 018:
+  ID: TUTO_018
+  Offset: 0x1FEE
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|最後|さいご|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 019:
+  ID: TUTO_019
+  Offset: 0x22FC
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|有利|ゆうり|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 020:
+  ID: TUTO_020
+  Offset: 0x234D
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|画像|がぞう|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 021:
+  ID: TUTO_021
+  Offset: 0x2540
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|仲間|なかま|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 022:
+  ID: TUTO_022
+  Offset: 0x25A1
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|味方|みかた|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 023:
+  ID: TUTO_023
+  Offset: 0x28AC
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|一度|いちど|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 024:
+  ID: TUTO_024
+  Offset: 0x28E8
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|相手|あいて|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 025:
+  ID: TUTO_025
+  Offset: 0x2A20
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|部分|ぶぶん|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 026:
+  ID: TUTO_026
+  Offset: 0x219B
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|表|あらわ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 027:
+  ID: TUTO_027
+  Offset: 0x2426
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|行|おこな|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 028:
+  ID: TUTO_028
+  Offset: 0x252C
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|戦|たたか|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 029:
+  ID: TUTO_029
+  Offset: 0x26AF
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|力|ちから|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 030:
+  ID: TUTO_030
+  Offset: 0x2A02
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|印|しるし|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 031:
+  ID: TUTO_031
+  Offset: 0x1C43
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|次|つぎ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 032:
+  ID: TUTO_032
+  Offset: 0x1CF4
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|枚|まい|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 033:
+  ID: TUTO_033
+  Offset: 0x1D59
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|詳|くわ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 034:
+  ID: TUTO_034
+  Offset: 0x1DA8
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|他|ほか|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 035:
+  ID: TUTO_035
+  Offset: 0x2284
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|時|とき|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 036:
+  ID: TUTO_036
+  Offset: 0x22E4
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|高|たか|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 037:
+  ID: TUTO_037
+  Offset: 0x2412
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|上|うえ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 038:
+  ID: TUTO_038
+  Offset: 0x24A3
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|際|さい|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 039:
+  ID: TUTO_039
+  Offset: 0x24C4
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|達|たち|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 040:
+  ID: TUTO_040
+  Offset: 0x26E9
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|中|なか|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 041:
+  ID: TUTO_041
+  Offset: 0x2750
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|教|おし|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 042:
+  ID: TUTO_042
+  Offset: 0x2AFD
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 043:
+  ID: TUTO_043
+  Offset: 0x2C36
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|下|した|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 044:
+  ID: TUTO_044
+  Offset: 0x2D11
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|覚|おぼ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 045:
+  ID: TUTO_045
+  Offset: 0x2EDE
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|守|まも|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 046:
+  ID: TUTO_046
+  Offset: 0x1D12
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|負|ま|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 047:
+  ID: TUTO_047
+  Offset: 0x1E13
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|置|お|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 048:
+  ID: TUTO_048
+  Offset: 0x1E7B
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|言|い|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 049:
+  ID: TUTO_049
+  Offset: 0x1F21
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|捨|す|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 050:
+  ID: TUTO_050
+  Offset: 0x2110
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|受|う|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 051:
+  ID: TUTO_051
+  Offset: 0x256B
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|呼|よ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 052:
+  ID: TUTO_052
+  Offset: 0x257B
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|出|だ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 053:
+  ID: TUTO_053
+  Offset: 0x28FE
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|見|み|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 054:
+  ID: TUTO_054
+  Offset: 0x2BE4
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|真|ま|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 055:
+  ID: TUTO_055
+  Offset: 0x2E9B
+  Type: kanji_kana_markup
+  Priority: HIGH
+  Japanese Text: <|入|い|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 056:
+  ID: TUTO_056
+  Offset: 0x2B6E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}ヴァンガードサークル{$}と<|言|い|>ってಃ뺬뤋ﰰ꼰기ꈰאּ줰됰㴰ೀクロノジェット・ドラゴンꦐ섡뀯ﰰ줰漰笰␀㌀㌀㘀㘀　　紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰謰䬰褰İਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰Ȱะ䚏ுフルブルーム・ドラゴン᝼쇎쨰괰뤰渰넰如獎⁙ꈀﰰ뜰र媨䇕さっき<|教|おし|>えた<|山札|やまふだ|>にあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 057:
+  ID: TUTO_057
+  Offset: 0x1B96
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ഀคν 뤀ڋ 댄䞘  緟命 ៨喿	 㺒璺 唐꠻ 훋놽
+ 뿦 죡 ᨝ 瀪 鿢ﮟ ㄁䖹ᣖ昺杩瑨琯瑵⽯畴潴敟晦漮扲☴ꖟംガンナーギア・ドラコキッド붞Η㰾簀℀籫搀丰簰㸀欀İ匰挰愰渰㰰簀瀀坥籛夀䘰堰簰㸀Ȁ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀ꬰﰰ줰渰ਰ笀␀㌀㌀㘀㘀　　紀฀터ﰰ༰笰␀紀蠀Ȱ倫ㄘダメージゾーンのカードが、
+{$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 058:
+  ID: TUTO_058
+  Offset: 0x2974
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<|注意|ちゅうい|>してね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 059:
+  ID: TUTO_059
+  Offset: 0x27BA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 줰༰笰␀紀鈀ਰ㰀簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ봰꙽঑春待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 060:
+  ID: TUTO_060
+  Offset: 0x2C48
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: サークルは{$336600}ヴァンガードサークル{$}と<|言|い|>ってಃ뺬뤋ﰰ꼰기ꈰאּ줰됰㴰ೀクロノジェット・ドラゴンꦐ섡뀯ﰰ줰漰笰␀㌀㌀㘀㘀　　紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰謰䬰褰İਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰Ȱะ䚏ுフルブルーム・ドラゴン᝼쇎쨰괰뤰渰넰如獎⁙ꈀﰰ뜰र媨䇕さっき<|教|おし|>えた<|山札|やまふだ|>にあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 061:
+  ID: TUTO_061
+  Offset: 0x2A56
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<|注意|ちゅうい|>してね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 062:
+  ID: TUTO_062
+  Offset: 0x2688
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 趉䉀樰弰渰㰰簀؀ꭒ粎瘀錰地錰簰㸀欀樰謰ꬰﰰ줰İ笰␀㌀㌀㘀㘀　　紀฀ꄰ갰ﰰ줰༰笰␀紀鈀ਰ㰀簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ봰꙽঑春待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 063:
+  ID: TUTO_063
+  Offset: 0x1CFE
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰欰㰰簀渀籿䨀簰㸀䬀谰弰笰␀紀笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰笰␀紀渀ਰ匀栰漰İ笰␀㌀㌀㘀㘀　　紀쬰쌰젰笰␀紀挀昰㰰簀 粊䐀簰㸀䘀渰Ȱ㤰⼰ドロップゾーンは、
+{$336600}フィールドから<|退却|たいきゃく|>したカード{$}や蓖㛗笹␀㌀㌀㘀㘀　　紀㰀簀䬀ⵢ籧昀田怰簰㸀䬀褰㰰簀栀籣夀簰㸀昀弰ꬰﰰ줰笰␀紀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 064:
+  ID: TUTO_064
+  Offset: 0x1BB0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 緟命 ៨喿	 㺒璺 唐꠻ 훋놽
+ 뿦 죡 ᨝ 瀪 鿢ﮟ ㄁䖹ᣖ昺杩瑨琯瑵⽯畴潴敟晦漮扲☴ꖟംガンナーギア・ドラコキッド붞Η㰾簀℀籫搀丰簰㸀欀İ匰挰愰渰㰰簀瀀坥籛夀䘰堰簰㸀Ȁ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀ꬰﰰ줰渰ਰ笀␀㌀㌀㘀㘀　　紀฀터ﰰ༰笰␀紀蠀Ȱ倫ㄘダメージゾーンのカードが、
+{$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 065:
+  ID: TUTO_065
+  Offset: 0x2D6C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 쾦혽❝쟿쌰괰欰漰İ笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰笰␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估礰搰簰㸀樀ꬰﰰ줰鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|呼|よ|>ばれるカードを<|置|お|>く<|場所|ばしょ|>なの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 066:
+  ID: TUTO_066
+  Offset: 0x2958
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 067:
+  ID: TUTO_067
+  Offset: 0x1F00
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㘀　　紀㰀簀䬀ⵢ籧昀田怰簰㸀䬀褰㰰簀栀籣夀簰㸀昀弰ꬰﰰ줰笰␀紀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ퐰့スチームナイト ウバル・トゥトゥ뒗䇮笫␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰栰ꬰﰰ줰笰␀紀欀搰䐰昰渰ਰ㰀簀가ຊ籦嬀搰脰䐰簰㸀鈀夰謰洰Ȱ茰ᤠ㩊<|最後|さいご|>に……この<|場所|ばしょ|>は、
+{$336600}ジェネレーションゾーン（Ｇゾーン）{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 068:
+  ID: TUTO_068
+  Offset: 0x2E00
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 괰欰漰İ笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰笰␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估礰搰簰㸀樀ꬰﰰ줰鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|呼|よ|>ばれるカードを<|置|お|>く<|場所|ばしょ|>なの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 069:
+  ID: TUTO_069
+  Offset: 0x1CE0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰欰㰰簀渀籿䨀簰㸀䬀谰弰笰␀紀笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰笰␀紀渀ਰ匀栰漰İ笰␀㌀㌀㘀㘀　　紀쬰쌰젰笰␀紀挀昰㰰簀 粊䐀簰㸀䘀渰Ȱ㤰⼰ドロップゾーンは、
+{$336600}フィールドから<|退却|たいきゃく|>したカード{$}や蓖㛗笹␀㌀㌀㘀㘀　　紀㰀簀䬀ⵢ籧昀田怰簰㸀䬀褰㰰簀栀籣夀簰㸀昀弰ꬰﰰ줰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 070:
+  ID: TUTO_070
+  Offset: 0x2664
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 趉䉀樰弰渰㰰簀؀ꭒ粎瘀錰地錰簰㸀欀樰謰ꬰﰰ줰İ笰␀㌀㌀㘀㘀　　紀฀ꄰ갰ﰰ줰༰笰␀紀鈀ਰ㰀簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ봰꙽঑春待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 071:
+  ID: TUTO_071
+  Offset: 0x27E4
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 地蜰簰㸀蠀Ȱ봰꙽঑春待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 072:
+  ID: TUTO_072
+  Offset: 0x2CEA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 쾦혽❝쟿쌰괰欰漰İ笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰笰␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估礰搰簰㸀樀ꬰﰰ줰鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|呼|よ|>ばれるカードを<|置|お|
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 073:
+  ID: TUTO_073
+  Offset: 0x2A80
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<|注意|ちゅうい|>してね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 074:
+  ID: TUTO_074
+  Offset: 0x2E16
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 紀✀쬰쌰젰笰␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估礰搰簰㸀樀ꬰﰰ줰鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|呼|よ|>ばれるカードを<|置|お|>く<|場所|ばしょ|>なの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 075:
+  ID: TUTO_075
+  Offset: 0x293A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 076:
+  ID: TUTO_076
+  Offset: 0x2B1C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}ヴァンガードサークル{$}と<|言|い|>ってಃ뺬뤋ﰰ꼰기ꈰאּ줰됰㴰ೀクロノジェット・ドラゴンꦐ섡뀯ﰰ줰漰笰␀㌀㌀㘀㘀　　紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰謰䬰褰İਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰Ȱะ䚏ுフルブルーム・ドラゴン᝼쇎쨰괰뤰渰넰如獎⁙ꈀﰰ뜰र媨䇕
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 077:
+  ID: TUTO_077
+  Offset: 0x1CC8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰欰㰰簀渀籿䨀簰㸀䬀谰弰笰␀紀笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰笰␀紀渀ਰ匀栰漰İ笰␀㌀㌀㘀㘀　　紀쬰쌰젰笰␀紀挀昰㰰簀 粊䐀簰㸀䘀渰Ȱ㤰⼰ドロップゾーンは、
+{$336600}フィールドから<|退却|たいきゃく|>したカード{$}や蓖㛗笹␀㌀㌀㘀㘀　　紀㰀簀䬀ⵢ籧昀田怰簰㸀䬀褰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 078:
+  ID: TUTO_078
+  Offset: 0x1F26
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 籣夀簰㸀昀弰ꬰﰰ줰笰␀紀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ퐰့スチームナイト ウバル・トゥトゥ뒗䇮笫␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰栰ꬰﰰ줰笰␀紀欀搰䐰昰渰ਰ㰀簀가ຊ籦嬀搰脰䐰簰㸀鈀夰謰洰Ȱ茰ᤠ㩊<|最後|さいご|>に……この<|場所|ばしょ|>は、
+{$336600}ジェネレーションゾーン（Ｇゾーン）{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 079:
+  ID: TUTO_079
+  Offset: 0x27F8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 080:
+  ID: TUTO_080
+  Offset: 0x21E8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ʮ挺筟␀㌀㌀㘀㘀　　紀㰀簀଀㭎扵粗圀弰䰰脰錰簰㸀渀ꬰﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀뼰쌰섰笰␀紀夀謰栰İਰ笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀㰰簀❢籙䬀估怰䐰簰㸀笀␀紀夀謰匰栰舰朰䴰謰蠰Ȱ焎㍥ファイトは、この{$336600}プレイマット{$}の<|上|うえ|>で
+<|行|おこな|>われるの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 081:
+  ID: TUTO_081
+  Offset: 0x2432
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ¢氟䉅樰弰䰰㰰簀簀籔蠀簰㸀猀㰰簀切籑怀簰㸀圀弰ਰ笀␀㌀㌀㘀㘀　　紀㰀簀猀륔籥缀䬰弰簰㸀渀ꬰﰰ줰笰␀紀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀洀Ȱူ쿳๬メイデン・オブ・グラジオラス땯睚崜谰䬰褰İ匰匰漰笰␀㌀㌀㘀㘀　　紀준쌰휰븰ﰰ笰␀紀Ȁ萰倠Ẁそして、ここが{$336600}ガーディアンサークル{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 082:
+  ID: TUTO_082
+  Offset: 0x291E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 083:
+  ID: TUTO_083
+  Offset: 0x2CC6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 쾦혽❝쟿쌰괰欰漰İ笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰笰␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估礰搰簰㸀樀ꬰﰰ줰鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 084:
+  ID: TUTO_084
+  Offset: 0x20D2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㉬媷㰭簀혀籎笀䬰簰㸀欀舰ꬰﰰ줰欰搰䐰昰漰ਰ㰀簀爀ւ夰籥䐀贰䐰贰䨰地簰㸀䠀謰匰栰䰰䈰謰錰怰儰椰☰䐠忨扞パワーは{$336600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<|時|とき|>{$}も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 085:
+  ID: TUTO_085
+  Offset: 0x1F44
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ퐰့スチームナイト ウバル・トゥトゥ뒗䇮笫␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰栰ꬰﰰ줰笰␀紀欀搰䐰昰渰ਰ㰀簀가ຊ籦嬀搰脰䐰簰㸀鈀夰謰洰Ȱ茰ᤠ㩊<|最後|さいご|>に……この<|場所|ばしょ|>は、
+{$336600}ジェネレーションゾーン（Ｇゾーン）{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 086:
+  ID: TUTO_086
+  Offset: 0x2AAE
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<|注意|ちゅうい|>してね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 087:
+  ID: TUTO_087
+  Offset: 0x234A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준ꐰ혰섰ꜰ쌰꼰笰␀紀萀İਰ笀␀㌀㌀㘀㘀　　紀쀀ﰰ렰섰ꜰ쌰꼰笰␀紀鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨このカード<|達|たち|>（デッキ）は{$336600}あなたと<|一緒|いっしょ|>に{$}
+{$336600}<|戦|たたか|>う<|仲間|なかま|>{$}よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 088:
+  ID: TUTO_088
+  Offset: 0x1CA4
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰欰㰰簀渀籿䨀簰㸀䬀谰弰笰␀紀笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰笰␀紀渀ਰ匀栰漰İ笰␀㌀㌀㘀㘀　　紀쬰쌰젰笰␀紀挀昰㰰簀 粊䐀簰㸀䘀渰Ȱ㤰⼰ドロップゾーンは、
+{$336600}フィールドから<|退却|たいきゃく|>したカード{$}や蓖㛗笹␀㌀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 089:
+  ID: TUTO_089
+  Offset: 0x2CB2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 쾦혽❝쟿쌰괰欰漰İ笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰笰␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估礰搰簰㸀樀ꬰﰰ줰鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーデ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 090:
+  ID: TUTO_090
+  Offset: 0x2820
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 091:
+  ID: TUTO_091
+  Offset: 0x2202
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 舰ꬰﰰ줰欰搰䐰昰漰ਰ㰀簀爀ւ夰籥䐀贰䐰贰䨰地簰㸀䠀謰匰栰䰰䈰謰錰怰儰椰☰䐠忨扞パワーは{$336600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<|時|とき|>{$}も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 092:
+  ID: TUTO_092
+  Offset: 0x2CB2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ೀクロノジェット・ドラゴンꦐ섡뀯ﰰ줰漰笰␀㌀㌀㘀㘀　　紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰謰䬰褰İਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰Ȱะ䚏ுフルブルーム・ドラゴン᝼쇎쨰괰뤰渰넰如獎⁙ꈀﰰ뜰र媨䇕さっき<|教|おし|>えた<|山札|やまふだ|>にあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 093:
+  ID: TUTO_093
+  Offset: 0x2AE6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}ヴァンガードサークル{$}と<|言|い|>ってಃ뺬뤋ﰰ꼰기ꈰאּ줰됰㴰ೀクロノジェット・ドラゴンꦐ섡뀯ﰰ줰漰笰␀㌀㌀㘀㘀　　紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰謰䬰褰İਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰Ȱะ䚏ுフルブルー
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 094:
+  ID: TUTO_094
+  Offset: 0x2E52
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|呼|よ|>ばれるカードを<|置|お|>く<|場所|ばしょ|>なの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 095:
+  ID: TUTO_095
+  Offset: 0x2620
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 趉䉀樰弰渰㰰簀؀ꭒ粎瘀錰地錰簰㸀欀樰謰ꬰﰰ줰İ笰␀㌀㌀㘀㘀　　紀฀ꄰ갰ﰰ줰༰笰␀紀鈀ਰ㰀簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ봰꙽঑春待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 096:
+  ID: TUTO_096
+  Offset: 0x1C90
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰欰㰰簀渀籿䨀簰㸀䬀谰弰笰␀紀笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰笰␀紀渀ਰ匀栰漰İ笰␀㌀㌀㘀㘀　　紀쬰쌰젰笰␀紀挀昰㰰簀 粊䐀簰㸀䘀渰Ȱ㤰⼰ドロップゾーンは、
+{$336600}フィールドから<|退却|たいきゃく|>したカー
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 097:
+  ID: TUTO_097
+  Offset: 0x2094
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㉬媷㰭簀혀籎笀䬰簰㸀欀舰ꬰﰰ줰欰搰䐰昰漰ਰ㰀簀爀ւ夰籥䐀贰䐰贰䨰地簰㸀䠀謰匰栰䰰䈰謰錰怰儰椰☰䐠忨扞パワーは{$336600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<|時|とき|>{$}も
+<|高|
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 098:
+  ID: TUTO_098
+  Offset: 0x21BC
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ʮ挺筟␀㌀㌀㘀㘀　　紀㰀簀଀㭎扵粗圀弰䰰脰錰簰㸀渀ꬰﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀뼰쌰섰笰␀紀夀謰栰İਰ笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀㰰簀❢籙䬀估怰䐰簰㸀笀␀紀夀謰匰栰舰朰䴰謰蠰Ȱ焎㍥ファイトは、この{$336600}プレイマット{$}の<
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 099:
+  ID: TUTO_099
+  Offset: 0x2E16
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 퉺縢娰漰İ笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰笰␀紀渀㰰簀가ຊ籦嬀搰脰䐰簰㸀Ȁ娰ೝブラスウイング・ドラゴン崥地昰İ匰渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀저갰ﰰ븰ﰰ笰␀紀Ȁ地䇮<|次|つぎ|>に、ジェネレーションゾーンにあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 100:
+  ID: TUTO_100
+  Offset: 0x2836
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 101:
+  ID: TUTO_101
+  Offset: 0x2CC6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ラゴンꦐ섡뀯ﰰ줰漰笰␀㌀㌀㘀㘀　　紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰謰䬰褰İਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰Ȱะ䚏ுフルブルーム・ドラゴン᝼쇎쨰괰뤰渰넰如獎⁙ꈀﰰ뜰र媨䇕さっき<|教|おし|>えた<|山札|やまふだ|>にあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 102:
+  ID: TUTO_102
+  Offset: 0x2464
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 쌰꼰笰␀紀萀İਰ笀␀㌀㌀㘀㘀　　紀쀀ﰰ렰섰ꜰ쌰꼰笰␀紀鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨このカード<|達|たち|>（デッキ）は{$336600}あなたと<|一緒|いっしょ|>に{$}
+{$336600}<|戦|たたか|>う<|仲間|なかま|>{$}よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 103:
+  ID: TUTO_103
+  Offset: 0x1C2C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ギア・ドラコキッド붞Η㰾簀℀籫搀丰簰㸀欀İ匰挰愰渰㰰簀瀀坥籛夀䘰堰簰㸀Ȁ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀ꬰﰰ줰渰ਰ笀␀㌀㌀㘀㘀　　紀฀터ﰰ༰笰␀紀蠀Ȱ倫ㄘダメージゾーンのカードが、
+{$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 104:
+  ID: TUTO_104
+  Offset: 0x221C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ւ夰籥䐀贰䐰贰䨰地簰㸀䠀謰匰栰䰰䈰謰錰怰儰椰☰䐠忨扞パワーは{$336600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<|時|とき|>{$}も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 105:
+  ID: TUTO_105
+  Offset: 0x234A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀뼰쌰섰笰␀紀夀謰栰İਰ笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀㰰簀❢籙䬀估怰䐰簰㸀笀␀紀夀謰匰栰舰朰䴰謰蠰Ȱ焎㍥ファイトは、この{$336600}プレイマット{$}の<|上|うえ|>で
+<|行|おこな|>われるの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 106:
+  ID: TUTO_106
+  Offset: 0x23FC
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ¢氟䉅樰弰䰰㰰簀簀籔蠀簰㸀猀㰰簀切籑怀簰㸀圀弰ਰ笀␀㌀㌀㘀㘀　　紀㰀簀猀륔籥缀䬰弰簰㸀渀ꬰﰰ줰笰␀紀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀洀Ȱူ쿳๬メイデン・オブ・グラジオラス땯睚崜谰䬰褰İ匰匰漰笰␀㌀㌀㘀㘀　　紀준쌰휰븰ﰰ笰␀紀Ȁ萰倠Ẁそし
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 107:
+  ID: TUTO_107
+  Offset: 0x22DE
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준ꐰ혰섰ꜰ쌰꼰笰␀紀萀İਰ笀␀㌀㌀㘀㘀　　紀쀀ﰰ렰섰ꜰ쌰꼰笰␀紀鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨このカード<|達|たち|>（デッキ）は{$336600}あなたと<|一緒|いっしょ|>に{$}
+{$336600}<|戦|た
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 108:
+  ID: TUTO_108
+  Offset: 0x28EA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 109:
+  ID: TUTO_109
+  Offset: 0x2E00
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 퉺縢娰漰İ笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰笰␀紀渀㰰簀가ຊ籦嬀搰脰䐰簰㸀Ȁ娰ೝブラスウイング・ドラゴン崥地昰İ匰渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀저갰ﰰ븰ﰰ笰␀紀Ȁ地䇮<|次|つぎ|>に、ジェネレーションゾーンにあるカードの<|束
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 110:
+  ID: TUTO_110
+  Offset: 0x1F00
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 賋䩏㰽簀 豧籟唀䐰吰簰㸀欀İ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀笰␀㌀㌀㘀㘀　　紀฀뜰ﰰ줰༰笰␀紀Ȁਰ뜀ﰰ줰漰갰ﰰ윰ꌰꈰ栰地昰渰İᴰ箟㝎{$336600}ヴァンガードがダメージを<|受|う|>ける{$}と、
+ここにカードが<|置|お|>かれるわ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 111:
+  ID: TUTO_111
+  Offset: 0x2E6E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀籑䐀簰㸀谀褰谰謰輰Ȱ쬰ﷄ叚アタックされた<|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|呼|よ|>ばれるカードを<|置|お|>く<|場所|ばしょ|>なの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 112:
+  ID: TUTO_112
+  Offset: 0x2600
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 趉䉀樰弰渰㰰簀؀ꭒ粎瘀錰地錰簰㸀欀樰謰ꬰﰰ줰İ笰␀㌀㌀㘀㘀　　紀฀ꄰ갰ﰰ줰༰笰␀紀鈀ਰ㰀簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ봰꙽঑春待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰鈰㰰簀渀籿䨀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 113:
+  ID: TUTO_113
+  Offset: 0x21A2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ʮ挺筟␀㌀㌀㘀㘀　　紀㰀簀଀㭎扵粗圀弰䰰脰錰簰㸀渀ꬰﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀뼰쌰섰笰␀紀夀謰栰İਰ笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀㰰簀❢籙䬀估怰䐰簰㸀笀␀紀夀謰匰栰舰朰䴰謰蠰Ȱ焎㍥ファイトは、この{$33660
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 114:
+  ID: TUTO_114
+  Offset: 0x2478
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㌀㌀㘀㘀　　紀쀀ﰰ렰섰ꜰ쌰꼰笰␀紀鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨このカード<|達|たち|>（デッキ）は{$336600}あなたと<|一緒|いっしょ|>に{$}
+{$336600}<|戦|たたか|>う<|仲間|なかま|>{$}よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 115:
+  ID: TUTO_115
+  Offset: 0x2AE6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<|注意|ちゅうい|>してね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 116:
+  ID: TUTO_116
+  Offset: 0x235E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㸀鈀뼰쌰섰笰␀紀夀謰栰İਰ笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀㰰簀❢籙䬀估怰䐰簰㸀笀␀紀夀謰匰栰舰朰䴰謰蠰Ȱ焎㍥ファイトは、この{$336600}プレイマット{$}の<|上|うえ|>で
+<|行|おこな|>われるの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 117:
+  ID: TUTO_117
+  Offset: 0x2074
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㉬媷㰭簀혀籎笀䬰簰㸀欀舰ꬰﰰ줰欰搰䐰昰漰ਰ㰀簀爀ւ夰籥䐀贰䐰贰䨰地簰㸀䠀謰匰栰䰰䈰謰錰怰儰椰☰䐠忨扞パワーは{$336600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 118:
+  ID: TUTO_118
+  Offset: 0x2074
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 吰簰㸀欀İ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀笰␀㌀㌀㘀㘀　　紀฀뜰ﰰ줰༰笰␀紀Ȁਰ뜀ﰰ줰漰갰ﰰ윰ꌰꈰ栰地昰渰İᴰ箟㝎{$336600}ヴァンガードがダメージを<|受|う|>ける{$}と、
+ここにカードが<|置|お|>かれるわ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 119:
+  ID: TUTO_119
+  Offset: 0x2234
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 謰匰栰䰰䈰謰錰怰儰椰☰䐠忨扞パワーは{$336600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<|時|とき|>{$}も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 120:
+  ID: TUTO_120
+  Offset: 0x22C8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준ꐰ혰섰ꜰ쌰꼰笰␀紀萀İਰ笀␀㌀㌀㘀㘀　　紀쀀ﰰ렰섰ꜰ쌰꼰笰␀紀鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨このカード<|達|たち|>（デッキ）は{$336600}あなたと<|一緒|いっしょ|>に{$}
+{$3
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 121:
+  ID: TUTO_121
+  Offset: 0x25E6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䠅腜筇␀㌀㌀㘀㘀　　紀가ﰰ줰鈰夰謰㰰簀鬀籒愀䬰褰簰㸀笀␀紀鈀㰰簀栀粈䈀褰輰簰㸀圀昰䐰謰渰Ȱਰ㰀簀ⴀ籎樀䬰簰㸀欀漰뜰ﰰ줰䰰樰䐰ꬰﰰ줰舰䈰謰儰椰洰Ȱ툰둾⒈それは、<|他|ほか|>のチュートリアルで
+<|教|おし|>えていくね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 122:
+  ID: TUTO_122
+  Offset: 0x2854
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀笀␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 123:
+  ID: TUTO_123
+  Offset: 0x1C4A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 搀丰簰㸀欀İ匰挰愰渰㰰簀瀀坥籛夀䘰堰簰㸀Ȁ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀ꬰﰰ줰渰ਰ笀␀㌀㌀㘀㘀　　紀฀터ﰰ༰笰␀紀蠀Ȱ倫ㄘダメージゾーンのカードが、
+{$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 124:
+  ID: TUTO_124
+  Offset: 0x2CEA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰謰䬰褰İਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰Ȱะ䚏ுフルブルーム・ドラゴン᝼쇎쨰괰뤰渰넰如獎⁙ꈀﰰ뜰र媨䇕さっき<|教|おし|>えた<|山札|やまふだ|>にあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 125:
+  ID: TUTO_125
+  Offset: 0x2F8A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ␀紀渀㰰簀가ຊ籦嬀搰脰䐰簰㸀Ȁ娰ೝブラスウイング・ドラゴン崥地昰İ匰渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀저갰ﰰ븰ﰰ笰␀紀Ȁ地䇮<|次|つぎ|>に、ジェネレーションゾーンにあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 126:
+  ID: TUTO_126
+  Offset: 0x2AAE
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}ヴァンガードサークル{$}と<|言|い|>ってಃ뺬뤋ﰰ꼰기ꈰאּ줰됰㴰ೀクロノジェット・ドラゴンꦐ섡뀯ﰰ줰漰笰␀㌀㌀㘀㘀　　紀฀ူ࿿帰໿ᐰ࿿笰␀紀縀朰䈰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 127:
+  ID: TUTO_127
+  Offset: 0x23DA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ¢氟䉅樰弰䰰㰰簀簀籔蠀簰㸀猀㰰簀切籑怀簰㸀圀弰ਰ笀␀㌀㌀㘀㘀　　紀㰀簀猀륔籥缀䬰弰簰㸀渀ꬰﰰ줰笰␀紀鈀㰰簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀洀Ȱူ쿳๬メイデン・オブ・グラジオラス땯睚崜谰䬰褰İ匰匰漰笰␀㌀㌀㘀㘀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 128:
+  ID: TUTO_128
+  Offset: 0x28C6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰㸀笀␀紀栀㰰簀 粊䐀簰㸀挀昰İਰ䈀樰弰渰ꬰﰰ줰渰㰰簀开籧开瀰簰㸀鈀㰰簀渀籿䨀簰㸀伀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 129:
+  ID: TUTO_129
+  Offset: 0x25E6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 趉䉀樰弰渰㰰簀؀ꭒ粎瘀錰地錰簰㸀欀樰謰ꬰﰰ줰İ笰␀㌀㌀㘀㘀　　紀฀ꄰ갰ﰰ줰༰笰␀紀鈀ਰ㰀簀渀籿䨀簰㸀伀㰰簀㐀䁘籢瀀地蜰簰㸀蠀Ȱ봰꙽঑春待ちの乙女 オズꂌ釜렸ꜰ촰ﰰ뜰븰ﰰ漰İਰ䈀樰弰渰笰␀㌀㌀㘀㘀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 130:
+  ID: TUTO_130
+  Offset: 0x24FC
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䠅腜筇␀㌀㌀㘀㘀　　紀가ﰰ줰鈰夰謰㰰簀鬀籒愀䬰褰簰㸀笀␀紀鈀㰰簀栀粈䈀褰輰簰㸀圀昰䐰謰渰Ȱਰ㰀簀ⴀ籎樀䬰簰㸀欀漰뜰ﰰ줰䰰樰䐰ꬰﰰ줰舰䈰謰儰椰洰Ȱ툰둾⒈それは、<|他|ほか|>のチュートリアルで
+<|
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 131:
+  ID: TUTO_131
+  Offset: 0x2DD2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 퉺縢娰漰İ笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰笰␀紀渀㰰簀가ຊ籦嬀搰脰䐰簰㸀Ȁ娰ೝブラスウイング・ドラゴン崥地昰İ匰渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀저갰ﰰ븰ﰰ笰␀紀Ȁ地䇮<|次|つぎ|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 132:
+  ID: TUTO_132
+  Offset: 0x1F9E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 紀픀ꌰﰰ줰栰ꬰﰰ줰笰␀紀欀搰䐰昰渰ਰ㰀簀가ຊ籦嬀搰脰䐰簰㸀鈀夰謰洰Ȱ茰ᤠ㩊<|最後|さいご|>に……この<|場所|ばしょ|>は、
+{$336600}ジェネレーションゾーン（Ｇゾーン）{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 133:
+  ID: TUTO_133
+  Offset: 0x2094
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㸀漀笰␀㌀㌀㘀㘀　　紀฀뜰ﰰ줰༰笰␀紀Ȁਰ뜀ﰰ줰漰갰ﰰ윰ꌰꈰ栰地昰渰İᴰ箟㝎{$336600}ヴァンガードがダメージを<|受|う|>ける{$}と、
+ここにカードが<|置|お|>かれるわ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 134:
+  ID: TUTO_134
+  Offset: 0x2874
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ␀紀蠀Ȱ尰認妓<|山札|やまふだ|>からめくったカードを<|一度|いちど|><|置|お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 135:
+  ID: TUTO_135
+  Offset: 0x1B96
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㶩ᬋ笰␀㌀㌀㘀㘀　　紀휀ꐰ쌰젰笰␀紀欀搰䐰昰İ㰰簀猀粊伀輰簰㸀圀估㰰簀가ຊ籦嬀搰脰䐰簰㸀夀謰洰Ȱ넰ࡁ⬣<|次|つぎ|>に、その<|他|ほか|>のフィールドの<|説明|せつめい|>をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 136:
+  ID: TUTO_136
+  Offset: 0x1C4A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰欰㰰簀渀籿䨀簰㸀䬀谰弰笰␀紀笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰笰␀紀渀ਰ匀栰漰İ笰␀㌀㌀㘀㘀　　紀쬰쌰젰笰␀紀挀昰㰰簀 粊䐀簰㸀䘀渰Ȱ㤰⼰ドロップゾーン
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 137:
+  ID: TUTO_137
+  Offset: 0x24A2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨このカード<|達|たち|>（デッキ）は{$336600}あなたと<|一緒|いっしょ|>に{$}
+{$336600}<|戦|たたか|>う<|仲間|なかま|>{$}よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 138:
+  ID: TUTO_138
+  Offset: 0x26B0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 簀鬀籒愀䬰褰簰㸀笀␀紀鈀㰰簀栀粈䈀褰輰簰㸀圀昰䐰謰渰Ȱਰ㰀簀ⴀ籎樀䬰簰㸀欀漰뜰ﰰ줰䰰樰䐰ꬰﰰ줰舰䈰謰儰椰洰Ȱ툰둾⒈それは、<|他|ほか|>のチュートリアルで
+<|教|おし|>えていくね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 139:
+  ID: TUTO_139
+  Offset: 0x2048
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㉬媷㰭簀혀籎笀䬰簰㸀欀舰ꬰﰰ줰欰搰䐰昰漰ਰ㰀簀爀ւ夰籥䐀贰䐰贰䨰地簰㸀䠀謰匰栰䰰䈰謰錰怰儰椰☰䐠忨扞パワーは{$336600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 140:
+  ID: TUTO_140
+  Offset: 0x2262
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 600}<|攻撃|こうげき|>する<|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<|時|とき|>{$}も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 141:
+  ID: TUTO_141
+  Offset: 0x2B1C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 伀㰰簀㐀䁘籢瀀地蜰簰㸀Ȁℰ苩䦲デッキのカード<|枚数|まいすう|>は{$336600}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<|注意|ちゅうい|>してね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 142:
+  ID: TUTO_142
+  Offset: 0x2DB8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 퉺縢娰漰İ笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰笰␀紀渀㰰簀가ຊ籦嬀搰脰䐰簰㸀Ȁ娰ೝブラスウイング・ドラゴン崥地昰İ匰渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀저갰ﰰ븰ﰰ笰␀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 143:
+  ID: TUTO_143
+  Offset: 0x1B7A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㶩ᬋ笰␀㌀㌀㘀㘀　　紀휀ꐰ쌰젰笰␀紀欀搰䐰昰İ㰰簀猀粊伀輰簰㸀圀估㰰簀가ຊ籦嬀搰脰䐰簰㸀夀謰洰Ȱ넰ࡁ⬣<|次|つぎ|>に、その<|他|ほか|>のフィールドの<|説明|せ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 144:
+  ID: TUTO_144
+  Offset: 0x2C48
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 쾦혽❝쟿쌰괰欰漰İ笰␀㌀㌀㘀㘀　　紀✀쬰쌰젰笰␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估礰搰簰㸀樀ꬰﰰ줰鈰İ笰␀㌀㌀㘀㘀　　紀㰀簀 ❧籙唀䐰怰䐰簰㸀᠀㳿簀騀籧縀䐰簰㸀縀朰笰␀紀㰀簀攀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 145:
+  ID: TUTO_145
+  Offset: 0x1FBA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 紀欀搰䐰昰渰ਰ㰀簀가ຊ籦嬀搰脰䐰簰㸀鈀夰謰洰Ȱ茰ᤠ㩊<|最後|さいご|>に……この<|場所|ばしょ|>は、
+{$336600}ジェネレーションゾーン（Ｇゾーン）{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 146:
+  ID: TUTO_146
+  Offset: 0x2A80
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}ヴァンガードサークル{$}と<|言|い|>ってಃ뺬뤋ﰰ꼰기ꈰאּ줰됰㴰ೀクロノジェット・ドラゴンꦐ섡뀯ﰰ줰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 147:
+  ID: TUTO_147
+  Offset: 0x24D8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䠅腜筇␀㌀㌀㘀㘀　　紀가ﰰ줰鈰夰謰㰰簀鬀籒愀䬰褰簰㸀笀␀紀鈀㰰簀栀粈䈀褰輰簰㸀圀昰䐰謰渰Ȱਰ㰀簀ⴀ籎樀䬰簰㸀欀漰뜰ﰰ줰䰰樰䐰ꬰﰰ줰舰䈰謰儰椰洰Ȱ툰둾⒈それは、<|
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 148:
+  ID: TUTO_148
+  Offset: 0x25E6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 㸀洀Ȱူ쿳๬メイデン・オブ・グラジオラス땯睚崜谰䬰褰İ匰匰漰笰␀㌀㌀㘀㘀　　紀준쌰휰븰ﰰ笰␀紀Ȁ萰倠Ẁそして、ここが{$336600}ガーディアンサークル{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 149:
+  ID: TUTO_149
+  Offset: 0x1C2C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰欰㰰簀渀籿䨀簰㸀䬀谰弰笰␀紀笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰笰␀紀渀ਰ匀栰漰İ笰␀㌀㌀㘀㘀　　紀쬰쌰젰笰␀紀挀昰㰰簀 粊䐀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 150:
+  ID: TUTO_150
+  Offset: 0x2786
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 铳崨渰㰰簀혀籎笀䬰簰㸀渀따ﰰ꼰漰İਰ笀␀㌀㌀㘀㘀　　紀ꈰ갰ﰰ줰따ﰰ꼰笰␀紀Ȁ뼰䀘悕<|次|つぎ|>に、カードについての<|説明|せつめい|>をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 151:
+  ID: TUTO_151
+  Offset: 0x1D4A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ␀紀欀搰䐰昰İ㰰簀猀粊伀輰簰㸀圀估㰰簀가ຊ籦嬀搰脰䐰簰㸀夀謰洰Ȱ넰ࡁ⬣<|次|つぎ|>に、その<|他|ほか|>のフィールドの<|説明|せつめい|>をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 152:
+  ID: TUTO_152
+  Offset: 0x2284
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준ꐰ혰섰ꜰ쌰꼰笰␀紀萀İਰ笀␀㌀㌀㘀㘀　　紀쀀ﰰ렰섰ꜰ쌰꼰笰␀紀鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨このカード<|達|たち|>（デッキ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 153:
+  ID: TUTO_153
+  Offset: 0x1F9E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 鱡准匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀İ笰␀㌀㌀㘀㘀　　紀฀뀰ﰰ줰༰笰␀紀鈀㰰簀栀粈䈀褰輰簰㸀圀昰䐰謰渰Ȱ䒸᝚ここは{$336600}ダメージゾーン{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 154:
+  ID: TUTO_154
+  Offset: 0x293A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 渰㰰簀혀籎笀䬰簰㸀渀따ﰰ꼰漰İਰ笀␀㌀㌀㘀㘀　　紀ꈰ갰ﰰ줰따ﰰ꼰笰␀紀Ȁ뼰䀘悕<|次|つぎ|>に、カードについての<|説明|せつめい|>をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 155:
+  ID: TUTO_155
+  Offset: 0x2EC8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: <|味方|みかた|>を<|守|まも|>る、{$336600}ガーディアン{$}と
+<|呼|よ|>ばれるカードを<|置|お|>く<|場所|ばしょ|>なの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 156:
+  ID: TUTO_156
+  Offset: 0x2DA0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 퉺縢娰漰İ笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰笰␀紀渀㰰簀가ຊ籦嬀搰脰䐰簰㸀Ȁ娰ೝブラスウイング・ドラゴン崥地昰İ匰渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 157:
+  ID: TUTO_157
+  Offset: 0x1C90
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ﰰ줰渰ਰ笀␀㌀㌀㘀㘀　　紀฀터ﰰ༰笰␀紀蠀Ȱ倫ㄘダメージゾーンのカードが、
+{$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 158:
+  ID: TUTO_158
+  Offset: 0x214E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ʮ挺筟␀㌀㌀㘀㘀　　紀㰀簀଀㭎扵粗圀弰䰰脰錰簰㸀渀ꬰﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀뼰쌰섰笰␀紀夀謰栰İਰ笀␀㌀㌀㘀㘀　　紀꬀ﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 159:
+  ID: TUTO_159
+  Offset: 0x2284
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: <|時|とき|>{$}も、{$336600}<|防御|ぼうぎょ|>する<|時|とき|>{$}も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 160:
+  ID: TUTO_160
+  Offset: 0x2600
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ・グラジオラス땯睚崜谰䬰褰İ匰匰漰笰␀㌀㌀㘀㘀　　紀준쌰휰븰ﰰ笰␀紀Ȁ萰倠Ẁそして、ここが{$336600}ガーディアンサークル{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 161:
+  ID: TUTO_161
+  Offset: 0x24D8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ッキ）は{$336600}あなたと<|一緒|いっしょ|>に{$}
+{$336600}<|戦|たたか|>う<|仲間|なかま|>{$}よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 162:
+  ID: TUTO_162
+  Offset: 0x20D2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ꈰ栰地昰渰İᴰ箟㝎{$336600}ヴァンガードがダメージを<|受|う|>ける{$}と、
+ここにカードが<|置|お|>かれるわ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 163:
+  ID: TUTO_163
+  Offset: 0x2874
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀㌀㘀㘀　　紀㰀簀焀ⵜ籧萀縰田怰簰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 164:
+  ID: TUTO_164
+  Offset: 0x2A56
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}ヴァンガードサークル{$}と<|言|い|>ってಃ뺬뤋ﰰ꼰기ꈰאּ줰됰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 165:
+  ID: TUTO_165
+  Offset: 0x1CA4
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 紀฀터ﰰ༰笰␀紀蠀Ȱ倫ㄘダメージゾーンのカードが、
+{$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 166:
+  ID: TUTO_166
+  Offset: 0x2262
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준ꐰ혰섰ꜰ쌰꼰笰␀紀萀İਰ笀␀㌀㌀㘀㘀　　紀쀀ﰰ렰섰ꜰ쌰꼰笰␀紀鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ쏞剨
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 167:
+  ID: TUTO_167
+  Offset: 0x27F8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: {$336600}<|下画面|したがめん|>の<|印|しるし|>のついている<|部分|ぶぶん|>{$}を<|見|み|>て
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 168:
+  ID: TUTO_168
+  Offset: 0x2958
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: İਰ笀␀㌀㌀㘀㘀　　紀ꈰ갰ﰰ줰따ﰰ꼰笰␀紀Ȁ뼰䀘悕<|次|つぎ|>に、カードについての<|説明|せつめい|>をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 169:
+  ID: TUTO_169
+  Offset: 0x1E78
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 賋䩏㰽簀 豧籟唀䐰吰簰㸀欀İ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀笰␀㌀㌀㘀㘀　　紀฀뜰ﰰ줰༰笰␀紀Ȁਰ뜀ﰰ줰漰갰ﰰ윰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 170:
+  ID: TUTO_170
+  Offset: 0x24A2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䠅腜筇␀㌀㌀㘀㘀　　紀가ﰰ줰鈰夰謰㰰簀鬀籒愀䬰褰簰㸀笀␀紀鈀㰰簀栀粈䈀褰輰簰㸀圀昰䐰謰渰Ȱਰ㰀簀ⴀ籎樀䬰簰㸀欀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 171:
+  ID: TUTO_171
+  Offset: 0x2128
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ʮ挺筟␀㌀㌀㘀㘀　　紀㰀簀଀㭎扵粗圀弰䰰脰錰簰㸀渀ꬰﰰ줰㰰簀㬀콵籐䰀帰䘰簰㸀鈀뼰쌰섰笰␀紀夀謰栰İਰ笀␀㌀㌀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 172:
+  ID: TUTO_172
+  Offset: 0x28C6
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: |お|>いて、
+{$336600}<|相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 173:
+  ID: TUTO_173
+  Offset: 0x2620
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 漰笰␀㌀㌀㘀㘀　　紀준쌰휰븰ﰰ笰␀紀Ȁ萰倠Ẁそして、ここが{$336600}ガーディアンサークル{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 174:
+  ID: TUTO_174
+  Offset: 0x2700
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 줰䰰樰䐰ꬰﰰ줰舰䈰謰儰椰洰Ȱ툰둾⒈それは、<|他|ほか|>のチュートリアルで
+<|教|おし|>えていくね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 175:
+  ID: TUTO_175
+  Offset: 0x27E4
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: {$336600}<|下画面|したがめん|>の<|印|しるし|>のついている<|部分|ぶぶん|>{$}を
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 176:
+  ID: TUTO_176
+  Offset: 0x23DA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㍥ファイトは、この{$336600}プレイマット{$}の<|上|うえ|>で
+<|行|おこな|>われるの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 177:
+  ID: TUTO_177
+  Offset: 0x29F0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 煇늢뀇ﰰ뤰쨰ꐰ젰븰錭墺<|真|ま|>ん<|中|なか|>に{$336600}カード{$}があるでしょ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 178:
+  ID: TUTO_178
+  Offset: 0x2D6C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 퉺縢娰漰İ笰␀㌀㌀㘀㘀　　紀픀ꌰﰰ줰笰␀紀渀㰰簀가ຊ籦嬀搰脰䐰簰㸀Ȁ娰ೝブラスウイング・ドラゴ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 179:
+  ID: TUTO_179
+  Offset: 0x24FC
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: |一緒|いっしょ|>に{$}
+{$336600}<|戦|たたか|>う<|仲間|なかま|>{$}よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 180:
+  ID: TUTO_180
+  Offset: 0x2854
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協渰㰰簀㐀䁘籢瀀地蜰簰㸀漀笰␀㌀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 181:
+  ID: TUTO_181
+  Offset: 0x1CC8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ージゾーンのカードが、
+{$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 182:
+  ID: TUTO_182
+  Offset: 0x2974
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ﰰ줰따ﰰ꼰笰␀紀Ȁ뼰䀘悕<|次|つぎ|>に、カードについての<|説明|せつめい|>をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 183:
+  ID: TUTO_183
+  Offset: 0x29F0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: |したがめん|>の<|印|しるし|>のついている<|部分|ぶぶん|>{$}を<|見|み|>て
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 184:
+  ID: TUTO_184
+  Offset: 0x2B6E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 0}５０<|枚|まい|>ちょうど{$}
+じゃないといけないから、<|注意|ちゅうい|>してね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 185:
+  ID: TUTO_185
+  Offset: 0x2A34
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}ヴァンガードサークル{$}と<|言|い
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 186:
+  ID: TUTO_186
+  Offset: 0x235E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ¢氟䉅樰弰䰰㰰簀簀籔蠀簰㸀猀㰰簀切籑怀簰㸀圀弰ਰ笀␀㌀㌀㘀㘀　　紀㰀簀猀륔籥缀䬰弰簰㸀渀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 187:
+  ID: TUTO_187
+  Offset: 0x2D6C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: र媨䇕さっき<|教|おし|>えた<|山札|やまふだ|>にあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 188:
+  ID: TUTO_188
+  Offset: 0x29C8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 煇늢뀇ﰰ뤰쨰ꐰ젰븰錭墺<|真|ま|>ん<|中|なか|>に{$336600}カード{
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 189:
+  ID: TUTO_189
+  Offset: 0x2F0E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ン{$}と
+<|呼|よ|>ばれるカードを<|置|お|>く<|場所|ばしょ|>なの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 190:
+  ID: TUTO_190
+  Offset: 0x1E58
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 賋䩏㰽簀 豧籟唀䐰吰簰㸀欀İ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀笰␀㌀㌀㘀㘀　　紀฀뜰ﰰ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 191:
+  ID: TUTO_191
+  Offset: 0x2234
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준ꐰ혰섰ꜰ쌰꼰笰␀紀萀İਰ笀␀㌀㌀㘀㘀　　紀쀀ﰰ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 192:
+  ID: TUTO_192
+  Offset: 0x22C8
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: る<|時|とき|>{$}も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 193:
+  ID: TUTO_193
+  Offset: 0x1F44
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 鱡准匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀İ笰␀㌀㌀㘀㘀　　紀฀뀰ﰰ줰༰笰␀紀鈀㰰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 194:
+  ID: TUTO_194
+  Offset: 0x21A2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䈀褰輰簰㸀圀昰䐰謰渰Ȱ䒸᝚ここは{$336600}ダメージゾーン{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 195:
+  ID: TUTO_195
+  Offset: 0x28EA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: |相手|あいて|>に<|見|み|>せる{$}ための<|場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 196:
+  ID: TUTO_196
+  Offset: 0x1CE0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: {$336600}６<|枚|まい|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 197:
+  ID: TUTO_197
+  Offset: 0x234A
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ¢氟䉅樰弰䰰㰰簀簀籔蠀簰㸀猀㰰簀切籑怀簰㸀圀弰ਰ笀␀㌀㌀㘀㘀　　紀㰀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 198:
+  ID: TUTO_198
+  Offset: 0x23FC
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: }プレイマット{$}の<|上|うえ|>で
+<|行|おこな|>われるの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 199:
+  ID: TUTO_199
+  Offset: 0x2478
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䠅腜筇␀㌀㌀㘀㘀　　紀가ﰰ줰鈰夰謰㰰簀鬀籒愀䬰褰簰㸀笀␀紀鈀㰰簀栀粈
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 200:
+  ID: TUTO_200
+  Offset: 0x2836
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングルロード・ドラゴン늾Ꜩ協
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 201:
+  ID: TUTO_201
+  Offset: 0x27BA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: {$336600}<|下画面|したがめん|>の<|印|しるし|
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 202:
+  ID: TUTO_202
+  Offset: 0x2A0E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: し|>のついている<|部分|ぶぶん|>{$}を<|見|み|>て
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 203:
+  ID: TUTO_203
+  Offset: 0x1E40
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 賋䩏㰽簀 豧籟唀䐰吰簰㸀欀İ匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 204:
+  ID: TUTO_204
+  Offset: 0x22DE
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: }も
+<|高|たか|>いほうが<|有利|ゆうり|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 205:
+  ID: TUTO_205
+  Offset: 0x2A0E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+サークルは{$336600}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 206:
+  ID: TUTO_206
+  Offset: 0x2E52
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: こっちは、{$336600}Ｇデッキ{$}っていうの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 207:
+  ID: TUTO_207
+  Offset: 0x1DB2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: か|>のフィールドの<|説明|せつめい|>をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 208:
+  ID: TUTO_208
+  Offset: 0x221C
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준ꐰ혰섰ꜰ쌰꼰笰␀紀萀İਰ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 209:
+  ID: TUTO_209
+  Offset: 0x2464
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䠅腜筇␀㌀㌀㘀㘀　　紀가ﰰ줰鈰夰謰㰰簀鬀籒愀䬰褰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 210:
+  ID: TUTO_210
+  Offset: 0x21BC
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ᝚ここは{$336600}ダメージゾーン{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 211:
+  ID: TUTO_211
+  Offset: 0x2BBA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: これを{$336600}デッキ{$}っていうの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 212:
+  ID: TUTO_212
+  Offset: 0x1F26
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 鱡准匰渰㰰簀瀀坥籛夀䘰堰簰㸀漀İ笰␀㌀㌀㘀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 213:
+  ID: TUTO_213
+  Offset: 0x2128
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: と、
+ここにカードが<|置|お|>かれるわ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 214:
+  ID: TUTO_214
+  Offset: 0x2820
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 闷ﰰ똰ﰰ기ꈰאּ줰됰鴰꒹ඣジャングル
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 215:
+  ID: TUTO_215
+  Offset: 0x1CFE
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: い|>{$}になると<|負|ま|>けよ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 216:
+  ID: TUTO_216
+  Offset: 0x1FBA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ㉬媷㰭簀혀籎笀䬰簰㸀欀舰ꬰﰰ줰欰搰䐰昰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 217:
+  ID: TUTO_217
+  Offset: 0x2664
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 36600}ガーディアンサークル{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 218:
+  ID: TUTO_218
+  Offset: 0x2700
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 铳崨渰㰰簀혀籎笀䬰簰㸀渀따ﰰ꼰漰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 219:
+  ID: TUTO_219
+  Offset: 0x1BB0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 220:
+  ID: TUTO_220
+  Offset: 0x2DA0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: |>にあるカードの<|束|たば|>
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 221:
+  ID: TUTO_221
+  Offset: 0x2DD2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 36600}デッキ{$}っていうの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 222:
+  ID: TUTO_222
+  Offset: 0x2BBA
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: 쾦혽❝쟿쌰괰欰漰İ笰␀㌀㌀㘀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 223:
+  ID: TUTO_223
+  Offset: 0x2048
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ゾーン（Ｇゾーン）{$}
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 224:
+  ID: TUTO_224
+  Offset: 0x2202
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ⚟朼笷␀㌀㌀㘀㘀　　紀준
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 225:
+  ID: TUTO_225
+  Offset: 0x2A34
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: {$}を<|見|み|>て
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 226:
+  ID: TUTO_226
+  Offset: 0x20D2
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: ʮ挺筟␀㌀㌀㘀㘀　　紀
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 227:
+  ID: TUTO_227
+  Offset: 0x29F0
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: その<|下|した|>の
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 228:
+  ID: TUTO_228
+  Offset: 0x291E
+  Type: japanese_sentence
+  Priority: MEDIUM
+  Japanese Text: |場所|ばしょ|>よ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 229:
+  ID: TUTO_229
+  Offset: 0x00F0
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ᥨ⼮慤慴慢敳瘯彧祴数彳瑲⹳፨⼮捳楲瑰振牯
+  Japanese Part: 慤慴慢敳瘯彧祴数彳瑲
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 230:
+  ID: TUTO_230
+  Offset: 0x0118
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ⽥㍧⹤ቨ⼮捳楲瑰是杩瑨穟栮愵⠆ 砀
+  Japanese Part: 捳楲瑰是杩瑨穟栮愵
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 231:
+  ID: TUTO_231
+  Offset: 0x1BF4
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text:  鿢ﮟ ㄁䖹ᣖ昺杩瑨琯瑵⽯畴潴敟晦漮
+  Japanese Part: 昺杩瑨琯瑵
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 232:
+  ID: TUTO_232
+  Offset: 0x1CC0
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 倫ㄘダメージゾーンのカードが、
+{$33
+  Japanese Part: ダメージゾーンのカードが
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 233:
+  ID: TUTO_233
+  Offset: 0x1EAC
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 336600}フィールドから<|退却|た
+  Japanese Part: フィールドから
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 234:
+  ID: TUTO_234
+  Offset: 0x21CC
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 6600}ダメージゾーン{$}。㉬媷㰭簀
+  Japanese Part: ダメージゾーン
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 235:
+  ID: TUTO_235
+  Offset: 0x2D36
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ルブルーム・ドラゴン᝼쇎쨰괰뤰渰
+  Japanese Part: ルブルーム・ドラゴン
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 236:
+  ID: TUTO_236
+  Offset: 0x1DE4
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 。䦜⤗嵒谰帰谰渰笰␀㌀㌀㘀㘀　　紀픀ꌰ
+  Japanese Part: 嵒谰帰谰渰笰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 237:
+  ID: TUTO_237
+  Offset: 0x203C
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ネレーションゾーン（Ｇゾーン）{$}。
+  Japanese Part: ネレーションゾーン
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 238:
+  ID: TUTO_238
+  Offset: 0x2C1E
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: {$}があるでしょ？その<|下|した|
+  Japanese Part: があるでしょ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 239:
+  ID: TUTO_239
+  Offset: 0x3040
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ーンにあるカードの<|束|たば|>。
+  Japanese Part: ーンにあるカードの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 240:
+  ID: TUTO_240
+  Offset: 0x212C
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ここにカードが<|置|お|>かれる
+  Japanese Part: ここにカードが
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 241:
+  ID: TUTO_241
+  Offset: 0x23FC
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: }プレイマット{$}の<|上|うえ
+  Japanese Part: プレイマット
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 242:
+  ID: TUTO_242
+  Offset: 0x24EC
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 00}あなたと<|一緒|いっしょ|
+  Japanese Part: あなたと
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 243:
+  ID: TUTO_243
+  Offset: 0x271C
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: Ȱ툰둾⒈それは、<|他|ほか|>の
+  Japanese Part: それは
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 244:
+  ID: TUTO_244
+  Offset: 0x2CBE
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ット・ドラゴンꦐ섡뀯ﰰ줰漰笰␀㌀
+  Japanese Part: ット・ドラゴン
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 245:
+  ID: TUTO_245
+  Offset: 0x2DD6
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 600}デッキ{$}っていうの。쾦
+  Japanese Part: デッキ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 246:
+  ID: TUTO_246
+  Offset: 0x2104
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: がダメージを<|受|う|>ける{
+  Japanese Part: がダメージを
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 247:
+  ID: TUTO_247
+  Offset: 0x2C6E
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ードサークル{$}と<|言|い|
+  Japanese Part: ードサークル
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 248:
+  ID: TUTO_248
+  Offset: 0x0050
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 污栮猛牣灩⽴敦ⸯⸯ是杩瑨敟敶瑮
+  Japanese Part: 污栮猛牣灩
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 249:
+  ID: TUTO_249
+  Offset: 0x0078
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ⽴潣敲振牯⹥๨⼮捳楲瑰术湥栮⸕
+  Japanese Part: 潣敲振牯
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 250:
+  ID: TUTO_250
+  Offset: 0x00A0
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 敲是潬瑡栮⸓猯牣灩⽴潣敲猯摴栮
+  Japanese Part: 敲是潬瑡栮
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 251:
+  ID: TUTO_251
+  Offset: 0x1DBC
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ィールドの<|説明|せつめい|
+  Japanese Part: ィールドの
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 252:
+  ID: TUTO_252
+  Offset: 0x25DC
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 籢瀀地蜰簰㸀洀Ȱူ쿳๬メイデン
+  Japanese Part: 籢瀀地蜰簰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 253:
+  ID: TUTO_253
+  Offset: 0x2604
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ラジオラス땯睚崜谰䬰褰İ匰匰漰
+  Japanese Part: ラジオラス
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 254:
+  ID: TUTO_254
+  Offset: 0x26A4
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ﰰ줰鈰夰謰㰰簀鬀籒愀䬰褰簰㸀笀
+  Japanese Part: 鈰夰謰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 255:
+  ID: TUTO_255
+  Offset: 0x2744
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: トリアルで
+<|教|おし|>え
+  Japanese Part: トリアルで
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 256:
+  ID: TUTO_256
+  Offset: 0x29C6
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: >をするね。
+{$336600
+  Japanese Part: をするね
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 257:
+  ID: TUTO_257
+  Offset: 0x2A16
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ついている<|部分|ぶぶん|>
+  Japanese Part: ついている
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 258:
+  ID: TUTO_258
+  Offset: 0x2C96
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 기ꈰאּ줰됰㴰ೀクロノジェ
+  Japanese Part: クロノジェ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 259:
+  ID: TUTO_259
+  Offset: 0x2D0E
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ਰ㰀簀騀粉䨀簰簰㸀䠀昰䨰䐰昰洰
+  Japanese Part: 簀騀粉
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 260:
+  ID: TUTO_260
+  Offset: 0x0000
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ༀ猖牣灩⽴敦琯瑵彯〰⸱瑲୳戼
+  Japanese Part: 猖牣灩
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 261:
+  ID: TUTO_261
+  Offset: 0x09E0
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ĩ唀剢讒ãж䄾㘁㸄Aāᘎ਀䄁
+  Japanese Part: 唀剢讒
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 262:
+  ID: TUTO_262
+  Offset: 0x1ED4
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: いきゃく|>したカード{$}
+  Japanese Part: いきゃく
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 263:
+  ID: TUTO_263
+  Offset: 0x1F24
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 栀籣夀簰㸀昀弰ꬰﰰ줰笰␀紀鈀
+  Japanese Part: 栀籣夀簰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 264:
+  ID: TUTO_264
+  Offset: 0x1F74
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ムナイト ウバル・トゥトゥ뒗
+  Japanese Part: ムナイト
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 265:
+  ID: TUTO_265
+  Offset: 0x2014
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: |ばしょ|>は、
+{$336
+  Japanese Part: ばしょ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 266:
+  ID: TUTO_266
+  Offset: 0x2154
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 鱡准匰渰㰰簀瀀坥籛夀䘰堰簰㸀
+  Japanese Part: 鱡准匰渰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 267:
+  ID: TUTO_267
+  Offset: 0x267C
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: サークル{$}。䠅腜筇␀㌀㌀
+  Japanese Part: サークル
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 268:
+  ID: TUTO_268
+  Offset: 0x2E26
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ␀紀挀昰䐰䘰ਰ㰀簀礀╲籒栀估
+  Japanese Part: 紀挀昰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 269:
+  ID: TUTO_269
+  Offset: 0x2FC8
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 崥地昰İ匰渰㰰簀㐀䁘籢瀀地
+  Japanese Part: 崥地昰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 270:
+  ID: TUTO_270
+  Offset: 0x067C
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 獿欁翜sĀ刊匀ꍐĀ⍣额ǹ
+  Japanese Part: 獿欁翜
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 271:
+  ID: TUTO_271
+  Offset: 0x21A4
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 褰輰簰㸀圀昰䐰謰渰Ȱ䒸᝚
+  Japanese Part: 褰輰簰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 272:
+  ID: TUTO_272
+  Offset: 0x22BC
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: うぎょ|>する<|時|とき
+  Japanese Part: うぎょ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 273:
+  ID: TUTO_273
+  Offset: 0x2334
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 粗圀弰䰰脰錰簰㸀渀ꬰﰰ줰㰰
+  Japanese Part: 粗圀弰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 274:
+  ID: TUTO_274
+  Offset: 0x249C
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 鈀地弰㰰簀鬀粖唀䐰簰㸀欀ᰰ
+  Japanese Part: 鈀地弰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 275:
+  ID: TUTO_275
+  Offset: 0x2926
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: ばしょ|>よ。铳崨渰㰰簀
+  Japanese Part: ばしょ
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 276:
+  ID: TUTO_276
+  Offset: 0x2BA6
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: いから、<|注意|ちゅうい
+  Japanese Part: いから
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 277:
+  ID: TUTO_277
+  Offset: 0x2F64
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: 縢娰漰İ笰␀㌀㌀㘀㘀　　紀
+  Japanese Part: 縢娰漰
+  Translation: [TO BE TRANSLATED]
+
+ENTRY 278:
+  ID: TUTO_278
+  Offset: 0x3068
+  Type: japanese_text
+  Priority: LOW
+  Japanese Text: っちは、{$336600}
+  Japanese Part: っちは
+  Translation: [TO BE TRANSLATED]
+

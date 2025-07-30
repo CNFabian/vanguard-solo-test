@@ -1,0 +1,1380 @@
+Japanese Text Patterns from romfs/title/ci.rtz
+==================================================
+
+Offset: 0x04ED
+Pattern: null_terminated_utf16
+Text: 渗Ì朕枳ꌀ磇½연퐀ǅ연Āਁ
+偓挂Ὤ왼뤀멏ù嶓漭ﾢ´ങ ć༠ߟ܀ﰁŞȊ੓匀
+偓嬃ਁ⠀ᙕ਄㨅㩟ഀ旬᭱Ж䄄Ж̶ଔ
+免ം旬᭱Ж䄄ЖĖ̶ଔĊ免ᘂ䠄嵕ￄᙜਁ䨂弶‍瞾ਖ́ଔĊ免ᐂ਋䴀ᡑ
+Raw bytes: 176ecc001567b36700a3c778bd00d4edf0c500d4edf0c501d4edf0c50001010a16000a005350140002636c1f7cc600b94fbaf900935d2d6f00eaa2ffb40091e9190d00200701200fdf07000701fc5e010a02530a00530a0053501200035b010a002804005516040a053a5f3a000dec65711b16040441160416003603140b0a004d511a00020dec65711b16040441160416013603140b0a014d511a0002160448555dc4ff5c16010a024a365f14000d20be77160a0103140b0a014d511a0002140b0a004d5118
+
+Offset: 0x053C
+Pattern: null_terminated_utf16
+Text: ć廼ਁ匂
+੓匀ቐ̀ś
+Ш唀ЖԊ强:煥ᘛЄᙁᘄ㘀ᐃ਋䴀ᩑȀ煥ᘛЄᙁᘄ㘁ᐃ਋䴁ᩑȀЖ啈쑝峿ĖȊ㙊ᑟഀ븠ᙷĊᐃ਋䴁ᩑȀଔ
+免ᘀਁ䨁強ଔĊ免ᘀਁ䨁弶
+੓匞ፐȀ൝਀匂Ḋ偓嬂ᘂ匂ŐĀ
+Raw bytes: 012007000701fc5e010a02530a00530a0053501200035b010a002804005516040a053a5f3a000dec65711b16040441160416003603140b0a004d511a00020dec65711b16040441160416013603140b0a014d511a0002160448555dc4ff5c16010a024a365f14000d20be77160a0103140b0a014d511a0002140b0a004d5118000016010a014a375f0c00140b0a014d5118000016010a014a365f10000a00530a1e53501300025d0d000a02530a1e53501300025b02160253500100010c00
+
+Offset: 0x0511
+Pattern: null_terminated_utf16
+Text: 퐀ǅ연Āਁ
+偓挂Ὤ왼뤀멏ù嶓漭ﾢ´ങ ć༠ߟ܀ﰁŞȊ੓匀
+偓嬃ਁ⠀ᙕ਄㨅㩟ഀ旬᭱Ж䄄Ж̶ଔ
+免ം旬᭱Ж䄄ЖĖ̶ଔĊ免ᘂ䠄嵕ￄᙜਁ䨂弶‍瞾ਖ́ଔĊ免ᐂ਋䴀ᡑ
+Raw bytes: 00d4edf0c501d4edf0c50001010a16000a005350140002636c1f7cc600b94fbaf900935d2d6f00eaa2ffb40091e9190d00200701200fdf07000701fc5e010a02530a00530a0053501200035b010a002804005516040a053a5f3a000dec65711b16040441160416003603140b0a004d511a00020dec65711b16040441160416013603140b0a014d511a0002160448555dc4ff5c16010a024a365f14000d20be77160a0103140b0a014d511a0002140b0a004d5118
+
+Offset: 0x054E
+Pattern: null_terminated_utf16
+Text: ਁ匂
+੓匀ቐ̀ś
+Ш唀ЖԊ强:煥ᘛЄᙁᘄ㘀ᐃ਋䴀ᩑȀ煥ᘛЄᙁᘄ㘁ᐃ਋䴁ᩑȀЖ啈쑝峿ĖȊ㙊ᑟഀ븠ᙷĊᐃ਋䴁ᩑȀଔ
+免ᘀਁ䨁強ଔĊ免ᘀਁ䨁弶
+੓匞ፐȀ൝਀匂Ḋ偓嬂ᘂ匂ŐĀ
+Raw bytes: 010a02530a00530a0053501200035b010a002804005516040a053a5f3a000dec65711b16040441160416003603140b0a004d511a00020dec65711b16040441160416013603140b0a014d511a0002160448555dc4ff5c16010a024a365f14000d20be77160a0103140b0a014d511a0002140b0a004d5118000016010a014a375f0c00140b0a014d5118000016010a014a365f10000a00530a1e53501300025d0d000a02530a1e53501300025b02160253500100010c00
+
+Offset: 0x0552
+Pattern: null_terminated_utf16
+Text: 匂
+੓匀ቐ̀ś
+Ш唀ЖԊ强:煥ᘛЄᙁᘄ㘀ᐃ਋䴀ᩑȀ煥ᘛЄᙁᘄ㘁ᐃ਋䴁ᩑȀЖ啈쑝峿ĖȊ㙊ᑟഀ븠ᙷĊᐃ਋䴁ᩑȀଔ
+免ᘀਁ䨁強ଔĊ免ᘀਁ䨁弶
+੓匞ፐȀ൝਀匂Ḋ偓嬂ᘂ匂ŐĀ
+Raw bytes: 02530a00530a0053501200035b010a002804005516040a053a5f3a000dec65711b16040441160416003603140b0a004d511a00020dec65711b16040441160416013603140b0a014d511a0002160448555dc4ff5c16010a024a365f14000d20be77160a0103140b0a014d511a0002140b0a004d5118000016010a014a375f0c00140b0a014d5118000016010a014a365f10000a00530a1e53501300025d0d000a02530a1e53501300025b02160253500100010c00
+
+Offset: 0x06C8
+Pattern: null_terminated_utf16
+Text: 偕✀੕匀๐Āȧ唀
+偓✁੕匀౐Ā✃੕匀൐Ā✃੕匁๐Āا唀Ċ偓✁੕匁౐Ā✃੕匁൐Ā✃	偕䰀ݟ倀ഀ띢苢ᕐĀਞ偕倀䰀ݟ倀਀堂ଞ孕ਁ⠀
+Raw bytes: 5550100000270100550a0053500e0001270200550a0053500f0001270300550a0053500c000103270400550a0053500d000103270500550a0153500e0001270600550a0153500f0001270700550a0153500c000103270800550a0153500d00010327090055500500004c5f0700500200000d62b7e282501500011e0a5550040000500500004c5f0700500200000a02581c001e0b555b010a0028
+
+Offset: 0x06E8
+Pattern: utf16le_japanese
+Text: 匀Ā✃匀Ā✃匁๐Āا唀Ċ偓✁匁Ā✃匁Ā✃偕䰀ݟ倀ഀ띢苢ᕐĀਞ偕倀䰀ݟ倀堂ଞ孕ਁ⠀ᙕ᐀儋㨀偟ᘀ㘀᭟圀ਔ䀊Ċ匼ᙙȀଔ唣ᥝ圀ਔ耋㰁奓ᐂᘋ⌀ౕ㼀半ଔ
+Raw bytes: 0053500c000103270400550a0053500d000103270500550a0153500e0001270600550a0153500f0001270700550a0153500c000103270800550a0153500d00010327090055500500004c5f0700500200000d62b7e282501500011e0a5550040000500500004c5f0700500200000a02581c001e0b555b010a00280000551600140b510300003a5f500016000a00365f1b00571c00140a0a400a013c5359160002140b160023555d1900571c00140a0b80000a013c5359160002140b160023550c0000003f4a53140b
+
+Offset: 0x061B
+Pattern: null_terminated_utf16
+Text: 唪Ȋ㰐㱀㰠	㰀	Ȁ㰀偓
+弁ᅝᘀᘅ㤄ٟ崀뽝᛿ਁ䨁弶
+੓匀Ḋ偓崃Ȋ੓匀Ḋ偓嬃ਁ⠀ᙕᐆ儋㨀፟᐀ᘋ䴆ᝑ
+Raw bytes: 2a550a020b00103c0b00403c0b00203c09008000003c09000002003c53500a00015f06005d110016051604395f06005d06005dbfff16010a014a365f13000a00530a00530a1e53501200035d10000a02530a00530a1e53501200035b010a00280600551606140b510300003a5f1300140b16064d5117
+
+Offset: 0x06CD
+Pattern: null_terminated_utf16
+Text: ħ唀
+偓✁੕匀ཐĀ̧唀
+偓́Ч唀
+偓́ԧ唀Ċ偓✁੕匁ཐĀܧ唀Ċ偓́ࠧ唀Ċ偓́ध唀Ր
+Raw bytes: 270100550a0053500e0001270200550a0053500f0001270300550a0053500c000103270400550a0053500d000103270500550a0153500e0001270600550a0153500f0001270700550a0153500c000103270800550a0153500d000103270900555005
+
+Offset: 0x07AA
+Pattern: null_terminated_utf16
+Text: 㼀半ଔ免ᘁ䠀嵕ﾪ停਀ȁ&唀
+੓䨁੓匼됋匀᭐ЀȊ੓匄㰊୓´偓਄匁̊੓匼됋匀᭐ЀĊ੟倀崀￷Ѩ
+Raw bytes: 003f4a53140b16004d51190001160048555daaff5c500200000a0102260000550a00530a014a530a3c530bb40053501b00040a02530a04530a3c530bb40053501b00040a01530a03530a3c530bb40053501b00040a015f0a00500200005df7ff6804
+
+Offset: 0x07AE
+Pattern: null_terminated_utf16
+Text: 㼀半ଔ免ᘁ䠀嵕ﾪ停਀ȁ&唀
+੓䨁੓匼됋匀᭐ЀȊ੓匄㰊୓´偓਄匁̊੓匼됋匀᭐ЀĊ੟倀崀￷Ѩ
+Raw bytes: 003f4a53140b16004d51190001160048555daaff5c500200000a0102260000550a00530a014a530a3c530bb40053501b00040a02530a04530a3c530bb40053501b00040a01530a03530a3c530bb40053501b00040a015f0a00500200005df7ff6804
+
+Offset: 0x0634
+Pattern: null_terminated_utf16
+Text: 匼੐Āٟ崀ԖЖ弹ٝ崀﾿ĖĊ㙊፟਀匀
+੓匞ቐ̀ၝ਀匂
+੓匞ቐ̀ś
+ب唀ؖଔ͑
+Raw bytes: 02003c53500a00015f06005d110016051604395f06005d06005dbfff16010a014a365f13000a00530a00530a1e53501200035d10000a02530a00530a1e53501200035b010a00280600551606140b5103
+
+Offset: 0x0464
+Pattern: utf16le_japanese
+Text: 言©￠뷎尀㠢ᰀ鋭힚}슬༳촀ᘋD㽭帖႓!轙綃猀⍽p뤣틤⨀Ⱞ3⸪㌬⨁Ⱞ3ā匁偓
+Raw bytes: 0000008a530aa90000000000e0ffcebd00000000005c22388a000000001ced929ad700e583ee7d00acc2330f00cd0b1644006d3f165e00ed93102100598f837d00737d23700023b9e4d2002a2e2c33002a2e2c33012a2e2c330001010b0a015316005350
+
+Offset: 0x0658
+Pattern: utf16le_japanese
+Text: 匀匞ቐ̀ၝ匂匞ቐ̀śب唀ؖଔ͑强ଔؖ免ᘀ䠆嵕ቢ扷,ā曼ਁȀ&唀ِĜ偕ᰀ唂ࡐ
+Raw bytes: 000a00530a00530a1e53501200035d10000a02530a00530a1e53501200035b010a00280600551606140b510300003a5f1300140b16064d51170000160648555de7ff621277622c000101fc66010a000226000055500600001c0155500700001c02555008
+
+Offset: 0x0000
+Pattern: shift_jis_japanese
+Text: src/title/ci.rts<builit-in><繧ｳ繝槭Φ繝峨Λ繧
+Raw bytes: 000a107372632f7469746c652f63692e7274730b3c6275696c69742d696e3e173ce382b3e3839ee383b3e38389e383a9e382
+
+Offset: 0x06DA
+Pattern: shift_jis_japanese
+Text: USP'USP'USP'USP'USP'USP'USP'UPL_Pbｷ竄
+Raw bytes: 00550a0053500f0001270300550a0053500c000103270400550a0053500d000103270500550a0153500e0001270600550a0153500f0001270700550a0153500c000103270800550a0153500d00010327090055500500004c5f0700500200000d62b7e282
+
+Offset: 0x0306
+Pattern: utf16le_japanese
+Text: 䰎喢/질㒉㨀}Ȁ縆帣늩麾場ᵷ◺暺鯤앨挄랭೮칉넕凚℔囼넉凚툔ࢣ노凚먔퓙`
+Raw bytes: 00000e4c7eed000000000031a2552f0000000000c8c9893400000000003a32e77d0000000002067e235ea9b2be9e3458771dfa25ba66e49b68c5000000000463f3f3adb7ee0ca1f649ce15b1da511421fc5609b1da5114d2a30878b1da5114bad9d46000
+
+Offset: 0x0764
+Pattern: null_terminated_utf16
+Text: ᙕ᐀儋㨀偟ᘀ਀㘀᭟圀ਔ䀊Ċ匼ᙙȀଔ唣ᥝ圀ਔ耋਀㰁奓ᐂᘋ⌀ౕ
+Raw bytes: 551600140b510300003a5f500016000a00365f1b00571c00140a0a400a013c5359160002140b160023555d1900571c00140a0b80000a013c5359160002140b160023550c
+
+Offset: 0x0426
+Pattern: null_terminated_utf16
+Text: ࠀ汏켴ᑑᝐ⩳ᑑ㙫늩麾锩ᑑ㸊⧪늩麾骁Გ底즥칺㘑䰎鿀꼘䰎癹₍
+Raw bytes: 00084f6c34cf51145017732a51146b36a9b2be9e299551140a3eea29a9b2be9e819a921c955ea5c97ace11360e4c7eedc09f18af0e4c7eed79768d20
+
+Offset: 0x0428
+Pattern: null_terminated_utf16
+Text: ࠀ汏켴ᑑᝐ⩳ᑑ㙫늩麾锩ᑑ㸊⧪늩麾骁Გ底즥칺㘑䰎鿀꼘䰎癹₍
+Raw bytes: 00084f6c34cf51145017732a51146b36a9b2be9e299551140a3eea29a9b2be9e819a921c955ea5c97ace11360e4c7eedc09f18af0e4c7eed79768d20
+
+Offset: 0x07C9
+Pattern: null_terminated_utf16
+Text: ੕匀Ċ半㰊୓´偓਄匂Њ੓匼됋匀᭐ЀĊ੓匃㰊୓´偓਄弁
+ɐ
+Raw bytes: 550a00530a014a530a3c530bb40053501b00040a02530a04530a3c530bb40053501b00040a01530a03530a3c530bb40053501b00040a015f0a005002
+
+Offset: 0x05C7
+Pattern: null_terminated_utf16
+Text: ĖĊ㙊ၟ਀匀Ḋ偓崂Ȋ੓匞ፐȀɛȖ偓ఁ
+Raw bytes: 16010a014a365f10000a00530a1e53501300025d0d000a02530a1e53501300025b02160253500100010c
+
+Offset: 0x05C9
+Pattern: null_terminated_utf16
+Text: ĖĊ㙊ၟ਀匀Ḋ偓崂Ȋ੓匞ፐȀɛȖ偓ఁ
+Raw bytes: 16010a014a365f10000a00530a1e53501300025d0d000a02530a1e53501300025b02160253500100010c
+
+Offset: 0x0686
+Pattern: null_terminated_utf16
+Text: 强ଔؖ免ᘀ䠆嵕￧ቢ扷,ā曼ਁȀ&唀ِ
+Raw bytes: 3a5f1300140b16064d51170000160648555de7ff621277622c000101fc66010a0002260000555006
+
+Offset: 0x055E
+Pattern: utf16le_japanese
+Text: ᘛЄᙁᘄ㘀ᐃ䴀ᩑȀ煥ᘛЄᙁᘄ㘁ᐃ䴁
+Raw bytes: 1b16040441160416003603140b0a004d511a00020dec65711b16040441160416013603140b0a014d
+
+Offset: 0x04E8
+Pattern: utf16le_japanese
+Text: Nᜐ챮ᔀ덧g잣뵸퐀Å연퐁Åāᘊ匀
+Raw bytes: 4e0010176ecc001567b36700a3c778bd00d4edf0c500d4edf0c501d4edf0c50001010a16000a0053
+
+Offset: 0x059A
+Pattern: utf16le_japanese
+Text: ഀ븠ᙷĊᐃ䴁ᩑȀଔ免ᘀਁ䨁強ଔĊ
+Raw bytes: 000d20be77160a0103140b0a014d511a0002140b0a004d5118000016010a014a375f0c00140b0a01
+
+Offset: 0x08A1
+Pattern: shift_jis_japanese
+Text: eqlogobｷ竄:title/
+Raw bytes: 65711b046c6f676f62b7e2820d3a7469746c652f
+
+Offset: 0x0423
+Pattern: shift_jis_japanese
+Text: ﾚQPs*ｱﾚQ折k6ｩｲｾ橸
+Raw bytes: da51145017732ab1da511490dc6b36a9b2be9eef
+
+Offset: 0x034B
+Pattern: null_terminated_utf16
+Text: Ѐ귳ꄌ䧶ᗎᑑﰡॖᑑꏒ砈ᑑ惔
+Raw bytes: 000463f3f3adb7ee0ca1f649ce15511421fc56095114d2a308785114d460
+
+Offset: 0x034D
+Pattern: null_terminated_utf16
+Text: Ѐ귳ꄌ䧶ᗎᑑﰡॖᑑꏒ砈ᑑ惔
+Raw bytes: 000463f3f3adb7ee0ca1f649ce15511421fc56095114d2a308785114d460
+
+Offset: 0x0014
+Pattern: utf16le_japanese
+Text: 戼極楬湩뎂菣뎃菣ꦃ苣뎃ᐾ⼮捳
+Raw bytes: 3c6275696c69742d696e3e173ce382b3e3839ee383b3e38389e383a9e382a4e383b33e142e2f7363
+
+Offset: 0x05C2
+Pattern: utf16le_japanese
+Text: 免ᘀਁ䨁弶匞ፐȀ൝匂Ḋ偓嬂ᘂ
+Raw bytes: 4d5118000016010a014a365f10000a00530a1e53501300025d0d000a02530a1e53501300025b0216
+
+Offset: 0x0630
+Pattern: utf16le_japanese
+Text: ़匼Āٟ崀ԖЖ弹ٝ崀ĖĊ㙊፟
+Raw bytes: 3c09000002003c53500a00015f06005d110016051604395f06005d06005dbfff16010a014a365f13
+
+Offset: 0x07DA
+Pattern: utf16le_japanese
+Text: ЀȊ匄㰊´偓匁̊匼됋匀᭐ЀĊ
+Raw bytes: 00040a02530a04530a3c530bb40053501b00040a01530a03530a3c530bb40053501b00040a015f0a
+
+Offset: 0x0441
+Pattern: shift_jis_japanese
+Text: )ｩｲｾ栫囃豹･ﾉzﾎ6L~
+Raw bytes: 29a9b2be9e819a921c955ea5c97ace11360e4c7e
+
+Offset: 0x0614
+Pattern: null_terminated_utf16
+Text: ᘀ倅⨀੕ଂက଼䀀଼ ़耀
+Raw bytes: 001605501100002a550a020b00103c0b00403c0b00203c090080
+
+Offset: 0x0618
+Pattern: null_terminated_utf16
+Text: ᘀ倅⨀੕ଂက଼䀀଼ ़耀
+Raw bytes: 001605501100002a550a020b00103c0b00403c0b00203c090080
+
+Offset: 0x035C
+Pattern: shift_jis_japanese
+Text: ﾒ｣xｱﾚQｺﾙﾔ`胆
+Raw bytes: 14d2a30878b1da5114bad9d4600000000000925f
+
+Offset: 0x032A
+Pattern: null_terminated_utf16
+Text: Ȁ縆帣늩麾場ᵷ◺暺鯤앨
+Raw bytes: 0002067e235ea9b2be9e3458771dfa25ba66e49b68c5
+
+Offset: 0x032C
+Pattern: null_terminated_utf16
+Text: Ȁ縆帣늩麾場ᵷ◺暺鯤앨
+Raw bytes: 0002067e235ea9b2be9e3458771dfa25ba66e49b68c5
+
+Offset: 0x03F1
+Pattern: null_terminated_utf16
+Text: Ȁ᷐ꅻ䰎⊉鵶䰎昏
+Raw bytes: 0002d01d7ba10e4c7eed8922769d0e4c7eedd9f70f66
+
+Offset: 0x03F3
+Pattern: null_terminated_utf16
+Text: Ȁ᷐ꅻ䰎⊉鵶䰎昏
+Raw bytes: 0002d01d7ba10e4c7eed8922769d0e4c7eedd9f70f66
+
+Offset: 0x0693
+Pattern: null_terminated_utf16
+Text: ؖ啈拿眒ⱢĀﰁŦ
+☂
+Raw bytes: 160648555de7ff621277622c000101fc66010a000226
+
+Offset: 0x0755
+Pattern: null_terminated_utf16
+Text: Ȋ᱘Ḁ唋ś
+(唀ଔ͑
+Raw bytes: 0a02581c001e0b555b010a00280000551600140b5103
+
+Offset: 0x07AB
+Pattern: null_terminated_utf16
+Text: 䨿ᑓᘋ䴀ᥑĀ啈꩝峿ɐ
+Raw bytes: 3f4a53140b16004d51190001160048555daaff5c5002
+
+Offset: 0x07B1
+Pattern: null_terminated_utf16
+Text: 䨿ᑓᘋ䴀ᥑĀ啈꩝峿ɐ
+Raw bytes: 3f4a53140b16004d51190001160048555daaff5c5002
+
+Offset: 0x003C
+Pattern: utf16le_japanese
+Text: 楲瑰振牯⽥潣敲栮⸎猯
+Raw bytes: 726970742f636f72652f636f72652e680e2e2f73
+
+Offset: 0x043C
+Pattern: utf16le_japanese
+Text: ᑑ㸊⧪늩麾骁Გ底즥칺
+Raw bytes: 51140a3eea29a9b2be9e819a921c955ea5c97ace
+
+Offset: 0x0510
+Pattern: utf16le_japanese
+Text: ᑐȀ汣簟Æ侹了錀ⵝo
+Raw bytes: 50140002636c1f7cc600b94fbaf900935d2d6f00
+
+Offset: 0x0586
+Pattern: utf16le_japanese
+Text: ᩑȀЖ啈쑝峿ĖȊ㙊ᑟ
+Raw bytes: 511a0002160448555dc4ff5c16010a024a365f14
+
+Offset: 0x037E
+Pattern: null_terminated_utf16
+Text: 頂ᔰ녷凚눔ꠋ﫛먥ݦ讚
+Raw bytes: 0298301577b1da5114b20ba8dbfa25ba66079a8b0900
+
+Offset: 0x0380
+Pattern: null_terminated_utf16
+Text: 頂ᔰ녷凚눔ꠋ﫛먥ݦ讚
+Raw bytes: 0298301577b1da5114b20ba8dbfa25ba66079a8b0900
+
+Offset: 0x0050
+Pattern: utf16le_japanese
+Text: 牣灩⽴敧ᕨ⼮捳楲瑰
+Raw bytes: 63726970742f67656e2e68152e2f736372697074
+
+Offset: 0x0064
+Pattern: utf16le_japanese
+Text: 振牯⽥汦慯፨⼮捳楲
+Raw bytes: 2f636f72652f666c6f61742e68132e2f73637269
+
+Offset: 0x0078
+Pattern: utf16le_japanese
+Text: 瑰振牯⽥瑳፨⼮捳楲
+Raw bytes: 70742f636f72652f7374642e68132e2f73637269
+
+Offset: 0x008C
+Pattern: utf16le_japanese
+Text: 瑰振牯⽥㉧፨⼮捳楲
+Raw bytes: 70742f636f72652f6732642e68132e2f73637269
+
+Offset: 0x00A0
+Pattern: utf16le_japanese
+Text: 瑰振牯⽥㍧ᅨ⼮捳楲
+Raw bytes: 70742f636f72652f6733642e68112e2f73637269
+
+Offset: 0x089E
+Pattern: utf16le_japanese
+Text: ㍯旬᭱氄杯扯ං琺瑩
+Raw bytes: 6f33ec65711b046c6f676f62b7e2820d3a746974
+
+Offset: 0x0379
+Pattern: null_terminated_utf16
+Text: Ȁ゘眕ᑑல◺暺騇ঋ
+Raw bytes: 0002983015775114b20bfa25ba66079a8b09
+
+Offset: 0x037B
+Pattern: null_terminated_utf16
+Text: Ȁ゘眕ᑑல◺暺騇ঋ
+Raw bytes: 0002983015775114b20bfa25ba66079a8b09
+
+Offset: 0x0000
+Pattern: utf16le_japanese
+Text: 猐捲琯瑩敬振瑲୳
+Raw bytes: 000a107372632f7469746c652f63692e7274730b
+
+Offset: 0x00B4
+Pattern: utf16le_japanese
+Text: 瑰稯江獩とቡ۴&
+Raw bytes: 70742f7a5f6c6973742e68306112f40626000000
+
+Offset: 0x04C8
+Pattern: utf16le_japanese
+Text: 挂ෲ熝턀䮸毩꿊묀
+Raw bytes: 09000263f20d9d7100d1b84b0e00e96bcaaf00bb
+
+Offset: 0x054A
+Pattern: utf16le_japanese
+Text: śШ唀ЖԊ强:煥
+Raw bytes: 5b010a002804005516040a053a5f3a000dec6571
+
+Offset: 0x0876
+Pattern: utf16le_japanese
+Text: 镲ௗᴀ뜚ࣘ⨀異ә
+Raw bytes: 7295d70b0000001d1ab7d8080000002a7075d904
+
+Offset: 0x0032
+Pattern: shift_jis_japanese
+Text: ､繝ｳ>./sc
+Raw bytes: a4e383b33e142e2f7363
+
+Offset: 0x017A
+Pattern: shift_jis_japanese
+Text: ﾐmｭﾙs:2轗
+Raw bytes: d06d0a000000add91a730b0000003a32e77d1900
+
+Offset: 0x01B2
+Pattern: shift_jis_japanese
+Text: ｡b_G｢慨ｩ-
+Raw bytes: 0ca10f000000625f47a2100000008a530aa92d00
+
+Offset: 0x02CB
+Pattern: shift_jis_japanese
+Text: ｡b_G｢ﾎC匈
+Raw bytes: 0ca10000000000625f47a20000000000ce4399b1
+
+Offset: 0x040E
+Pattern: shift_jis_japanese
+Text: 2能hｯOl4ﾏ
+Raw bytes: 32100000000000945c68af00000000084f6c34cf
+
+Offset: 0x087D
+Pattern: shift_jis_japanese
+Text: ｷﾘ*puﾙ筺漲
+Raw bytes: 1d1ab7d8080000002a7075d904000000e29f9ffb
+
+Offset: 0x0100
+Pattern: utf16le_japanese
+Text: 㢹ᮓ癹₍,閷⠉
+Raw bytes: b938931b0400000079768d202c000000b7950928
+
+Offset: 0x0128
+Pattern: utf16le_japanese
+Text: 질㒉龆償!㚒喁
+Raw bytes: c8c9893418000000869f1f512100000092368155
+
+Offset: 0x0188
+Pattern: utf16le_japanese
+Text: ㈺緧≜訸/粘驹
+Raw bytes: 3a32e77d190000005c22388a2f000000987c799a
+
+Offset: 0x01B8
+Pattern: utf16le_japanese
+Text: 形ꉇ厊ꤊ-岔꽨
+Raw bytes: 625f47a2100000008a530aa92d000000945c68af
+
+Offset: 0x01E0
+Pattern: utf16le_japanese
+Text: 㢶뵤￠뷎.徒앣
+Raw bytes: b63864bd1f000000e0ffcebd2e000000925f63c5
+
+Offset: 0x0232
+Pattern: utf16le_japanese
+Text: "㆒ﭪ(0繸߮
+Raw bytes: 8ded2200000092316afb280000003000787eee07
+
+Offset: 0x036C
+Pattern: utf16le_japanese
+Text: 徒앣頂ᔰ녷凚눔
+Raw bytes: 0000925f63c5000000000298301577b1da5114b2
+
+Offset: 0x03E8
+Pattern: utf16le_japanese
+Text: ㆒ﭪ퀂笝ມ繌觭
+Raw bytes: 000092316afb0000000002d01d7ba10e4c7eed89
+
+Offset: 0x040C
+Pattern: utf16le_japanese
+Text: 鈫ဲ鐀桜¯ࠀ汏
+Raw bytes: 2b9232100000000000945c68af00000000084f6c
+
+Offset: 0x0450
+Pattern: utf16le_japanese
+Text: 㘑䰎鿀꼘䰎癹₍
+Raw bytes: 11360e4c7eedc09f18af0e4c7eed79768d200000
+
+Offset: 0x0536
+Pattern: utf16le_japanese
+Text: ć廼ਁ匂匀ቐ̀
+Raw bytes: 07000701fc5e010a02530a00530a005350120003
+
+Offset: 0x05EA
+Pattern: utf16le_japanese
+Text: 匂ŐĀᘀ̃ు䉰
+Raw bytes: 0253500100010c00000000160303410c00007042
+
+Offset: 0x05FE
+Pattern: utf16le_japanese
+Text: ⡄ౕԨ唀Ċ䉟倀
+Raw bytes: 44280400550c00000000280500550a015f420050
+
+Offset: 0x0612
+Pattern: utf16le_japanese
+Text: ᘀ倅⨀ଂက଼䀀
+Raw bytes: 0000001605501100002a550a020b00103c0b0040
+
+Offset: 0x06C8
+Pattern: utf16le_japanese
+Text: 偕✀匀๐Āȧ唀
+Raw bytes: 5550100000270100550a0053500e000127020055
+
+Offset: 0x07B2
+Pattern: utf16le_japanese
+Text: 免ᘁ䠀嵕ﾪ停ȁ
+Raw bytes: 4d51190001160048555daaff5c500200000a0102
+
+Offset: 0x07C6
+Pattern: utf16le_japanese
+Text: &唀䨁匼됋匀᭐
+Raw bytes: 260000550a00530a014a530a3c530bb40053501b
+
+Offset: 0x0846
+Pattern: utf16le_japanese
+Text: 絽Ք뼗ॕ鈀먾ɴ
+Raw bytes: 7d7d5405000000e817bf5509000000923eba7402
+
+Offset: 0x088A
+Pattern: utf16le_japanese
+Text: 龟ǻ̀븠ᙷ氅杯
+Raw bytes: 000000e29f9ffb010000000320be7716056c6f67
+
+Offset: 0x04A7
+Pattern: shift_jis_japanese
+Text: #p#ｹ萪*.
+Raw bytes: 23700023b9e4d2002a2e
+
+Offset: 0x0739
+Pattern: null_terminated_utf16
+Text: 戍傂ḁ唊ѐ
+Raw bytes: 0d62b7e282501500011e0a555004
+
+Offset: 0x073D
+Pattern: null_terminated_utf16
+Text: 戍傂ḁ唊ѐ
+Raw bytes: 0d62b7e282501500011e0a555004
+
+Offset: 0x01EA
+Pattern: shift_jis_japanese
+Text: ﾎｽ.胆cﾅ
+Raw bytes: cebd2e000000925f63c5
+
+Offset: 0x01F4
+Pattern: shift_jis_japanese
+Text: 茆hﾅ豹･ﾉ
+Raw bytes: 1c000000e49b68c51a000000955ea5c913000000
+
+Offset: 0x02DF
+Pattern: shift_jis_japanese
+Text: ﾒzｹ豹･ﾉ
+Raw bytes: 0000000000d2057ab90000000000955ea5c90000
+
+Offset: 0x0339
+Pattern: shift_jis_japanese
+Text: %ｺf茆hﾅ
+Raw bytes: 25ba66e49b68c5000000
+
+Offset: 0x049D
+Pattern: shift_jis_japanese
+Text: !Y純}s}
+Raw bytes: 102100598f837d00737d
+
+Offset: 0x082D
+Pattern: shift_jis_japanese
+Text: "ﾋﾛｽｳ賂
+Raw bytes: 22cbdb000000000c040ebd030300000004b39847
+
+Offset: 0x0869
+Pattern: shift_jis_japanese
+Text: ｡ﾝ睚ﾙr勉
+Raw bytes: 0a000000a1dde1c807000000d97295d70b000000
+
+Offset: 0x060D
+Pattern: null_terminated_utf16
+Text: ⠀੕弁BP
+Raw bytes: 00280500550a015f42005000
+
+Offset: 0x06B0
+Pattern: null_terminated_utf16
+Text: Ĝ偕ᰀ唂ࡐ
+Raw bytes: 1c0155500700001c02555008
+
+Offset: 0x06B7
+Pattern: null_terminated_utf16
+Text: Ȝ偕ᰀ唃୐
+Raw bytes: 1c0255500800001c0355500b
+
+Offset: 0x04CE
+Pattern: shift_jis_japanese
+Text: 捍ﾑｸK駝
+Raw bytes: 9d7100d1b84b0e00e96b
+
+Offset: 0x080B
+Pattern: shift_jis_japanese
+Text: 僵ﾏ+h制
+Raw bytes: 040000000c00000004994bcf2b030000006890a7
+
+Offset: 0x085F
+Pattern: shift_jis_japanese
+Text: 豼3r.ﾂ
+Raw bytes: e6bf0600000033722ec2
+
+Offset: 0x0608
+Pattern: null_terminated_utf16
+Text: Ԩ唀Ċ䉟倀
+Raw bytes: 280500550a015f420050
+
+Offset: 0x06AB
+Pattern: null_terminated_utf16
+Text: 偕ᰀ唁ݐ
+Raw bytes: 55500600001c01555007
+
+Offset: 0x00CB
+Pattern: shift_jis_japanese
+Text: 嚥7[k
+Raw bytes: 0700000000079a8b091d000000375b6b0c010000
+
+Offset: 0x01C6
+Pattern: shift_jis_japanese
+Text: 能hｯ+
+Raw bytes: 0000945c68af2b000000
+
+Offset: 0x01D0
+Pattern: shift_jis_japanese
+Text: ﾎC匈ﾒ
+Raw bytes: ce4399b111000000d205
+
+Offset: 0x031D
+Pattern: shift_jis_japanese
+Text: 4:2轗
+Raw bytes: 3400000000003a32e77d
+
+Offset: 0x0384
+Pattern: shift_jis_japanese
+Text: %ｺf嚥
+Raw bytes: 25ba66079a8b09000000
+
+Offset: 0x0527
+Pattern: shift_jis_japanese
+Text: ｴ鷹 ﾟ
+Raw bytes: b40091e9190d00200fdf
+
+Offset: 0x06BE
+Pattern: null_terminated_utf16
+Text: ̜偕✀
+Raw bytes: 1c0355500b000027
+
+Offset: 0x00CF
+Pattern: null_terminated_utf16
+Text: ܀讚ᴉ
+Raw bytes: 00079a8b091d
+
+Offset: 0x00D7
+Pattern: null_terminated_utf16
+Text: 㜀歛Č
+Raw bytes: 00375b6b0c01
+
+Offset: 0x00DF
+Pattern: null_terminated_utf16
+Text: 㜀歛Č
+Raw bytes: 00375b6b0c01
+
+Offset: 0x00E7
+Pattern: null_terminated_utf16
+Text: 㜀歛Č
+Raw bytes: 00375b6b0c01
+
+Offset: 0x00EF
+Pattern: null_terminated_utf16
+Text: 㜀歛Č
+Raw bytes: 00375b6b0c01
+
+Offset: 0x00F7
+Pattern: null_terminated_utf16
+Text: 넀凚̔
+Raw bytes: 00b1da511403
+
+Offset: 0x00FF
+Pattern: null_terminated_utf16
+Text: 뤀錸Л
+Raw bytes: 00b938931b04
+
+Offset: 0x0107
+Pattern: null_terminated_utf16
+Text: 礀赶Ⱐ
+Raw bytes: 0079768d202c
+
+Offset: 0x010F
+Pattern: null_terminated_utf16
+Text: 礀赶Ⱐ
+Raw bytes: 0079768d202c
+
+Offset: 0x0117
+Pattern: null_terminated_utf16
+Text: ㄀喢ᜯ
+Raw bytes: 0031a2552f17
+
+Offset: 0x011F
+Pattern: null_terminated_utf16
+Text: 崀駙ḱ
+Raw bytes: 005dd999311e
+
+Offset: 0x0127
+Pattern: null_terminated_utf16
+Text: 저觉ᠴ
+Raw bytes: 00c8c9893418
+
+Offset: 0x012F
+Pattern: null_terminated_utf16
+Text: 蘀ᾟ⅑
+Raw bytes: 00869f1f5121
+
+Offset: 0x0137
+Pattern: null_terminated_utf16
+Text: 鈀脶Օ
+Raw bytes: 009236815505
+
+Offset: 0x013F
+Pattern: null_terminated_utf16
+Text: 鈀脶Օ
+Raw bytes: 009236815505
+
+Offset: 0x0147
+Pattern: null_terminated_utf16
+Text: 鈀脶Օ
+Raw bytes: 009236815505
+
+Offset: 0x014F
+Pattern: null_terminated_utf16
+Text: 鈀脶Օ
+Raw bytes: 009236815505
+
+Offset: 0x0157
+Pattern: null_terminated_utf16
+Text: 鈀脶Օ
+Raw bytes: 009236815505
+
+Offset: 0x015F
+Pattern: null_terminated_utf16
+Text: 鈀脶Օ
+Raw bytes: 009236815505
+
+Offset: 0x0167
+Pattern: null_terminated_utf16
+Text: 开턗ࡧ
+Raw bytes: 005f17d16708
+
+Offset: 0x016F
+Pattern: null_terminated_utf16
+Text: 开턗ࡧ
+Raw bytes: 005f17d16708
+
+Offset: 0x0177
+Pattern: null_terminated_utf16
+Text: 开턗ࡧ
+Raw bytes: 005f17d16708
+
+Offset: 0x017F
+Pattern: null_terminated_utf16
+Text: 开턗ࡧ
+Raw bytes: 005f17d16708
+
+Offset: 0x0187
+Pattern: null_terminated_utf16
+Text: 开턗ࡧ
+Raw bytes: 005f17d16708
+
+Offset: 0x018F
+Pattern: null_terminated_utf16
+Text: 尀㠢⾊
+Raw bytes: 005c22388a2f
+
+Offset: 0x0197
+Pattern: null_terminated_utf16
+Text: 頀祼ಚ
+Raw bytes: 00987c799a0c
+
+Offset: 0x019F
+Pattern: null_terminated_utf16
+Text: 頀祼ಚ
+Raw bytes: 00987c799a0c
+
+Offset: 0x01A7
+Pattern: null_terminated_utf16
+Text: 頀祼ಚ
+Raw bytes: 00987c799a0c
+
+Offset: 0x01AF
+Pattern: null_terminated_utf16
+Text: 頀祼ಚ
+Raw bytes: 00987c799a0c
+
+Offset: 0x01B7
+Pattern: null_terminated_utf16
+Text: 戀䝟Ⴂ
+Raw bytes: 00625f47a210
+
+Offset: 0x01BF
+Pattern: null_terminated_utf16
+Text: 言੓ⶩ
+Raw bytes: 008a530aa92d
+
+Offset: 0x01C7
+Pattern: null_terminated_utf16
+Text: 鐀桜⮯
+Raw bytes: 00945c68af2b
+
+Offset: 0x01CF
+Pattern: null_terminated_utf16
+Text: 츀饃ᆱ
+Raw bytes: 00ce4399b111
+
+Offset: 0x01D7
+Pattern: null_terminated_utf16
+Text: 툀稅ኹ
+Raw bytes: 00d2057ab912
+
+Offset: 0x01DF
+Pattern: null_terminated_utf16
+Text: 똀搸᾽
+Raw bytes: 00b63864bd1f
+
+Offset: 0x01E7
+Pattern: null_terminated_utf16
+Text: 똀搸᾽
+Raw bytes: 00b63864bd1f
+
+Offset: 0x01EF
+Pattern: null_terminated_utf16
+Text: 鈀损᳅
+Raw bytes: 00925f63c51c
+
+Offset: 0x01F7
+Pattern: null_terminated_utf16
+Text: 梛᫅
+Raw bytes: 00e49b68c51a
+
+Offset: 0x01FF
+Pattern: null_terminated_utf16
+Text: 销ꕞᏉ
+Raw bytes: 00955ea5c913
+
+Offset: 0x0207
+Pattern: null_terminated_utf16
+Text: 销ꕞᏉ
+Raw bytes: 00955ea5c913
+
+Offset: 0x020F
+Pattern: null_terminated_utf16
+Text: 篙ᗒ
+Raw bytes: 00eed97bd215
+
+Offset: 0x0217
+Pattern: null_terminated_utf16
+Text: 退刑ⓦ
+Raw bytes: 00901152e624
+
+Offset: 0x021F
+Pattern: null_terminated_utf16
+Text: 退刑ⓦ
+Raw bytes: 00901152e624
+
+Offset: 0x0227
+Pattern: null_terminated_utf16
+Text: ฀繌᛭
+Raw bytes: 000e4c7eed16
+
+Offset: 0x022F
+Pattern: null_terminated_utf16
+Text: 跶⋭
+Raw bytes: 00f4f68ded22
+
+Offset: 0x0237
+Pattern: null_terminated_utf16
+Text: 鈀樱⣻
+Raw bytes: 0092316afb28
+
+Offset: 0x0240
+Pattern: null_terminated_utf16
+Text: 0繸߮
+Raw bytes: 3000787eee07
+
+Offset: 0x0242
+Pattern: null_terminated_utf16
+Text: 0繸߮
+Raw bytes: 3000787eee07
+
+Offset: 0x0264
+Pattern: null_terminated_utf16
+Text: 넀凚
+Raw bytes: 00b1da511400
+
+Offset: 0x0266
+Pattern: null_terminated_utf16
+Text: 넀凚
+Raw bytes: 00b1da511400
+
+Offset: 0x02D9
+Pattern: null_terminated_utf16
+Text: 戀䝟¢
+Raw bytes: 00625f47a200
+
+Offset: 0x02DB
+Pattern: null_terminated_utf16
+Text: 戀䝟¢
+Raw bytes: 00625f47a200
+
+Offset: 0x02E2
+Pattern: null_terminated_utf16
+Text: 츀饃±
+Raw bytes: 00ce4399b100
+
+Offset: 0x02E4
+Pattern: null_terminated_utf16
+Text: 츀饃±
+Raw bytes: 00ce4399b100
+
+Offset: 0x02F4
+Pattern: null_terminated_utf16
+Text: 销ꕞÉ
+Raw bytes: 00955ea5c900
+
+Offset: 0x02F6
+Pattern: null_terminated_utf16
+Text: 销ꕞÉ
+Raw bytes: 00955ea5c900
+
+Offset: 0x0306
+Pattern: null_terminated_utf16
+Text: 篙Ò
+Raw bytes: 00eed97bd200
+
+Offset: 0x0308
+Pattern: null_terminated_utf16
+Text: 篙Ò
+Raw bytes: 00eed97bd200
+
+Offset: 0x030F
+Pattern: null_terminated_utf16
+Text: ฀繌í
+Raw bytes: 000e4c7eed00
+
+Offset: 0x0311
+Pattern: null_terminated_utf16
+Text: ฀繌í
+Raw bytes: 000e4c7eed00
+
+Offset: 0x0318
+Pattern: null_terminated_utf16
+Text: ㄀喢/
+Raw bytes: 0031a2552f00
+
+Offset: 0x031A
+Pattern: null_terminated_utf16
+Text: ㄀喢/
+Raw bytes: 0031a2552f00
+
+Offset: 0x0397
+Pattern: null_terminated_utf16
+Text: 崀駙1
+Raw bytes: 005dd9993100
+
+Offset: 0x0399
+Pattern: null_terminated_utf16
+Text: 崀駙1
+Raw bytes: 005dd9993100
+
+Offset: 0x03A0
+Pattern: null_terminated_utf16
+Text: 똀搸½
+Raw bytes: 00b63864bd00
+
+Offset: 0x03A2
+Pattern: null_terminated_utf16
+Text: 똀搸½
+Raw bytes: 00b63864bd00
+
+Offset: 0x03B2
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x03B4
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x03C4
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x03C6
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x03D6
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x03D8
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x03E8
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x03EA
+Pattern: null_terminated_utf16
+Text: 蘀ᾟQ
+Raw bytes: 00869f1f5100
+
+Offset: 0x046E
+Pattern: null_terminated_utf16
+Text: 言੓©
+Raw bytes: 008a530aa900
+
+Offset: 0x0470
+Pattern: null_terminated_utf16
+Text: 言੓©
+Raw bytes: 008a530aa900
+
+Offset: 0x06C5
+Pattern: null_terminated_utf16
+Text: '唀ၐ
+Raw bytes: 270000555010
+
+Offset: 0x0731
+Pattern: null_terminated_utf16
+Text: 彌ɐ
+Raw bytes: 4c5f07005002
+
+Offset: 0x074D
+Pattern: null_terminated_utf16
+Text: 彌ɐ
+Raw bytes: 4c5f07005002
+
+Offset: 0x0813
+Pattern: null_terminated_utf16
+Text: 餄콋̫
+Raw bytes: 04994bcf2b03
+
+Offset: 0x081B
+Pattern: null_terminated_utf16
+Text: 栀Ꞑś
+Raw bytes: 006890a75b01
+
+Offset: 0x0823
+Pattern: null_terminated_utf16
+Text: 栀Ꞑś
+Raw bytes: 006890a75b01
+
+Offset: 0x082A
+Pattern: null_terminated_utf16
+Text: 遨宧
+Raw bytes: 6890a75b0100
+
+Offset: 0x082C
+Pattern: null_terminated_utf16
+Text: 遨宧
+Raw bytes: 6890a75b0100
+
+Offset: 0x0834
+Pattern: null_terminated_utf16
+Text: 遨宧
+Raw bytes: 6890a75b0100
+
+Offset: 0x083B
+Pattern: null_terminated_utf16
+Text: 栀Ꞑś
+Raw bytes: 006890a75b01
+
+Offset: 0x083D
+Pattern: null_terminated_utf16
+Text: 栀Ꞑś
+Raw bytes: 006890a75b01
+
+Offset: 0x0854
+Pattern: null_terminated_utf16
+Text: 鈀먾ɴ
+Raw bytes: 00923eba7402
+
+Offset: 0x085C
+Pattern: null_terminated_utf16
+Text: 鈀먾ɴ
+Raw bytes: 00923eba7402
+
+Offset: 0x0864
+Pattern: null_terminated_utf16
+Text: 鈀먾ɴ
+Raw bytes: 00923eba7402
+
+Offset: 0x086C
+Pattern: null_terminated_utf16
+Text: 鈀먾ɴ
+Raw bytes: 00923eba7402
+
+Offset: 0x0884
+Pattern: null_terminated_utf16
+Text: ⨀異ә
+Raw bytes: 002a7075d904
+
+Offset: 0x088C
+Pattern: null_terminated_utf16
+Text: 龟ǻ
+Raw bytes: 00e29f9ffb01
+
+Offset: 0x00C8
+Pattern: null_terminated_utf16
+Text: 繸߮
+Raw bytes: 787eee07
+
+Offset: 0x00CA
+Pattern: null_terminated_utf16
+Text: 繸߮
+Raw bytes: 787eee07
+
+Offset: 0x024B
+Pattern: null_terminated_utf16
+Text: 嬷౫
+Raw bytes: 375b6b0c
+
+Offset: 0x024D
+Pattern: null_terminated_utf16
+Text: 嬷౫
+Raw bytes: 375b6b0c
+
+Offset: 0x0252
+Pattern: null_terminated_utf16
+Text: 㜀歛
+Raw bytes: 00375b6b0c00
+
+Offset: 0x0254
+Pattern: null_terminated_utf16
+Text: 㜀歛
+Raw bytes: 00375b6b0c00
+
+Offset: 0x025D
+Pattern: null_terminated_utf16
+Text: 嬷౫
+Raw bytes: 375b6b0c
+
+Offset: 0x025F
+Pattern: null_terminated_utf16
+Text: 嬷౫
+Raw bytes: 375b6b0c
+
+Offset: 0x026F
+Pattern: null_terminated_utf16
+Text: 㚒喁
+Raw bytes: 92368155
+
+Offset: 0x0271
+Pattern: null_terminated_utf16
+Text: 㚒喁
+Raw bytes: 92368155
+
+Offset: 0x0278
+Pattern: null_terminated_utf16
+Text: 張
+Raw bytes: 44f4355f
+
+Offset: 0x027A
+Pattern: null_terminated_utf16
+Text: 張
+Raw bytes: 44f4355f
+
+Offset: 0x0281
+Pattern: null_terminated_utf16
+Text: ◺暺
+Raw bytes: fa25ba66
+
+Offset: 0x0283
+Pattern: null_terminated_utf16
+Text: ◺暺
+Raw bytes: fa25ba66
+
+Offset: 0x028A
+Pattern: null_terminated_utf16
+Text: ᝟柑
+Raw bytes: 5f17d167
+
+Offset: 0x028C
+Pattern: null_terminated_utf16
+Text: ᝟柑
+Raw bytes: 5f17d167
+
+Offset: 0x0293
+Pattern: null_terminated_utf16
+Text: 㘺檹
+Raw bytes: 3a36b96a
+
+Offset: 0x0295
+Pattern: null_terminated_utf16
+Text: 㘺檹
+Raw bytes: 3a36b96a
+
+Offset: 0x029C
+Pattern: null_terminated_utf16
+Text: 蜆淐
+Raw bytes: 0687d06d
+
+Offset: 0x029E
+Pattern: null_terminated_utf16
+Text: 蜆淐
+Raw bytes: 0687d06d
+
+Offset: 0x02AE
+Pattern: null_terminated_utf16
+Text: 粘驹
+Raw bytes: 987c799a
+
+Offset: 0x02B0
+Pattern: null_terminated_utf16
+Text: 粘驹
+Raw bytes: 987c799a
+
+Offset: 0x02B7
+Pattern: null_terminated_utf16
+Text: ⋑鯟
+Raw bytes: d122df9b
+
+Offset: 0x02B9
+Pattern: null_terminated_utf16
+Text: ⋑鯟
+Raw bytes: d122df9b
+
+Offset: 0x02C0
+Pattern: null_terminated_utf16
+Text: 늩麾
+Raw bytes: a9b2be9e
+
+Offset: 0x02C2
+Pattern: null_terminated_utf16
+Text: 늩麾
+Raw bytes: a9b2be9e
+
+Offset: 0x02C9
+Pattern: null_terminated_utf16
+Text: ⋑鯟
+Raw bytes: d122df9b
+
+Offset: 0x02CB
+Pattern: null_terminated_utf16
+Text: ⋑鯟
+Raw bytes: d122df9b
+
+Offset: 0x02D2
+Pattern: null_terminated_utf16
+Text: 形ꉇ
+Raw bytes: 625f47a2
+
+Offset: 0x02D4
+Pattern: null_terminated_utf16
+Text: 形ꉇ
+Raw bytes: 625f47a2
+
+Offset: 0x02ED
+Pattern: null_terminated_utf16
+Text: 底즥
+Raw bytes: 955ea5c9
+
+Offset: 0x02EF
+Pattern: null_terminated_utf16
+Text: 底즥
+Raw bytes: 955ea5c9
+
+Offset: 0x02FF
+Pattern: null_terminated_utf16
+Text: 底즥
+Raw bytes: 955ea5c9
+
+Offset: 0x0301
+Pattern: null_terminated_utf16
+Text: 底즥
+Raw bytes: 955ea5c9
+
+Offset: 0x0323
+Pattern: null_terminated_utf16
+Text: ㈺緧
+Raw bytes: 3a32e77d
+
+Offset: 0x0325
+Pattern: null_terminated_utf16
+Text: ㈺緧
+Raw bytes: 3a32e77d
+
+Offset: 0x036E
+Pattern: null_terminated_utf16
+Text: 徒앣
+Raw bytes: 925f63c5
+
+Offset: 0x0370
+Pattern: null_terminated_utf16
+Text: 徒앣
+Raw bytes: 925f63c5
+
+Offset: 0x03AB
+Pattern: null_terminated_utf16
+Text: 龆償
+Raw bytes: 869f1f51
+
+Offset: 0x03AD
+Pattern: null_terminated_utf16
+Text: 龆償
+Raw bytes: 869f1f51
+
+Offset: 0x03BD
+Pattern: null_terminated_utf16
+Text: 蘷
+Raw bytes: 37862deb
+
+Offset: 0x03BF
+Pattern: null_terminated_utf16
+Text: 蘷
+Raw bytes: 37862deb
+
+Offset: 0x03CF
+Pattern: null_terminated_utf16
+Text: 閷⠉
+Raw bytes: b7950928
+
+Offset: 0x03D1
+Pattern: null_terminated_utf16
+Text: 閷⠉
+Raw bytes: b7950928
+
+Offset: 0x03E1
+Pattern: null_terminated_utf16
+Text: 惰
+Raw bytes: 44edf060
+
+Offset: 0x03E3
+Pattern: null_terminated_utf16
+Text: 惰
+Raw bytes: 44edf060
+
+Offset: 0x040C
+Pattern: null_terminated_utf16
+Text: 鈫ဲ
+Raw bytes: 2b923210
+
+Offset: 0x040E
+Pattern: null_terminated_utf16
+Text: 鈫ဲ
+Raw bytes: 2b923210
+
+Offset: 0x0415
+Pattern: null_terminated_utf16
+Text: 岔꽨
+Raw bytes: 945c68af
+
+Offset: 0x0417
+Pattern: null_terminated_utf16
+Text: 岔꽨
+Raw bytes: 945c68af
+
+Offset: 0x0467
+Pattern: null_terminated_utf16
+Text: 厊ꤊ
+Raw bytes: 8a530aa9
+
+Offset: 0x0469
+Pattern: null_terminated_utf16
+Text: 厊ꤊ
+Raw bytes: 8a530aa9
+
+Offset: 0x0479
+Pattern: null_terminated_utf16
+Text: ≜訸
+Raw bytes: 5c22388a
+
+Offset: 0x047B
+Pattern: null_terminated_utf16
+Text: ≜訸
+Raw bytes: 5c22388a
+
+Offset: 0x0846
+Pattern: null_terminated_utf16
+Text: 絽Ք
+Raw bytes: 7d7d5405
+
+Offset: 0x084E
+Pattern: null_terminated_utf16
+Text: 絽Ք
+Raw bytes: 7d7d5405
+
+Offset: 0x0876
+Pattern: null_terminated_utf16
+Text: 镲ௗ
+Raw bytes: 7295d70b
+
+Offset: 0x087E
+Pattern: null_terminated_utf16
+Text: 镲ௗ
+Raw bytes: 7295d70b
+
+Offset: 0x02A7
+Pattern: null_terminated_utf16
+Text: 猚
+Raw bytes: 1a73
+
+Offset: 0x02A9
+Pattern: null_terminated_utf16
+Text: 猚
+Raw bytes: 1a73
+

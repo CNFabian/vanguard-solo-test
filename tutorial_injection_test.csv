@@ -1,0 +1,11 @@
+id;offset;japanese_text;english_translation;priority
+TUTO_001;0x2217;<|色々教|いろいろおし|>;teach various things;HIGH
+TUTO_002;0x232B;<|下画面|したがめん|>;bottom screen;HIGH
+TUTO_003;0x1EC8;<|退却|たいきゃく|>;retreat;HIGH
+TUTO_004;0x1D6D;<|説明|せつめい|>;explanation;HIGH
+TUTO_005;0x226A;<|攻撃|こうげき|>;attack;HIGH
+TUTO_006;0x22B0;<|防御|ぼうぎょ|>;defense;HIGH
+TUTO_007;0x23A7;<|拡大|かくだい|>;enlarge;HIGH
+TUTO_008;0x24FA;<|一緒|いっしょ|>;together;HIGH
+TUTO_009;0x2779;<|分身|ぶんしん|>;clone;HIGH
+TUTO_010;0x2882;<|山札|やまふだ|>;deck;HIGH
