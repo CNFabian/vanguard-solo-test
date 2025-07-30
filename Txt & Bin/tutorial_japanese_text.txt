@@ -1,0 +1,7047 @@
+🛡️ CF VANGUARD TUTORIAL JAPANESE TEXT
+==================================================
+
+Entry 1:
+Position: 0x00000E
+Encoding: UTF-16 Little Endian
+Text: 妍簉
+------------------------------
+
+Entry 2:
+Position: 0x00001A
+Encoding: UTF-16 Little Endian
+Text: 錓蛘
+------------------------------
+
+Entry 3:
+Position: 0x000030
+Encoding: UTF-16 Big Endian
+Text: 襊傌
+------------------------------
+
+Entry 4:
+Position: 0x000032
+Encoding: UTF-16 Little Endian
+Text: 豐媽
+------------------------------
+
+Entry 5:
+Position: 0x000035
+Encoding: Shift-JIS
+Text: 朷分
+------------------------------
+
+Entry 6:
+Position: 0x000036
+Encoding: UTF-16 Big Endian
+Text: 舢鹖閪
+------------------------------
+
+Entry 7:
+Position: 0x000042
+Encoding: UTF-16 Little Endian
+Text: 叻媪
+------------------------------
+
+Entry 8:
+Position: 0x000046
+Encoding: UTF-16 Big Endian
+Text: 諚訖
+------------------------------
+
+Entry 9:
+Position: 0x00005E
+Encoding: UTF-16 Little Endian
+Text: 箿经
+------------------------------
+
+Entry 10:
+Position: 0x00006A
+Encoding: UTF-16 Big Endian
+Text: 揄郡
+------------------------------
+
+Entry 11:
+Position: 0x000070
+Encoding: UTF-16 Big Endian
+Text: 榩醹
+------------------------------
+
+Entry 12:
+Position: 0x00007A
+Encoding: UTF-16 Big Endian
+Text: 謘醛揪進狈
+------------------------------
+
+Entry 13:
+Position: 0x000080
+Encoding: Shift-JIS
+Text: 矮範
+------------------------------
+
+Entry 14:
+Position: 0x000088
+Encoding: UTF-16 Big Endian
+Text: 蝤疪
+------------------------------
+
+Entry 15:
+Position: 0x0000B4
+Encoding: UTF-16 Little Endian
+Text: 洲穈
+------------------------------
+
+Entry 16:
+Position: 0x0000BA
+Encoding: UTF-16 Little Endian
+Text: 甽橔湖
+------------------------------
+
+Entry 17:
+Position: 0x0000BC
+Encoding: UTF-16 Big Endian
+Text: 呪噮
+------------------------------
+
+Entry 18:
+Position: 0x0000D5
+Encoding: Shift-JIS
+Text: 煦罫
+------------------------------
+
+Entry 19:
+Position: 0x0000D6
+Encoding: UTF-16 Little Endian
+Text: 错羋
+------------------------------
+
+Entry 20:
+Position: 0x0000E1
+Encoding: Shift-JIS
+Text: 蘚称
+------------------------------
+
+Entry 21:
+Position: 0x0000E8
+Encoding: UTF-16 Big Endian
+Text: 袌狅玣
+------------------------------
+
+Entry 22:
+Position: 0x0000F2
+Encoding: UTF-16 Little Endian
+Text: 羋擥
+------------------------------
+
+Entry 23:
+Position: 0x0000F3
+Encoding: Shift-JIS
+Text: 巣都鉄痴
+------------------------------
+
+Entry 24:
+Position: 0x0000FE
+Encoding: UTF-16 Little Endian
+Text: 菭卓扆发鄑鎃鍳鉓剳
+------------------------------
+
+Entry 25:
+Position: 0x000108
+Encoding: UTF-16 Big Endian
+Text: 莓玓厒獒
+------------------------------
+
+Entry 26:
+Position: 0x000112
+Encoding: UTF-16 Big Endian
+Text: 鬻晸檎
+------------------------------
+
+Entry 27:
+Position: 0x000114
+Encoding: UTF-16 Little Endian
+Text: 硦蹪
+------------------------------
+
+Entry 28:
+Position: 0x000122
+Encoding: UTF-16 Little Endian
+Text: 锤挖
+------------------------------
+
+Entry 29:
+Position: 0x00012A
+Encoding: UTF-16 Big Endian
+Text: 娥埸
+------------------------------
+
+Entry 30:
+Position: 0x000138
+Encoding: UTF-16 Big Endian
+Text: 騙吃
+------------------------------
+
+Entry 31:
+Position: 0x000148
+Encoding: UTF-16 Little Endian
+Text: 辀鵖
+------------------------------
+
+Entry 32:
+Position: 0x000148
+Encoding: UTF-16 Big Endian
+Text: 肏嚝
+------------------------------
+
+Entry 33:
+Position: 0x000152
+Encoding: UTF-16 Little Endian
+Text: 聵伛均
+------------------------------
+
+Entry 34:
+Position: 0x000152
+Encoding: UTF-16 Big Endian
+Text: 脕疀
+------------------------------
+
+Entry 35:
+Position: 0x00016A
+Encoding: UTF-16 Little Endian
+Text: 蕫踃
+------------------------------
+
+Entry 36:
+Position: 0x000176
+Encoding: UTF-16 Big Endian
+Text: 奁汤
+------------------------------
+
+Entry 37:
+Position: 0x000180
+Encoding: UTF-16 Little Endian
+Text: 瞸賟喖
+------------------------------
+
+Entry 38:
+Position: 0x00018D
+Encoding: Shift-JIS
+Text: 免ぼ
+------------------------------
+
+Entry 39:
+Position: 0x00019A
+Encoding: UTF-16 Big Endian
+Text: 渻畬偵
+------------------------------
+
+Entry 40:
+Position: 0x00019C
+Encoding: UTF-16 Little Endian
+Text: 汵畐緾
+------------------------------
+
+Entry 41:
+Position: 0x0001A4
+Encoding: UTF-16 Little Endian
+Text: 赁最
+------------------------------
+
+Entry 42:
+Position: 0x0001A5
+Encoding: Shift-JIS
+Text: 脂逶
+------------------------------
+
+Entry 43:
+Position: 0x0001AE
+Encoding: UTF-16 Little Endian
+Text: 箩椡
+------------------------------
+
+Entry 44:
+Position: 0x0001B6
+Encoding: UTF-16 Little Endian
+Text: 雛苆
+------------------------------
+
+Entry 45:
+Position: 0x0001C8
+Encoding: UTF-16 Big Endian
+Text: 羪媎觧鯿
+------------------------------
+
+Entry 46:
+Position: 0x0001CA
+Encoding: UTF-16 Little Endian
+Text: 抿射
+------------------------------
+
+Entry 47:
+Position: 0x0001DC
+Encoding: UTF-16 Big Endian
+Text: 罳牽
+------------------------------
+
+Entry 48:
+Position: 0x0001E0
+Encoding: UTF-16 Little Endian
+Text: 獿絲
+------------------------------
+
+Entry 49:
+Position: 0x0001FA
+Encoding: UTF-16 Little Endian
+Text: 昹け
+------------------------------
+
+Entry 50:
+Position: 0x0001FC
+Encoding: UTF-16 Big Endian
+Text: 畾碯
+------------------------------
+
+Entry 51:
+Position: 0x000220
+Encoding: UTF-16 Little Endian
+Text: 槶翀春衬
+------------------------------
+
+Entry 52:
+Position: 0x00022C
+Encoding: UTF-16 Big Endian
+Text: 皻惿
+------------------------------
+
+Entry 53:
+Position: 0x00023C
+Encoding: UTF-16 Little Endian
+Text: 缀渊
+------------------------------
+
+Entry 54:
+Position: 0x00025E
+Encoding: UTF-16 Little Endian
+Text: 反軣
+------------------------------
+
+Entry 55:
+Position: 0x000270
+Encoding: UTF-16 Big Endian
+Text: 肭訽
+------------------------------
+
+Entry 56:
+Position: 0x000280
+Encoding: UTF-16 Little Endian
+Text: 喛氢襗
+------------------------------
+
+Entry 57:
+Position: 0x000280
+Encoding: UTF-16 Big Endian
+Text: 逈魕
+------------------------------
+
+Entry 58:
+Position: 0x00028A
+Encoding: UTF-16 Little Endian
+Text: 鎖鬈
+------------------------------
+
+Entry 59:
+Position: 0x000290
+Encoding: UTF-16 Big Endian
+Text: 丢氻覰
+------------------------------
+
+Entry 60:
+Position: 0x00029A
+Encoding: UTF-16 Big Endian
+Text: 逈魃
+------------------------------
+
+Entry 61:
+Position: 0x00029A
+Encoding: Shift-JIS
+Text: 違大
+------------------------------
+
+Entry 62:
+Position: 0x00029C
+Encoding: UTF-16 Little Endian
+Text: 氢褏
+------------------------------
+
+Entry 63:
+Position: 0x0002A0
+Encoding: Shift-JIS
+Text: 萵痳
+------------------------------
+
+Entry 64:
+Position: 0x0002B0
+Encoding: UTF-16 Big Endian
+Text: 鑄堫覰娒憽
+------------------------------
+
+Entry 65:
+Position: 0x0002BC
+Encoding: UTF-16 Little Endian
+Text: 踑褈
+------------------------------
+
+Entry 66:
+Position: 0x0002DC
+Encoding: UTF-16 Little Endian
+Text: 晖殝簿蠹釡臥
+------------------------------
+
+Entry 67:
+Position: 0x0002DE
+Encoding: UTF-16 Big Endian
+Text: 霎噦鵫
+------------------------------
+
+Entry 68:
+Position: 0x000306
+Encoding: UTF-16 Big Endian
+Text: 豇襰聈萣圢
+------------------------------
+
+Entry 69:
+Position: 0x000320
+Encoding: UTF-16 Little Endian
+Text: 愭凈
+------------------------------
+
+Entry 70:
+Position: 0x000321
+Encoding: Shift-JIS
+Text: 續詑
+------------------------------
+
+Entry 71:
+Position: 0x00032C
+Encoding: UTF-16 Little Endian
+Text: 瑘邖寃
+------------------------------
+
+Entry 72:
+Position: 0x00032C
+Encoding: UTF-16 Big Endian
+Text: 謧塴隐
+------------------------------
+
+Entry 73:
+Position: 0x000331
+Encoding: Shift-JIS
+Text: 遁嚶
+------------------------------
+
+Entry 74:
+Position: 0x000336
+Encoding: UTF-16 Big Endian
+Text: 陗愌
+------------------------------
+
+Entry 75:
+Position: 0x000344
+Encoding: UTF-16 Little Endian
+Text: 珶釞
+------------------------------
+
+Entry 76:
+Position: 0x000344
+Encoding: UTF-16 Big Endian
+Text: 臁髞
+------------------------------
+
+Entry 77:
+Position: 0x00034E
+Encoding: UTF-16 Little Endian
+Text: 絻て盜飇
+------------------------------
+
+Entry 78:
+Position: 0x000350
+Encoding: UTF-16 Big Endian
+Text: 筽昰
+------------------------------
+
+Entry 79:
+Position: 0x00035A
+Encoding: UTF-16 Big Endian
+Text: 砡熆
+------------------------------
+
+Entry 80:
+Position: 0x00035C
+Encoding: UTF-16 Little Endian
+Text: 虱葊
+------------------------------
+
+Entry 81:
+Position: 0x000368
+Encoding: UTF-16 Big Endian
+Text: 恄瞸
+------------------------------
+
+Entry 82:
+Position: 0x00036E
+Encoding: UTF-16 Big Endian
+Text: 敬畆
+------------------------------
+
+Entry 83:
+Position: 0x000374
+Encoding: UTF-16 Little Endian
+Text: 愭圢
+------------------------------
+
+Entry 84:
+Position: 0x00037A
+Encoding: UTF-16 Little Endian
+Text: 葊铣
+------------------------------
+
+Entry 85:
+Position: 0x000382
+Encoding: UTF-16 Big Endian
+Text: 娞戾
+------------------------------
+
+Entry 86:
+Position: 0x00038C
+Encoding: UTF-16 Little Endian
+Text: 錽髙綍哫
+------------------------------
+
+Entry 87:
+Position: 0x00039A
+Encoding: UTF-16 Big Endian
+Text: 祑縘
+------------------------------
+
+Entry 88:
+Position: 0x0003A8
+Encoding: UTF-16 Big Endian
+Text: 唷ヤ
+------------------------------
+
+Entry 89:
+Position: 0x0003B0
+Encoding: Shift-JIS
+Text: 磚店
+------------------------------
+
+Entry 90:
+Position: 0x0003C2
+Encoding: UTF-16 Big Endian
+Text: 逓欻類撳炶
+------------------------------
+
+Entry 91:
+Position: 0x0003D0
+Encoding: UTF-16 Big Endian
+Text: 瘣翑
+------------------------------
+
+Entry 92:
+Position: 0x0003DC
+Encoding: UTF-16 Little Endian
+Text: 樺眮
+------------------------------
+
+Entry 93:
+Position: 0x0003DE
+Encoding: UTF-16 Big Endian
+Text: 闾殲璣川
+------------------------------
+
+Entry 94:
+Position: 0x0003F4
+Encoding: UTF-16 Big Endian
+Text: 柪磊
+------------------------------
+
+Entry 95:
+Position: 0x000404
+Encoding: Shift-JIS
+Text: 抂冏
+------------------------------
+
+Entry 96:
+Position: 0x000408
+Encoding: UTF-16 Little Endian
+Text: 操泔
+------------------------------
+
+Entry 97:
+Position: 0x00040E
+Encoding: UTF-16 Little Endian
+Text: 赙玤
+------------------------------
+
+Entry 98:
+Position: 0x00042A
+Encoding: UTF-16 Big Endian
+Text: 暺骹缃
+------------------------------
+
+Entry 99:
+Position: 0x000440
+Encoding: UTF-16 Big Endian
+Text: 輹鍺
+------------------------------
+
+Entry 100:
+Position: 0x00044A
+Encoding: UTF-16 Big Endian
+Text: 憽礴
+------------------------------
+
+Entry 101:
+Position: 0x00045E
+Encoding: UTF-16 Big Endian
+Text: 弲貺嫇廗碐
+------------------------------
+
+Entry 102:
+Position: 0x000466
+Encoding: UTF-16 Little Endian
+Text: 兡鞎鼺
+------------------------------
+
+Entry 103:
+Position: 0x00046A
+Encoding: UTF-16 Big Endian
+Text: 慑躗
+------------------------------
+
+Entry 104:
+Position: 0x00046E
+Encoding: UTF-16 Little Endian
+Text: 穋鶽饏
+------------------------------
+
+Entry 105:
+Position: 0x000474
+Encoding: UTF-16 Big Endian
+Text: 侙朦
+------------------------------
+
+Entry 106:
+Position: 0x000481
+Encoding: Shift-JIS
+Text: 永墫
+------------------------------
+
+Entry 107:
+Position: 0x00048E
+Encoding: UTF-16 Big Endian
+Text: 坠竽
+------------------------------
+
+Entry 108:
+Position: 0x00049A
+Encoding: UTF-16 Little Endian
+Text: 朢鴑
+------------------------------
+
+Entry 109:
+Position: 0x0004A0
+Encoding: UTF-16 Little Endian
+Text: 逶沮縚叛厫
+------------------------------
+
+Entry 110:
+Position: 0x0004B2
+Encoding: UTF-16 Big Endian
+Text: 躱畩
+------------------------------
+
+Entry 111:
+Position: 0x0004BD
+Encoding: Shift-JIS
+Text: 搖壤仞椈
+------------------------------
+
+Entry 112:
+Position: 0x0004D0
+Encoding: UTF-16 Little Endian
+Text: 齡服
+------------------------------
+
+Entry 113:
+Position: 0x0004E0
+Encoding: Shift-JIS
+Text: 賑磊泙
+------------------------------
+
+Entry 114:
+Position: 0x0004F0
+Encoding: UTF-16 Big Endian
+Text: 揠ペ唩綧
+------------------------------
+
+Entry 115:
+Position: 0x0004F8
+Encoding: UTF-16 Little Endian
+Text: 萖煽
+------------------------------
+
+Entry 116:
+Position: 0x0004FA
+Encoding: UTF-16 Big Endian
+Text: 襩髑
+------------------------------
+
+Entry 117:
+Position: 0x00050E
+Encoding: UTF-16 Big Endian
+Text: 淸琯
+------------------------------
+
+Entry 118:
+Position: 0x000512
+Encoding: UTF-16 Little Endian
+Text: 閔坆
+------------------------------
+
+Entry 119:
+Position: 0x00051A
+Encoding: UTF-16 Big Endian
+Text: 曼钕
+------------------------------
+
+Entry 120:
+Position: 0x000536
+Encoding: UTF-16 Little Endian
+Text: 誝飿麾
+------------------------------
+
+Entry 121:
+Position: 0x000540
+Encoding: UTF-16 Big Endian
+Text: 鶊髟
+------------------------------
+
+Entry 122:
+Position: 0x000542
+Encoding: UTF-16 Little Endian
+Text: 俔騎
+------------------------------
+
+Entry 123:
+Position: 0x000548
+Encoding: UTF-16 Big Endian
+Text: 颸豾
+------------------------------
+
+Entry 124:
+Position: 0x000558
+Encoding: UTF-16 Little Endian
+Text: 树叴
+------------------------------
+
+Entry 125:
+Position: 0x000558
+Encoding: Shift-JIS
+Text: 雲諛
+------------------------------
+
+Entry 126:
+Position: 0x000582
+Encoding: UTF-16 Big Endian
+Text: 蓛吻烺磪
+------------------------------
+
+Entry 127:
+Position: 0x000586
+Encoding: UTF-16 Little Endian
+Text: 榿埢
+------------------------------
+
+Entry 128:
+Position: 0x000589
+Encoding: Shift-JIS
+Text: 剃淇
+------------------------------
+
+Entry 129:
+Position: 0x00058E
+Encoding: UTF-16 Little Endian
+Text: 颓閦
+------------------------------
+
+Entry 130:
+Position: 0x0005B6
+Encoding: UTF-16 Big Endian
+Text: 囗杆
+------------------------------
+
+Entry 131:
+Position: 0x0005BA
+Encoding: UTF-16 Little Endian
+Text: 使珹槉
+------------------------------
+
+Entry 132:
+Position: 0x0005C4
+Encoding: UTF-16 Big Endian
+Text: 櫟罏
+------------------------------
+
+Entry 133:
+Position: 0x0005D4
+Encoding: UTF-16 Big Endian
+Text: 盎窑鳎
+------------------------------
+
+Entry 134:
+Position: 0x0005DC
+Encoding: UTF-16 Little Endian
+Text: 基励
+------------------------------
+
+Entry 135:
+Position: 0x0005E2
+Encoding: UTF-16 Little Endian
+Text: 滿襂
+------------------------------
+
+Entry 136:
+Position: 0x0005E8
+Encoding: UTF-16 Little Endian
+Text: 劇迭紦
+------------------------------
+
+Entry 137:
+Position: 0x0005F6
+Encoding: UTF-16 Big Endian
+Text: 忦蝒
+------------------------------
+
+Entry 138:
+Position: 0x000614
+Encoding: UTF-16 Little Endian
+Text: 巑僾
+------------------------------
+
+Entry 139:
+Position: 0x00061E
+Encoding: UTF-16 Little Endian
+Text: 欎嵿鉷
+------------------------------
+
+Entry 140:
+Position: 0x000630
+Encoding: UTF-16 Big Endian
+Text: 罝瞒
+------------------------------
+
+Entry 141:
+Position: 0x000638
+Encoding: UTF-16 Big Endian
+Text: 圮原
+------------------------------
+
+Entry 142:
+Position: 0x00064E
+Encoding: UTF-16 Big Endian
+Text: 铅嬩
+------------------------------
+
+Entry 143:
+Position: 0x000674
+Encoding: UTF-16 Big Endian
+Text: 毃騻
+------------------------------
+
+Entry 144:
+Position: 0x00067C
+Encoding: UTF-16 Big Endian
+Text: 懝ガ
+------------------------------
+
+Entry 145:
+Position: 0x0006B0
+Encoding: UTF-16 Big Endian
+Text: 鬗澡揾
+------------------------------
+
+Entry 146:
+Position: 0x0006BA
+Encoding: UTF-16 Big Endian
+Text: 臻殨
+------------------------------
+
+Entry 147:
+Position: 0x0006BE
+Encoding: UTF-16 Little Endian
+Text: 媠狌鑺篝皝
+------------------------------
+
+Entry 148:
+Position: 0x0006D4
+Encoding: UTF-16 Big Endian
+Text: 鵶礴鷏
+------------------------------
+
+Entry 149:
+Position: 0x0006E0
+Encoding: UTF-16 Little Endian
+Text: 寽町
+------------------------------
+
+Entry 150:
+Position: 0x0006E8
+Encoding: UTF-16 Little Endian
+Text: 峮醶
+------------------------------
+
+Entry 151:
+Position: 0x0006F0
+Encoding: Shift-JIS
+Text: 糧祝
+------------------------------
+
+Entry 152:
+Position: 0x000700
+Encoding: UTF-16 Big Endian
+Text: 焪嶫軆
+------------------------------
+
+Entry 153:
+Position: 0x000716
+Encoding: UTF-16 Little Endian
+Text: 甘淝糖
+------------------------------
+
+Entry 154:
+Position: 0x000718
+Encoding: UTF-16 Big Endian
+Text: 鶺格邦餹钻
+------------------------------
+
+Entry 155:
+Position: 0x00072E
+Encoding: UTF-16 Big Endian
+Text: 濙裎蓭幁柍
+------------------------------
+
+Entry 156:
+Position: 0x00073A
+Encoding: UTF-16 Big Endian
+Text: 劆妴
+------------------------------
+
+Entry 157:
+Position: 0x00073E
+Encoding: Shift-JIS
+Text: 裲瀦
+------------------------------
+
+Entry 158:
+Position: 0x000742
+Encoding: UTF-16 Big Endian
+Text: 蜍侍
+------------------------------
+
+Entry 159:
+Position: 0x00074C
+Encoding: UTF-16 Little Endian
+Text: 沷蛻
+------------------------------
+
+Entry 160:
+Position: 0x000762
+Encoding: UTF-16 Big Endian
+Text: 钬慦
+------------------------------
+
+Entry 161:
+Position: 0x000768
+Encoding: UTF-16 Little Endian
+Text: 夋謴
+------------------------------
+
+Entry 162:
+Position: 0x00077E
+Encoding: UTF-16 Big Endian
+Text: 歪椼
+------------------------------
+
+Entry 163:
+Position: 0x000799
+Encoding: Shift-JIS
+Text: 請覘
+------------------------------
+
+Entry 164:
+Position: 0x0007AE
+Encoding: UTF-16 Big Endian
+Text: 氢鞵
+------------------------------
+
+Entry 165:
+Position: 0x0007B6
+Encoding: UTF-16 Big Endian
+Text: 格聄紷
+------------------------------
+
+Entry 166:
+Position: 0x0007BE
+Encoding: UTF-16 Little Endian
+Text: 僱譺
+------------------------------
+
+Entry 167:
+Position: 0x0007C4
+Encoding: UTF-16 Little Endian
+Text: 鮛霧迆
+------------------------------
+
+Entry 168:
+Position: 0x0007CA
+Encoding: UTF-16 Big Endian
+Text: 窋鮫鮛
+------------------------------
+
+Entry 169:
+Position: 0x0007CC
+Encoding: UTF-16 Little Endian
+Text: 磓雀滆
+------------------------------
+
+Entry 170:
+Position: 0x0007E6
+Encoding: UTF-16 Big Endian
+Text: 檐栀砛
+------------------------------
+
+Entry 171:
+Position: 0x0007EE
+Encoding: UTF-16 Little Endian
+Text: 磩庭
+------------------------------
+
+Entry 172:
+Position: 0x000810
+Encoding: UTF-16 Little Endian
+Text: 枔曜都
+------------------------------
+
+Entry 173:
+Position: 0x000816
+Encoding: UTF-16 Big Endian
+Text: 痙體鑧
+------------------------------
+
+Entry 174:
+Position: 0x000822
+Encoding: UTF-16 Big Endian
+Text: 揢饕堙
+------------------------------
+
+Entry 175:
+Position: 0x00082C
+Encoding: UTF-16 Big Endian
+Text: 銕沵髱珳
+------------------------------
+
+Entry 176:
+Position: 0x000840
+Encoding: UTF-16 Big Endian
+Text: 靆爤
+------------------------------
+
+Entry 177:
+Position: 0x000848
+Encoding: UTF-16 Little Endian
+Text: 鐄俁
+------------------------------
+
+Entry 178:
+Position: 0x000849
+Encoding: Shift-JIS
+Text: 縹リ
+------------------------------
+
+Entry 179:
+Position: 0x00084C
+Encoding: UTF-16 Big Endian
+Text: 黸脽
+------------------------------
+
+Entry 180:
+Position: 0x000850
+Encoding: UTF-16 Little Endian
+Text: 見斱
+------------------------------
+
+Entry 181:
+Position: 0x00085C
+Encoding: UTF-16 Little Endian
+Text: 覊偔
+------------------------------
+
+Entry 182:
+Position: 0x000860
+Encoding: UTF-16 Big Endian
+Text: 亾褘誉呐
+------------------------------
+
+Entry 183:
+Position: 0x000874
+Encoding: UTF-16 Little Endian
+Text: 鶭蚒
+------------------------------
+
+Entry 184:
+Position: 0x000876
+Encoding: UTF-16 Big Endian
+Text: 啚椼
+------------------------------
+
+Entry 185:
+Position: 0x00088A
+Encoding: UTF-16 Big Endian
+Text: 秼畱飚谷樼邿
+------------------------------
+
+Entry 186:
+Position: 0x00088C
+Encoding: UTF-16 Little Endian
+Text: 賐並
+------------------------------
+
+Entry 187:
+Position: 0x00088D
+Encoding: Shift-JIS
+Text: 彿繕
+------------------------------
+
+Entry 188:
+Position: 0x00089C
+Encoding: UTF-16 Big Endian
+Text: 燤劸
+------------------------------
+
+Entry 189:
+Position: 0x0008AC
+Encoding: UTF-16 Little Endian
+Text: 垳勃律棯厜
+------------------------------
+
+Entry 190:
+Position: 0x0008CC
+Encoding: UTF-16 Little Endian
+Text: 誴情浴嘸眾泬
+------------------------------
+
+Entry 191:
+Position: 0x0008CC
+Encoding: UTF-16 Big Endian
+Text: 墔栱墴
+------------------------------
+
+Entry 192:
+Position: 0x0008D4
+Encoding: UTF-16 Big Endian
+Text: 彳肤
+------------------------------
+
+Entry 193:
+Position: 0x0008DE
+Encoding: UTF-16 Little Endian
+Text: 舥徼
+------------------------------
+
+Entry 194:
+Position: 0x0008F4
+Encoding: UTF-16 Little Endian
+Text: 淫窤
+------------------------------
+
+Entry 195:
+Position: 0x0008FA
+Encoding: UTF-16 Little Endian
+Text: 龇碋
+------------------------------
+
+Entry 196:
+Position: 0x0008FE
+Encoding: UTF-16 Big Endian
+Text: 庑趧
+------------------------------
+
+Entry 197:
+Position: 0x000906
+Encoding: UTF-16 Big Endian
+Text: 頄螟譸
+------------------------------
+
+Entry 198:
+Position: 0x000920
+Encoding: UTF-16 Little Endian
+Text: 穬肮鶜彗
+------------------------------
+
+Entry 199:
+Position: 0x000932
+Encoding: UTF-16 Big Endian
+Text: 鲝坟
+------------------------------
+
+Entry 200:
+Position: 0x000934
+Encoding: UTF-16 Little Endian
+Text: 娰嬰
+------------------------------
+
+Entry 201:
+Position: 0x000942
+Encoding: UTF-16 Big Endian
+Text: ずせ
+------------------------------
+
+Entry 202:
+Position: 0x000945
+Encoding: Shift-JIS
+Text: 牒珥
+------------------------------
+
+Entry 203:
+Position: 0x000948
+Encoding: UTF-16 Big Endian
+Text: 闵単
+------------------------------
+
+Entry 204:
+Position: 0x00094E
+Encoding: UTF-16 Big Endian
+Text: 腁欩禱
+------------------------------
+
+Entry 205:
+Position: 0x000954
+Encoding: UTF-16 Little Endian
+Text: 糣誃
+------------------------------
+
+Entry 206:
+Position: 0x000968
+Encoding: UTF-16 Little Endian
+Text: 胱棰
+------------------------------
+
+Entry 207:
+Position: 0x000968
+Encoding: UTF-16 Big Endian
+Text: 唏蹧訒冱
+------------------------------
+
+Entry 208:
+Position: 0x000972
+Encoding: UTF-16 Little Endian
+Text: 召胐
+------------------------------
+
+Entry 209:
+Position: 0x00097C
+Encoding: UTF-16 Little Endian
+Text: 玤鈖
+------------------------------
+
+Entry 210:
+Position: 0x000990
+Encoding: UTF-16 Big Endian
+Text: 捾獄樼
+------------------------------
+
+Entry 211:
+Position: 0x000998
+Encoding: UTF-16 Little Endian
+Text: あ連琒馘
+------------------------------
+
+Entry 212:
+Position: 0x0009A6
+Encoding: UTF-16 Little Endian
+Text: 鰱聩喑
+------------------------------
+
+Entry 213:
+Position: 0x0009AC
+Encoding: UTF-16 Big Endian
+Text: 颙虇
+------------------------------
+
+Entry 214:
+Position: 0x0009B2
+Encoding: UTF-16 Little Endian
+Text: 鳗哣
+------------------------------
+
+Entry 215:
+Position: 0x0009B4
+Encoding: UTF-16 Big Endian
+Text: 榀酕傺
+------------------------------
+
+Entry 216:
+Position: 0x0009CA
+Encoding: UTF-16 Little Endian
+Text: 摨蓽
+------------------------------
+
+Entry 217:
+Position: 0x0009E0
+Encoding: UTF-16 Big Endian
+Text: 浡廣
+------------------------------
+
+Entry 218:
+Position: 0x0009E8
+Encoding: UTF-16 Big Endian
+Text: 碀遉
+------------------------------
+
+Entry 219:
+Position: 0x0009EC
+Encoding: UTF-16 Little Endian
+Text: 偉柫
+------------------------------
+
+Entry 220:
+Position: 0x0009F0
+Encoding: UTF-16 Big Endian
+Text: 叮ね
+------------------------------
+
+Entry 221:
+Position: 0x000A02
+Encoding: UTF-16 Little Endian
+Text: 潫棕
+------------------------------
+
+Entry 222:
+Position: 0x000A06
+Encoding: UTF-16 Big Endian
+Text: 薻窷
+------------------------------
+
+Entry 223:
+Position: 0x000A0A
+Encoding: UTF-16 Little Endian
+Text: 受螻
+------------------------------
+
+Entry 224:
+Position: 0x000A18
+Encoding: UTF-16 Little Endian
+Text: 磈孪
+------------------------------
+
+Entry 225:
+Position: 0x000A32
+Encoding: UTF-16 Big Endian
+Text: 仴菦
+------------------------------
+
+Entry 226:
+Position: 0x000A4E
+Encoding: UTF-16 Big Endian
+Text: 樳笞
+------------------------------
+
+Entry 227:
+Position: 0x000A54
+Encoding: UTF-16 Little Endian
+Text: 濽鈧
+------------------------------
+
+Entry 228:
+Position: 0x000A6C
+Encoding: UTF-16 Little Endian
+Text: 暽幾磓
+------------------------------
+
+Entry 229:
+Position: 0x000A6C
+Encoding: UTF-16 Big Endian
+Text: 脾塵
+------------------------------
+
+Entry 230:
+Position: 0x000A82
+Encoding: UTF-16 Big Endian
+Text: 刖潫銫
+------------------------------
+
+Entry 231:
+Position: 0x000AAA
+Encoding: UTF-16 Big Endian
+Text: 潈囐
+------------------------------
+
+Entry 232:
+Position: 0x000AC2
+Encoding: UTF-16 Little Endian
+Text: 钭訒
+------------------------------
+
+Entry 233:
+Position: 0x000AD8
+Encoding: UTF-16 Little Endian
+Text: 舁姸憏
+------------------------------
+
+Entry 234:
+Position: 0x000AF0
+Encoding: UTF-16 Little Endian
+Text: 嵆萣
+------------------------------
+
+Entry 235:
+Position: 0x000B0A
+Encoding: UTF-16 Big Endian
+Text: 恮凣
+------------------------------
+
+Entry 236:
+Position: 0x000B10
+Encoding: UTF-16 Big Endian
+Text: 贘驵
+------------------------------
+
+Entry 237:
+Position: 0x000B1A
+Encoding: UTF-16 Big Endian
+Text: 員歄
+------------------------------
+
+Entry 238:
+Position: 0x000B3C
+Encoding: UTF-16 Little Endian
+Text: 廆侏
+------------------------------
+
+Entry 239:
+Position: 0x000B3E
+Encoding: Shift-JIS
+Text: 疾飼
+------------------------------
+
+Entry 240:
+Position: 0x000B46
+Encoding: UTF-16 Little Endian
+Text: 藢鵇
+------------------------------
+
+Entry 241:
+Position: 0x000B4C
+Encoding: UTF-16 Little Endian
+Text: 髄訡
+------------------------------
+
+Entry 242:
+Position: 0x000B5A
+Encoding: UTF-16 Big Endian
+Text: 鄕齲
+------------------------------
+
+Entry 243:
+Position: 0x000B5B
+Encoding: Shift-JIS
+Text: 葉鳬
+------------------------------
+
+Entry 244:
+Position: 0x000B64
+Encoding: UTF-16 Big Endian
+Text: 挷绝
+------------------------------
+
+Entry 245:
+Position: 0x000B6A
+Encoding: UTF-16 Big Endian
+Text: 栒厍
+------------------------------
+
+Entry 246:
+Position: 0x000B7C
+Encoding: UTF-16 Big Endian
+Text: 鬶鐛
+------------------------------
+
+Entry 247:
+Position: 0x000B86
+Encoding: UTF-16 Little Endian
+Text: 譿呛
+------------------------------
+
+Entry 248:
+Position: 0x000B90
+Encoding: UTF-16 Big Endian
+Text: 榡羋孔
+------------------------------
+
+Entry 249:
+Position: 0x000B98
+Encoding: UTF-16 Little Endian
+Text: 疨楠鵉牻
+------------------------------
+
+Entry 250:
+Position: 0x000BB4
+Encoding: UTF-16 Little Endian
+Text: 諣謞
+------------------------------
+
+Entry 251:
+Position: 0x000BBE
+Encoding: UTF-16 Big Endian
+Text: 鉉蚭
+------------------------------
+
+Entry 252:
+Position: 0x000BDA
+Encoding: UTF-16 Little Endian
+Text: 緾璉弩
+------------------------------
+
+Entry 253:
+Position: 0x000BDC
+Encoding: UTF-16 Big Endian
+Text: 缙統菆
+------------------------------
+
+Entry 254:
+Position: 0x000BEA
+Encoding: UTF-16 Little Endian
+Text: 錺吺磐駀
+------------------------------
+
+Entry 255:
+Position: 0x000BEC
+Encoding: Shift-JIS
+Text: 鍋墟
+------------------------------
+
+Entry 256:
+Position: 0x000C06
+Encoding: UTF-16 Big Endian
+Text: 墮缋找
+------------------------------
+
+Entry 257:
+Position: 0x000C12
+Encoding: Shift-JIS
+Text: 為素
+------------------------------
+
+Entry 258:
+Position: 0x000C16
+Encoding: UTF-16 Little Endian
+Text: 湽赏
+------------------------------
+
+Entry 259:
+Position: 0x000C1C
+Encoding: UTF-16 Little Endian
+Text: 脰薰
+------------------------------
+
+Entry 260:
+Position: 0x000C20
+Encoding: UTF-16 Big Endian
+Text: 飮屑
+------------------------------
+
+Entry 261:
+Position: 0x000C26
+Encoding: UTF-16 Big Endian
+Text: 絮侍
+------------------------------
+
+Entry 262:
+Position: 0x000C30
+Encoding: UTF-16 Big Endian
+Text: 穇征哉
+------------------------------
+
+Entry 263:
+Position: 0x000C38
+Encoding: UTF-16 Big Endian
+Text: 黑砨
+------------------------------
+
+Entry 264:
+Position: 0x000C4C
+Encoding: UTF-16 Big Endian
+Text: 扁氫
+------------------------------
+
+Entry 265:
+Position: 0x000C54
+Encoding: UTF-16 Big Endian
+Text: 氖茫
+------------------------------
+
+Entry 266:
+Position: 0x000C5E
+Encoding: UTF-16 Big Endian
+Text: 忕聶
+------------------------------
+
+Entry 267:
+Position: 0x000C60
+Encoding: UTF-16 Little Endian
+Text: 聋檻
+------------------------------
+
+Entry 268:
+Position: 0x000C6C
+Encoding: UTF-16 Little Endian
+Text: 磣搋旱
+------------------------------
+
+Entry 269:
+Position: 0x000C92
+Encoding: UTF-16 Big Endian
+Text: 懆誻帋畇
+------------------------------
+
+Entry 270:
+Position: 0x000C94
+Encoding: UTF-16 Little Endian
+Text: 彫给碇
+------------------------------
+
+Entry 271:
+Position: 0x000C9E
+Encoding: UTF-16 Little Endian
+Text: 蝮熩塒
+------------------------------
+
+Entry 272:
+Position: 0x000CA0
+Encoding: UTF-16 Big Endian
+Text: 歟蝸
+------------------------------
+
+Entry 273:
+Position: 0x000CAC
+Encoding: UTF-16 Big Endian
+Text: 剘缣絊癐醦
+------------------------------
+
+Entry 274:
+Position: 0x000CB6
+Encoding: UTF-16 Little Endian
+Text: 钎塭
+------------------------------
+
+Entry 275:
+Position: 0x000CBA
+Encoding: UTF-16 Big Endian
+Text: 閰唊躾躔浘
+------------------------------
+
+Entry 276:
+Position: 0x000CD1
+Encoding: Shift-JIS
+Text: 乙諚
+------------------------------
+
+Entry 277:
+Position: 0x000CDD
+Encoding: Shift-JIS
+Text: 甫騾
+------------------------------
+
+Entry 278:
+Position: 0x000D0C
+Encoding: UTF-16 Big Endian
+Text: 茚椼胮
+------------------------------
+
+Entry 279:
+Position: 0x000D2A
+Encoding: UTF-16 Big Endian
+Text: 踏滬
+------------------------------
+
+Entry 280:
+Position: 0x000D44
+Encoding: UTF-16 Big Endian
+Text: 貺盶
+------------------------------
+
+Entry 281:
+Position: 0x000D56
+Encoding: UTF-16 Big Endian
+Text: 閡炞
+------------------------------
+
+Entry 282:
+Position: 0x000D64
+Encoding: UTF-16 Big Endian
+Text: 愆戹
+------------------------------
+
+Entry 283:
+Position: 0x000D68
+Encoding: UTF-16 Little Endian
+Text: 炤狅
+------------------------------
+
+Entry 284:
+Position: 0x000D6E
+Encoding: UTF-16 Little Endian
+Text: 鳳帞幫
+------------------------------
+
+Entry 285:
+Position: 0x000D76
+Encoding: UTF-16 Little Endian
+Text: 鍠髧
+------------------------------
+
+Entry 286:
+Position: 0x000D76
+Encoding: UTF-16 Big Endian
+Text: 歞碵悓
+------------------------------
+
+Entry 287:
+Position: 0x000D7C
+Encoding: UTF-16 Little Endian
+Text: 蚇暹裊丅
+------------------------------
+
+Entry 288:
+Position: 0x000D88
+Encoding: UTF-16 Little Endian
+Text: 睈橻
+------------------------------
+
+Entry 289:
+Position: 0x000DA4
+Encoding: UTF-16 Little Endian
+Text: 衤釗
+------------------------------
+
+Entry 290:
+Position: 0x000DAA
+Encoding: UTF-16 Little Endian
+Text: 婋叱
+------------------------------
+
+Entry 291:
+Position: 0x000DB0
+Encoding: UTF-16 Big Endian
+Text: 皵秬醑柸
+------------------------------
+
+Entry 292:
+Position: 0x000DB4
+Encoding: Shift-JIS
+Text: 厳箋
+------------------------------
+
+Entry 293:
+Position: 0x000DCC
+Encoding: UTF-16 Little Endian
+Text: 扉聨
+------------------------------
+
+Entry 294:
+Position: 0x000DD2
+Encoding: UTF-16 Little Endian
+Text: 森缺
+------------------------------
+
+Entry 295:
+Position: 0x000DDA
+Encoding: UTF-16 Little Endian
+Text: 暧盌
+------------------------------
+
+Entry 296:
+Position: 0x000DDA
+Encoding: UTF-16 Big Endian
+Text: 鬗鄆
+------------------------------
+
+Entry 297:
+Position: 0x000DDD
+Encoding: Shift-JIS
+Text: 東凄
+------------------------------
+
+Entry 298:
+Position: 0x000DE4
+Encoding: UTF-16 Big Endian
+Text: 锢牗
+------------------------------
+
+Entry 299:
+Position: 0x000DE4
+Encoding: Shift-JIS
+Text: 罍後
+------------------------------
+
+Entry 300:
+Position: 0x000DF6
+Encoding: UTF-16 Little Endian
+Text: 所沞
+------------------------------
+
+Entry 301:
+Position: 0x000DFC
+Encoding: UTF-16 Big Endian
+Text: 鹬忼
+------------------------------
+
+Entry 302:
+Position: 0x000E04
+Encoding: UTF-16 Big Endian
+Text: 傭懞況
+------------------------------
+
+Entry 303:
+Position: 0x000E0E
+Encoding: UTF-16 Big Endian
+Text: 尘墸グ灡惡
+------------------------------
+
+Entry 304:
+Position: 0x000E1B
+Encoding: Shift-JIS
+Text: 主戊
+------------------------------
+
+Entry 305:
+Position: 0x000E30
+Encoding: UTF-16 Big Endian
+Text: 殝琏
+------------------------------
+
+Entry 306:
+Position: 0x000E36
+Encoding: UTF-16 Little Endian
+Text: 淫昪
+------------------------------
+
+Entry 307:
+Position: 0x000E42
+Encoding: UTF-16 Little Endian
+Text: 拰捖
+------------------------------
+
+Entry 308:
+Position: 0x000E48
+Encoding: UTF-16 Big Endian
+Text: 厧追嗕
+------------------------------
+
+Entry 309:
+Position: 0x000E58
+Encoding: UTF-16 Little Endian
+Text: 版铰
+------------------------------
+
+Entry 310:
+Position: 0x000E64
+Encoding: UTF-16 Little Endian
+Text: 阮堄
+------------------------------
+
+Entry 311:
+Position: 0x000E66
+Encoding: UTF-16 Big Endian
+Text: 亞亻
+------------------------------
+
+Entry 312:
+Position: 0x000E6A
+Encoding: Shift-JIS
+Text: 焉聟
+------------------------------
+
+Entry 313:
+Position: 0x000E74
+Encoding: UTF-16 Little Endian
+Text: 廩襓
+------------------------------
+
+Entry 314:
+Position: 0x000E80
+Encoding: Shift-JIS
+Text: 絨聶
+------------------------------
+
+Entry 315:
+Position: 0x000E84
+Encoding: UTF-16 Little Endian
+Text: 門郡
+------------------------------
+
+Entry 316:
+Position: 0x000E86
+Encoding: UTF-16 Big Endian
+Text: 胑廤
+------------------------------
+
+Entry 317:
+Position: 0x000E8E
+Encoding: UTF-16 Big Endian
+Text: 躿红
+------------------------------
+
+Entry 318:
+Position: 0x000EA0
+Encoding: UTF-16 Big Endian
+Text: 扛莫
+------------------------------
+
+Entry 319:
+Position: 0x000EAA
+Encoding: UTF-16 Little Endian
+Text: 鉋抐聉醕橤司
+------------------------------
+
+Entry 320:
+Position: 0x000EAA
+Encoding: UTF-16 Big Endian
+Text: 閑摪
+------------------------------
+
+Entry 321:
+Position: 0x000EB8
+Encoding: Shift-JIS
+Text: 鑾鵝
+------------------------------
+
+Entry 322:
+Position: 0x000ECE
+Encoding: UTF-16 Big Endian
+Text: 屴譝
+------------------------------
+
+Entry 323:
+Position: 0x000ED6
+Encoding: UTF-16 Little Endian
+Text: 鬩瑜嶋擷
+------------------------------
+
+Entry 324:
+Position: 0x000EDE
+Encoding: UTF-16 Big Endian
+Text: 軇嵄簈枖
+------------------------------
+
+Entry 325:
+Position: 0x000EE0
+Encoding: Shift-JIS
+Text: 皓柁
+------------------------------
+
+Entry 326:
+Position: 0x000EEC
+Encoding: UTF-16 Little Endian
+Text: 陧藉
+------------------------------
+
+Entry 327:
+Position: 0x000F00
+Encoding: UTF-16 Big Endian
+Text: 睹ッ
+------------------------------
+
+Entry 328:
+Position: 0x000F06
+Encoding: UTF-16 Big Endian
+Text: 儦道斶
+------------------------------
+
+Entry 329:
+Position: 0x000F1E
+Encoding: UTF-16 Big Endian
+Text: 闙繠噟漿
+------------------------------
+
+Entry 330:
+Position: 0x000F20
+Encoding: UTF-16 Little Endian
+Text: 掶漟
+------------------------------
+
+Entry 331:
+Position: 0x000F26
+Encoding: UTF-16 Little Endian
+Text: 恾彖
+------------------------------
+
+Entry 332:
+Position: 0x000F34
+Encoding: UTF-16 Little Endian
+Text: 盱礄
+------------------------------
+
+Entry 333:
+Position: 0x000F34
+Encoding: UTF-16 Big Endian
+Text: 屫閆墄
+------------------------------
+
+Entry 334:
+Position: 0x000F3E
+Encoding: UTF-16 Little Endian
+Text: 歜蚕葘麵
+------------------------------
+
+Entry 335:
+Position: 0x000F42
+Encoding: UTF-16 Big Endian
+Text: 蛩沦
+------------------------------
+
+Entry 336:
+Position: 0x000F42
+Encoding: Shift-JIS
+Text: 槍礇
+------------------------------
+
+Entry 337:
+Position: 0x000F48
+Encoding: UTF-16 Little Endian
+Text: 糖煋
+------------------------------
+
+Entry 338:
+Position: 0x000F52
+Encoding: UTF-16 Big Endian
+Text: 熧吘鷒
+------------------------------
+
+Entry 339:
+Position: 0x000F6A
+Encoding: UTF-16 Big Endian
+Text: 謰嶬
+------------------------------
+
+Entry 340:
+Position: 0x000F6C
+Encoding: UTF-16 Little Endian
+Text: 顅欖埅る
+------------------------------
+
+Entry 341:
+Position: 0x000F74
+Encoding: UTF-16 Big Endian
+Text: 噼揀枓填
+------------------------------
+
+Entry 342:
+Position: 0x000F80
+Encoding: UTF-16 Little Endian
+Text: 鍧歘
+------------------------------
+
+Entry 343:
+Position: 0x000F88
+Encoding: UTF-16 Little Endian
+Text: 濈祫
+------------------------------
+
+Entry 344:
+Position: 0x000F88
+Encoding: UTF-16 Big Endian
+Text: 戔赉
+------------------------------
+
+Entry 345:
+Position: 0x000F8E
+Encoding: UTF-16 Big Endian
+Text: 鎌蚐
+------------------------------
+
+Entry 346:
+Position: 0x000F96
+Encoding: UTF-16 Little Endian
+Text: 貓邆澦
+------------------------------
+
+Entry 347:
+Position: 0x000FA0
+Encoding: UTF-16 Big Endian
+Text: 跾聑帝
+------------------------------
+
+Entry 348:
+Position: 0x000FB2
+Encoding: UTF-16 Big Endian
+Text: 脑鳼
+------------------------------
+
+Entry 349:
+Position: 0x000FB8
+Encoding: UTF-16 Big Endian
+Text: 犷蝶
+------------------------------
+
+Entry 350:
+Position: 0x000FC2
+Encoding: UTF-16 Little Endian
+Text: 皇岻
+------------------------------
+
+Entry 351:
+Position: 0x000FDC
+Encoding: UTF-16 Big Endian
+Text: 备瓗
+------------------------------
+
+Entry 352:
+Position: 0x000FDE
+Encoding: UTF-16 Little Endian
+Text: 踌闥
+------------------------------
+
+Entry 353:
+Position: 0x000FE6
+Encoding: UTF-16 Big Endian
+Text: 儆翶
+------------------------------
+
+Entry 354:
+Position: 0x000FF2
+Encoding: UTF-16 Little Endian
+Text: 信蘥筷稝洆攒巌肝瑧激
+------------------------------
+
+Entry 355:
+Position: 0x000FF8
+Encoding: UTF-16 Big Endian
+Text: 鶀杴
+------------------------------
+
+Entry 356:
+Position: 0x001012
+Encoding: Shift-JIS
+Text: 奉充
+------------------------------
+
+Entry 357:
+Position: 0x00101E
+Encoding: UTF-16 Little Endian
+Text: 簯羁ヾ籾
+------------------------------
+
+Entry 358:
+Position: 0x001020
+Encoding: UTF-16 Big Endian
+Text: 唾辅
+------------------------------
+
+Entry 359:
+Position: 0x00103F
+Encoding: Shift-JIS
+Text: 閑篩
+------------------------------
+
+Entry 360:
+Position: 0x00104E
+Encoding: UTF-16 Big Endian
+Text: 阮緀谵
+------------------------------
+
+Entry 361:
+Position: 0x001064
+Encoding: UTF-16 Little Endian
+Text: 痹繋参
+------------------------------
+
+Entry 362:
+Position: 0x001067
+Encoding: Shift-JIS
+Text: 竟寨
+------------------------------
+
+Entry 363:
+Position: 0x001074
+Encoding: UTF-16 Little Endian
+Text: 绤焺
+------------------------------
+
+Entry 364:
+Position: 0x00107A
+Encoding: UTF-16 Big Endian
+Text: 喱妬
+------------------------------
+
+Entry 365:
+Position: 0x001086
+Encoding: UTF-16 Big Endian
+Text: 亪鷩
+------------------------------
+
+Entry 366:
+Position: 0x00108A
+Encoding: UTF-16 Little Endian
+Text: 熁痨
+------------------------------
+
+Entry 367:
+Position: 0x001096
+Encoding: UTF-16 Little Endian
+Text: 辢剰
+------------------------------
+
+Entry 368:
+Position: 0x00109E
+Encoding: UTF-16 Big Endian
+Text: 赋灒
+------------------------------
+
+Entry 369:
+Position: 0x0010A2
+Encoding: UTF-16 Little Endian
+Text: 外龂伍
+------------------------------
+
+Entry 370:
+Position: 0x0010AB
+Encoding: Shift-JIS
+Text: 貔粲
+------------------------------
+
+Entry 371:
+Position: 0x0010C4
+Encoding: UTF-16 Big Endian
+Text: 詛砞
+------------------------------
+
+Entry 372:
+Position: 0x0010CA
+Encoding: UTF-16 Little Endian
+Text: 擱宊
+------------------------------
+
+Entry 373:
+Position: 0x0010CA
+Encoding: UTF-16 Big Endian
+Text: 騮璂譲
+------------------------------
+
+Entry 374:
+Position: 0x0010D6
+Encoding: UTF-16 Little Endian
+Text: 艴犋鶳
+------------------------------
+
+Entry 375:
+Position: 0x0010E6
+Encoding: UTF-16 Big Endian
+Text: 诒鴴
+------------------------------
+
+Entry 376:
+Position: 0x0010F8
+Encoding: UTF-16 Little Endian
+Text: 爩抙風
+------------------------------
+
+Entry 377:
+Position: 0x001108
+Encoding: UTF-16 Little Endian
+Text: 悴簶
+------------------------------
+
+Entry 378:
+Position: 0x00110E
+Encoding: UTF-16 Little Endian
+Text: 麮鴒
+------------------------------
+
+Entry 379:
+Position: 0x001124
+Encoding: UTF-16 Little Endian
+Text: 牌鳲埔里
+------------------------------
+
+Entry 380:
+Position: 0x001138
+Encoding: UTF-16 Little Endian
+Text: 鮬括
+------------------------------
+
+Entry 381:
+Position: 0x00113E
+Encoding: UTF-16 Big Endian
+Text: 鋋峇
+------------------------------
+
+Entry 382:
+Position: 0x001150
+Encoding: UTF-16 Big Endian
+Text: 嶚護锥鰯
+------------------------------
+
+Entry 383:
+Position: 0x001156
+Encoding: UTF-16 Little Endian
+Text: 狄篨驝瞋
+------------------------------
+
+Entry 384:
+Position: 0x00115C
+Encoding: UTF-16 Big Endian
+Text: 襙戠
+------------------------------
+
+Entry 385:
+Position: 0x001162
+Encoding: UTF-16 Big Endian
+Text: 籨剂
+------------------------------
+
+Entry 386:
+Position: 0x001170
+Encoding: UTF-16 Big Endian
+Text: 廘慷楗
+------------------------------
+
+Entry 387:
+Position: 0x001172
+Encoding: UTF-16 Little Endian
+Text: 匬饊
+------------------------------
+
+Entry 388:
+Position: 0x00117C
+Encoding: UTF-16 Little Endian
+Text: 睡坩
+------------------------------
+
+Entry 389:
+Position: 0x001188
+Encoding: UTF-16 Big Endian
+Text: 钲錃
+------------------------------
+
+Entry 390:
+Position: 0x001193
+Encoding: Shift-JIS
+Text: 愿徂
+------------------------------
+
+Entry 391:
+Position: 0x00119E
+Encoding: UTF-16 Big Endian
+Text: 隞烹鏉
+------------------------------
+
+Entry 392:
+Position: 0x0011B6
+Encoding: UTF-16 Big Endian
+Text: 頊玳
+------------------------------
+
+Entry 393:
+Position: 0x0011BE
+Encoding: UTF-16 Big Endian
+Text: 椡弗粶
+------------------------------
+
+Entry 394:
+Position: 0x0011D0
+Encoding: UTF-16 Big Endian
+Text: 谔荜
+------------------------------
+
+Entry 395:
+Position: 0x0011D9
+Encoding: Shift-JIS
+Text: 匂嵳
+------------------------------
+
+Entry 396:
+Position: 0x0011DA
+Encoding: UTF-16 Big Endian
+Text: 弦韦
+------------------------------
+
+Entry 397:
+Position: 0x0011EE
+Encoding: UTF-16 Big Endian
+Text: 譃衻
+------------------------------
+
+Entry 398:
+Position: 0x001208
+Encoding: UTF-16 Big Endian
+Text: 寋柊
+------------------------------
+
+Entry 399:
+Position: 0x001212
+Encoding: UTF-16 Little Endian
+Text: 闰迲
+------------------------------
+
+Entry 400:
+Position: 0x00121A
+Encoding: UTF-16 Little Endian
+Text: 囊檢螆
+------------------------------
+
+Entry 401:
+Position: 0x00122A
+Encoding: UTF-16 Little Endian
+Text: 鶶礴
+------------------------------
+
+Entry 402:
+Position: 0x001230
+Encoding: UTF-16 Little Endian
+Text: 鎻慢纥
+------------------------------
+
+Entry 403:
+Position: 0x001237
+Encoding: Shift-JIS
+Text: ダ佰
+------------------------------
+
+Entry 404:
+Position: 0x00123E
+Encoding: UTF-16 Big Endian
+Text: 蝢诸
+------------------------------
+
+Entry 405:
+Position: 0x00124A
+Encoding: UTF-16 Big Endian
+Text: 釂芊呐
+------------------------------
+
+Entry 406:
+Position: 0x001250
+Encoding: UTF-16 Little Endian
+Text: 夙犧
+------------------------------
+
+Entry 407:
+Position: 0x00125A
+Encoding: UTF-16 Little Endian
+Text: 誂偔
+------------------------------
+
+Entry 408:
+Position: 0x00126C
+Encoding: UTF-16 Little Endian
+Text: 昊劰
+------------------------------
+
+Entry 409:
+Position: 0x00129C
+Encoding: UTF-16 Big Endian
+Text: 脳诫
+------------------------------
+
+Entry 410:
+Position: 0x0012A2
+Encoding: UTF-16 Little Endian
+Text: 卒釩
+------------------------------
+
+Entry 411:
+Position: 0x0012A6
+Encoding: Shift-JIS
+Text: 枅パ
+------------------------------
+
+Entry 412:
+Position: 0x0012BC
+Encoding: UTF-16 Little Endian
+Text: 闳昝
+------------------------------
+
+Entry 413:
+Position: 0x0012D2
+Encoding: UTF-16 Little Endian
+Text: 草曛
+------------------------------
+
+Entry 414:
+Position: 0x0012F8
+Encoding: UTF-16 Little Endian
+Text: 觸哸
+------------------------------
+
+Entry 415:
+Position: 0x0012F8
+Encoding: UTF-16 Big Endian
+Text: 萄鳧冢
+------------------------------
+
+Entry 416:
+Position: 0x001300
+Encoding: UTF-16 Little Endian
+Text: 嬺蓴
+------------------------------
+
+Entry 417:
+Position: 0x001320
+Encoding: UTF-16 Big Endian
+Text: 誟瑅凌烍
+------------------------------
+
+Entry 418:
+Position: 0x00133D
+Encoding: Shift-JIS
+Text: 斧寒
+------------------------------
+
+Entry 419:
+Position: 0x001340
+Encoding: UTF-16 Big Endian
+Text: 爑圆唻
+------------------------------
+
+Entry 420:
+Position: 0x00134A
+Encoding: UTF-16 Little Endian
+Text: 兑熩
+------------------------------
+
+Entry 421:
+Position: 0x001364
+Encoding: UTF-16 Little Endian
+Text: 員雥廆搶
+------------------------------
+
+Entry 422:
+Position: 0x00136E
+Encoding: UTF-16 Little Endian
+Text: 侩釻
+------------------------------
+
+Entry 423:
+Position: 0x001372
+Encoding: UTF-16 Big Endian
+Text: 輜廑绤
+------------------------------
+
+Entry 424:
+Position: 0x001374
+Encoding: UTF-16 Little Endian
+Text: 攸襙
+------------------------------
+
+Entry 425:
+Position: 0x00137A
+Encoding: UTF-16 Big Endian
+Text: 鎢偩唈
+------------------------------
+
+Entry 426:
+Position: 0x001388
+Encoding: UTF-16 Big Endian
+Text: 蠅喡咖
+------------------------------
+
+Entry 427:
+Position: 0x00138C
+Encoding: UTF-16 Little Endian
+Text: 该减盌
+------------------------------
+
+Entry 428:
+Position: 0x001390
+Encoding: UTF-16 Big Endian
+Text: 厾槰
+------------------------------
+
+Entry 429:
+Position: 0x00139A
+Encoding: UTF-16 Big Endian
+Text: 儨沃
+------------------------------
+
+Entry 430:
+Position: 0x0013AE
+Encoding: UTF-16 Big Endian
+Text: 惱閳
+------------------------------
+
+Entry 431:
+Position: 0x0013B8
+Encoding: UTF-16 Big Endian
+Text: 鳃鱨教阽
+------------------------------
+
+Entry 432:
+Position: 0x0013BE
+Encoding: UTF-16 Little Endian
+Text: 矅熈
+------------------------------
+
+Entry 433:
+Position: 0x0013C6
+Encoding: UTF-16 Little Endian
+Text: 梜奥
+------------------------------
+
+Entry 434:
+Position: 0x0013D6
+Encoding: UTF-16 Big Endian
+Text: 瘎踅
+------------------------------
+
+Entry 435:
+Position: 0x0013DD
+Encoding: Shift-JIS
+Text: 捨躰
+------------------------------
+
+Entry 436:
+Position: 0x0013DE
+Encoding: UTF-16 Little Endian
+Text: 鴄犡
+------------------------------
+
+Entry 437:
+Position: 0x0013FC
+Encoding: UTF-16 Big Endian
+Text: 瓓筯
+------------------------------
+
+Entry 438:
+Position: 0x001404
+Encoding: UTF-16 Big Endian
+Text: 朊滱捘
+------------------------------
+
+Entry 439:
+Position: 0x001408
+Encoding: UTF-16 Little Endian
+Text: 潻銫嫅
+------------------------------
+
+Entry 440:
+Position: 0x00140C
+Encoding: UTF-16 Big Endian
+Text: 鏵鯋
+------------------------------
+
+Entry 441:
+Position: 0x001416
+Encoding: UTF-16 Big Endian
+Text: 納雫
+------------------------------
+
+Entry 442:
+Position: 0x001422
+Encoding: Shift-JIS
+Text: 蹶毟烹跋
+------------------------------
+
+Entry 443:
+Position: 0x00142C
+Encoding: UTF-16 Little Endian
+Text: レ鬗
+------------------------------
+
+Entry 444:
+Position: 0x001440
+Encoding: UTF-16 Big Endian
+Text: 達滷馿
+------------------------------
+
+Entry 445:
+Position: 0x001454
+Encoding: UTF-16 Big Endian
+Text: 圌喸
+------------------------------
+
+Entry 446:
+Position: 0x001459
+Encoding: Shift-JIS
+Text: 篶簇
+------------------------------
+
+Entry 447:
+Position: 0x00146C
+Encoding: UTF-16 Big Endian
+Text: 鱾藈
+------------------------------
+
+Entry 448:
+Position: 0x001470
+Encoding: UTF-16 Little Endian
+Text: 蚳紵
+------------------------------
+
+Entry 449:
+Position: 0x001472
+Encoding: UTF-16 Big Endian
+Text: 恠靻
+------------------------------
+
+Entry 450:
+Position: 0x00147A
+Encoding: UTF-16 Little Endian
+Text: 觃恠算諝
+------------------------------
+
+Entry 451:
+Position: 0x00147E
+Encoding: UTF-16 Big Endian
+Text: 徆飏
+------------------------------
+
+Entry 452:
+Position: 0x001488
+Encoding: UTF-16 Little Endian
+Text: 茎號
+------------------------------
+
+Entry 453:
+Position: 0x001491
+Encoding: Shift-JIS
+Text: 上出
+------------------------------
+
+Entry 454:
+Position: 0x001494
+Encoding: UTF-16 Little Endian
+Text: 欐黡
+------------------------------
+
+Entry 455:
+Position: 0x0014AE
+Encoding: UTF-16 Big Endian
+Text: 蕗涍
+------------------------------
+
+Entry 456:
+Position: 0x0014B4
+Encoding: UTF-16 Big Endian
+Text: 熥说
+------------------------------
+
+Entry 457:
+Position: 0x0014B8
+Encoding: UTF-16 Little Endian
+Text: 鉌垅赭
+------------------------------
+
+Entry 458:
+Position: 0x0014D6
+Encoding: UTF-16 Little Endian
+Text: 骭瘙篁丱陊阒
+------------------------------
+
+Entry 459:
+Position: 0x0014E0
+Encoding: UTF-16 Big Endian
+Text: 吔攗鼧儈襮
+------------------------------
+
+Entry 460:
+Position: 0x0014EA
+Encoding: UTF-16 Little Endian
+Text: 塅鮳
+------------------------------
+
+Entry 461:
+Position: 0x0014F4
+Encoding: UTF-16 Big Endian
+Text: 鹦荰
+------------------------------
+
+Entry 462:
+Position: 0x0014F6
+Encoding: UTF-16 Little Endian
+Text: 溉悮
+------------------------------
+
+Entry 463:
+Position: 0x001502
+Encoding: UTF-16 Little Endian
+Text: 募暞炃
+------------------------------
+
+Entry 464:
+Position: 0x001506
+Encoding: UTF-16 Big Endian
+Text: 烨屇
+------------------------------
+
+Entry 465:
+Position: 0x001510
+Encoding: UTF-16 Big Endian
+Text: 訥韬
+------------------------------
+
+Entry 466:
+Position: 0x00151A
+Encoding: UTF-16 Big Endian
+Text: 久荊
+------------------------------
+
+Entry 467:
+Position: 0x001525
+Encoding: Shift-JIS
+Text: 老訳
+------------------------------
+
+Entry 468:
+Position: 0x001536
+Encoding: UTF-16 Big Endian
+Text: 裋瓹
+------------------------------
+
+Entry 469:
+Position: 0x001554
+Encoding: UTF-16 Little Endian
+Text: 吖洯鶚
+------------------------------
+
+Entry 470:
+Position: 0x001562
+Encoding: UTF-16 Little Endian
+Text: 汖簓绵
+------------------------------
+
+Entry 471:
+Position: 0x00156E
+Encoding: UTF-16 Big Endian
+Text: 法圓
+------------------------------
+
+Entry 472:
+Position: 0x001594
+Encoding: UTF-16 Little Endian
+Text: 姵逵
+------------------------------
+
+Entry 473:
+Position: 0x0015A8
+Encoding: UTF-16 Little Endian
+Text: 味搯坯
+------------------------------
+
+Entry 474:
+Position: 0x0015AA
+Encoding: UTF-16 Big Endian
+Text: 門誦蒳
+------------------------------
+
+Entry 475:
+Position: 0x0015D8
+Encoding: UTF-16 Little Endian
+Text: 誕亡鯰
+------------------------------
+
+Entry 476:
+Position: 0x0015DA
+Encoding: UTF-16 Big Endian
+Text: 鲕呏
+------------------------------
+
+Entry 477:
+Position: 0x0015E0
+Encoding: UTF-16 Little Endian
+Text: 輬嗷楊
+------------------------------
+
+Entry 478:
+Position: 0x0015E8
+Encoding: UTF-16 Little Endian
+Text: 閜佔
+------------------------------
+
+Entry 479:
+Position: 0x0015FA
+Encoding: UTF-16 Little Endian
+Text: 垴簇
+------------------------------
+
+Entry 480:
+Position: 0x0015FE
+Encoding: UTF-16 Big Endian
+Text: 炠窧岉
+------------------------------
+
+Entry 481:
+Position: 0x001606
+Encoding: UTF-16 Big Endian
+Text: 怙縭波
+------------------------------
+
+Entry 482:
+Position: 0x001618
+Encoding: UTF-16 Big Endian
+Text: 濋洕
+------------------------------
+
+Entry 483:
+Position: 0x00161E
+Encoding: UTF-16 Little Endian
+Text: 縮犂
+------------------------------
+
+Entry 484:
+Position: 0x00161E
+Encoding: UTF-16 Big Endian
+Text: 續岹脅
+------------------------------
+
+Entry 485:
+Position: 0x001628
+Encoding: UTF-16 Little Endian
+Text: 脗豾
+------------------------------
+
+Entry 486:
+Position: 0x001642
+Encoding: UTF-16 Little Endian
+Text: 冰瓖
+------------------------------
+
+Entry 487:
+Position: 0x001646
+Encoding: UTF-16 Big Endian
+Text: 蹡敒敊
+------------------------------
+
+Entry 488:
+Position: 0x00164E
+Encoding: UTF-16 Little Endian
+Text: 憎剥
+------------------------------
+
+Entry 489:
+Position: 0x00165A
+Encoding: UTF-16 Big Endian
+Text: 穉鴱
+------------------------------
+
+Entry 490:
+Position: 0x001668
+Encoding: UTF-16 Big Endian
+Text: 嬥彶
+------------------------------
+
+Entry 491:
+Position: 0x001672
+Encoding: UTF-16 Little Endian
+Text: 癟務
+------------------------------
+
+Entry 492:
+Position: 0x001678
+Encoding: UTF-16 Little Endian
+Text: 岯娔
+------------------------------
+
+Entry 493:
+Position: 0x00167A
+Encoding: UTF-16 Big Endian
+Text: 媉澤
+------------------------------
+
+Entry 494:
+Position: 0x001688
+Encoding: UTF-16 Big Endian
+Text: 呁雞
+------------------------------
+
+Entry 495:
+Position: 0x001696
+Encoding: UTF-16 Big Endian
+Text: 聛崮囼
+------------------------------
+
+Entry 496:
+Position: 0x001698
+Encoding: UTF-16 Little Endian
+Text: 瀅瘚
+------------------------------
+
+Entry 497:
+Position: 0x0016AA
+Encoding: UTF-16 Big Endian
+Text: 檍盟棧
+------------------------------
+
+Entry 498:
+Position: 0x0016B6
+Encoding: UTF-16 Little Endian
+Text: 齋険
+------------------------------
+
+Entry 499:
+Position: 0x0016B8
+Encoding: UTF-16 Big Endian
+Text: 璕覔
+------------------------------
+
+Entry 500:
+Position: 0x0016BC
+Encoding: UTF-16 Little Endian
+Text: 姫镴钉
+------------------------------
+
+Entry 501:
+Position: 0x0016C0
+Encoding: UTF-16 Big Endian
+Text: 靧播
+------------------------------
+
+Entry 502:
+Position: 0x0016CA
+Encoding: UTF-16 Little Endian
+Text: 眢鯠
+------------------------------
+
+Entry 503:
+Position: 0x0016D8
+Encoding: UTF-16 Little Endian
+Text: 彨霺娮痮瞏缕を訕
+------------------------------
+
+Entry 504:
+Position: 0x0016E4
+Encoding: UTF-16 Big Endian
+Text: 鄍幑
+------------------------------
+
+Entry 505:
+Position: 0x0016EC
+Encoding: UTF-16 Little Endian
+Text: 兞舦
+------------------------------
+
+Entry 506:
+Position: 0x0016FC
+Encoding: UTF-16 Little Endian
+Text: 韢酦
+------------------------------
+
+Entry 507:
+Position: 0x001702
+Encoding: UTF-16 Little Endian
+Text: 韚昘娑
+------------------------------
+
+Entry 508:
+Position: 0x00170E
+Encoding: UTF-16 Big Endian
+Text: 淮掕腕
+------------------------------
+
+Entry 509:
+Position: 0x001716
+Encoding: UTF-16 Little Endian
+Text: 镣喁弁銄咯
+------------------------------
+
+Entry 510:
+Position: 0x001716
+Encoding: UTF-16 Big Endian
+Text: 蒒胛
+------------------------------
+
+Entry 511:
+Position: 0x00172E
+Encoding: UTF-16 Little Endian
+Text: 轾迣牯緪
+------------------------------
+
+Entry 512:
+Position: 0x001748
+Encoding: UTF-16 Big Endian
+Text: 砋芟皉
+------------------------------
+
+Entry 513:
+Position: 0x00174E
+Encoding: UTF-16 Little Endian
+Text: 龂域襶啅
+------------------------------
+
+Entry 514:
+Position: 0x00175A
+Encoding: UTF-16 Little Endian
+Text: 剹嚨沧材
+------------------------------
+
+Entry 515:
+Position: 0x00176A
+Encoding: UTF-16 Little Endian
+Text: 蓡韊礊兺
+------------------------------
+
+Entry 516:
+Position: 0x00176E
+Encoding: UTF-16 Big Endian
+Text: 劔鎠
+------------------------------
+
+Entry 517:
+Position: 0x001784
+Encoding: UTF-16 Little Endian
+Text: 糊跌
+------------------------------
+
+Entry 518:
+Position: 0x00178A
+Encoding: UTF-16 Little Endian
+Text: 箮倒
+------------------------------
+
+Entry 519:
+Position: 0x0017A2
+Encoding: UTF-16 Big Endian
+Text: 嘭錊
+------------------------------
+
+Entry 520:
+Position: 0x0017C2
+Encoding: UTF-16 Big Endian
+Text: 顖雳溓吺俇
+------------------------------
+
+Entry 521:
+Position: 0x0017D6
+Encoding: UTF-16 Little Endian
+Text: 栉妎駄
+------------------------------
+
+Entry 522:
+Position: 0x0017E0
+Encoding: UTF-16 Big Endian
+Text: 疠隴毃
+------------------------------
+
+Entry 523:
+Position: 0x0017EC
+Encoding: UTF-16 Little Endian
+Text: 猥菥噿蘦
+------------------------------
+
+Entry 524:
+Position: 0x00181A
+Encoding: UTF-16 Little Endian
+Text: 闪庴达弮
+------------------------------
+
+Entry 525:
+Position: 0x00184E
+Encoding: UTF-16 Little Endian
+Text: 忹ァ
+------------------------------
+
+Entry 526:
+Position: 0x000002
+Encoding: UTF-16 Little Endian
+Text: 猖牣灩
+------------------------------
+
+Entry 527:
+Position: 0x000004
+Encoding: UTF-16 Big Endian
+Text: 捲楰琯晥
+------------------------------
+
+Entry 528:
+Position: 0x00000A
+Encoding: UTF-16 Little Endian
+Text: 敦琯瑵彯
+------------------------------
+
+Entry 529:
+Position: 0x00000E
+Encoding: UTF-16 Big Endian
+Text: 畴潟
+------------------------------
+
+Entry 530:
+Position: 0x000016
+Encoding: UTF-16 Big Endian
+Text: 牴猋
+------------------------------
+
+Entry 531:
+Position: 0x00001A
+Encoding: UTF-16 Little Endian
+Text: 戼極楬
+------------------------------
+
+Entry 532:
+Position: 0x00001C
+Encoding: UTF-16 Big Endian
+Text: 畩汩琭楮
+------------------------------
+
+Entry 533:
+Position: 0x000027
+Encoding: UTF-8
+Text: コマンドライン
+------------------------------
+
+Entry 534:
+Position: 0x00002A
+Encoding: Shift-JIS
+Text: 繝槭
+------------------------------
+
+Entry 535:
+Position: 0x00002C
+Encoding: UTF-16 Big Endian
+Text: 黣莳
+------------------------------
+
+Entry 536:
+Position: 0x000030
+Encoding: Shift-JIS
+Text: 繝峨
+------------------------------
+
+Entry 537:
+Position: 0x000032
+Encoding: UTF-16 Big Endian
+Text: 解莩
+------------------------------
+
+Entry 538:
+Position: 0x00003E
+Encoding: UTF-16 Little Endian
+Text: 捳楲瑰是
+------------------------------
+
+Entry 539:
+Position: 0x00003E
+Encoding: UTF-16 Big Endian
+Text: 獣物灴
+------------------------------
+
+Entry 540:
+Position: 0x00004A
+Encoding: UTF-16 Little Endian
+Text: 畴潴楲污栮猛牣灩
+------------------------------
+
+Entry 541:
+Position: 0x00004A
+Encoding: UTF-16 Big Endian
+Text: 瑵瑯物慬
+------------------------------
+
+Entry 542:
+Position: 0x000062
+Encoding: UTF-16 Little Endian
+Text: 是杩瑨敟敶瑮栮
+------------------------------
+
+Entry 543:
+Position: 0x000064
+Encoding: UTF-16 Big Endian
+Text: 楧桴彥癥湴
+------------------------------
+
+Entry 544:
+Position: 0x000072
+Encoding: UTF-16 Little Endian
+Text: 猯牣灩
+------------------------------
+
+Entry 545:
+Position: 0x000074
+Encoding: UTF-16 Big Endian
+Text: 捲楰琯捯牥
+------------------------------
+
+Entry 546:
+Position: 0x00007A
+Encoding: UTF-16 Little Endian
+Text: 潣敲振牯
+------------------------------
+
+Entry 547:
+Position: 0x000080
+Encoding: UTF-16 Big Endian
+Text: 潲攮栎
+------------------------------
+
+Entry 548:
+Position: 0x000088
+Encoding: UTF-16 Little Endian
+Text: 捳楲瑰术湥栮
+------------------------------
+
+Entry 549:
+Position: 0x00009E
+Encoding: UTF-16 Little Endian
+Text: 潣敲是潬瑡栮
+------------------------------
+
+Entry 550:
+Position: 0x0000A4
+Encoding: UTF-16 Big Endian
+Text: 汯慴
+------------------------------
+
+Entry 551:
+Position: 0x0000B4
+Encoding: UTF-16 Little Endian
+Text: 潣敲猯摴栮
+------------------------------
+
+Entry 552:
+Position: 0x0000C2
+Encoding: UTF-16 Big Endian
+Text: 捲楰琯癧
+------------------------------
+
+Entry 553:
+Position: 0x0000C8
+Encoding: UTF-16 Little Endian
+Text: 杶栮
+------------------------------
+
+Entry 554:
+Position: 0x0000D0
+Encoding: UTF-16 Big Endian
+Text: 捲楰琯獯畮搮栓
+------------------------------
+
+Entry 555:
+Position: 0x0000D6
+Encoding: UTF-16 Little Endian
+Text: 潳湵
+------------------------------
+
+Entry 556:
+Position: 0x0000E0
+Encoding: UTF-16 Little Endian
+Text: 捳楲瑰瘯彧敤畢
+------------------------------
+
+Entry 557:
+Position: 0x0000E8
+Encoding: UTF-16 Big Endian
+Text: 束摥扵朮栙
+------------------------------
+
+Entry 558:
+Position: 0x0000F4
+Encoding: UTF-16 Little Endian
+Text: 慤慴慢敳瘯彧祴数彳瑲
+------------------------------
+
+Entry 559:
+Position: 0x0000F4
+Encoding: UTF-16 Big Endian
+Text: 摡瑡扡獥
+------------------------------
+
+Entry 560:
+Position: 0x0000FE
+Encoding: UTF-16 Big Endian
+Text: 束瑹灥獟牴献栓
+------------------------------
+
+Entry 561:
+Position: 0x00010E
+Encoding: UTF-16 Little Endian
+Text: 捳楲瑰振牯
+------------------------------
+
+Entry 562:
+Position: 0x000116
+Encoding: UTF-16 Big Endian
+Text: 潲支朳搮栒
+------------------------------
+
+Entry 563:
+Position: 0x000122
+Encoding: UTF-16 Little Endian
+Text: 捳楲瑰是杩瑨穟栮愵
+------------------------------
+
+Entry 564:
+Position: 0x00012A
+Encoding: UTF-16 Big Endian
+Text: 楧桴彺
+------------------------------
+
+Entry 565:
+Position: 0x000188
+Encoding: UTF-16 Little Endian
+Text: 礀赶
+------------------------------
+
+Entry 566:
+Position: 0x000198
+Encoding: UTF-16 Little Endian
+Text: 崀駙
+------------------------------
+
+Entry 567:
+Position: 0x0001B0
+Encoding: UTF-16 Little Endian
+Text: 鈀脶
+------------------------------
+
+Entry 568:
+Position: 0x0001F6
+Encoding: UTF-16 Big Endian
+Text: 蟐洊
+------------------------------
+
+Entry 569:
+Position: 0x00020C
+Encoding: UTF-16 Big Endian
+Text: 絓缟
+------------------------------
+
+Entry 570:
+Position: 0x000234
+Encoding: UTF-16 Big Endian
+Text: 籹騌
+------------------------------
+
+Entry 571:
+Position: 0x000236
+Encoding: UTF-16 Little Endian
+Text: 頀祼
+------------------------------
+
+Entry 572:
+Position: 0x00026C
+Encoding: UTF-16 Little Endian
+Text: 鐀桜
+------------------------------
+
+Entry 573:
+Position: 0x00029C
+Encoding: UTF-16 Little Endian
+Text: 鈀损
+------------------------------
+
+Entry 574:
+Position: 0x0002CC
+Encoding: UTF-16 Little Endian
+Text: 鈀樱
+------------------------------
+
+Entry 575:
+Position: 0x000300
+Encoding: UTF-16 Big Endian
+Text: 鈶腕
+------------------------------
+
+Entry 576:
+Position: 0x00032E
+Encoding: UTF-16 Big Endian
+Text: 蟐洀
+------------------------------
+
+Entry 577:
+Position: 0x000340
+Encoding: UTF-16 Big Endian
+Text: 籹騀
+------------------------------
+
+Entry 578:
+Position: 0x0003BC
+Encoding: UTF-16 Big Endian
+Text: 縣庩
+------------------------------
+
+Entry 579:
+Position: 0x0003C2
+Encoding: UTF-16 Big Endian
+Text: 鸴塷
+------------------------------
+
+Entry 580:
+Position: 0x0003CA
+Encoding: UTF-16 Big Endian
+Text: 曤魨
+------------------------------
+
+Entry 581:
+Position: 0x0003FE
+Encoding: UTF-16 Little Endian
+Text: ゘眕
+------------------------------
+
+Entry 582:
+Position: 0x000408
+Encoding: UTF-16 Little Endian
+Text: 暺騇
+------------------------------
+
+Entry 583:
+Position: 0x00041C
+Encoding: UTF-16 Little Endian
+Text: 緿罓
+------------------------------
+
+Entry 584:
+Position: 0x000456
+Encoding: UTF-16 Little Endian
+Text: 凚途
+------------------------------
+
+Entry 585:
+Position: 0x000462
+Encoding: UTF-16 Little Endian
+Text: 圩賞
+------------------------------
+
+Entry 586:
+Position: 0x000468
+Encoding: UTF-16 Little Endian
+Text: 縆帣
+------------------------------
+
+Entry 587:
+Position: 0x000480
+Encoding: UTF-16 Big Endian
+Text: 訒科
+------------------------------
+
+Entry 588:
+Position: 0x00049E
+Encoding: UTF-16 Big Endian
+Text: 儔杻
+------------------------------
+
+Entry 589:
+Position: 0x0004A6
+Encoding: UTF-16 Little Endian
+Text: 鯟篡
+------------------------------
+
+Entry 590:
+Position: 0x0004D8
+Encoding: UTF-16 Little Endian
+Text: 繌觭瘢
+------------------------------
+
+Entry 591:
+Position: 0x0004DA
+Encoding: UTF-16 Big Endian
+Text: 鈱櫻
+------------------------------
+
+Entry 592:
+Position: 0x0004EB
+Encoding: Shift-JIS
+Text: 栫囃
+------------------------------
+
+Entry 593:
+Position: 0x00050C
+Encoding: UTF-16 Little Endian
+Text: 麾锩
+------------------------------
+
+Entry 594:
+Position: 0x000514
+Encoding: UTF-16 Big Endian
+Text: 儔倗猪
+------------------------------
+
+Entry 595:
+Position: 0x000518
+Encoding: UTF-16 Little Endian
+Text: 麾骁
+------------------------------
+
+Entry 596:
+Position: 0x00051C
+Encoding: UTF-16 Big Endian
+Text: 儔郜欶
+------------------------------
+
+Entry 597:
+Position: 0x000523
+Encoding: Shift-JIS
+Text: 勉胆
+------------------------------
+
+Entry 598:
+Position: 0x000536
+Encoding: UTF-16 Big Endian
+Text: 膚鈜镞
+------------------------------
+
+Entry 599:
+Position: 0x00054C
+Encoding: UTF-16 Big Endian
+Text: 续祶贠
+------------------------------
+
+Entry 600:
+Position: 0x000572
+Encoding: UTF-16 Big Endian
+Text: 闗鉟揅
+------------------------------
+
+Entry 601:
+Position: 0x000590
+Encoding: UTF-16 Little Endian
+Text: 蔐洀
+------------------------------
+
+Entry 602:
+Position: 0x00059C
+Encoding: UTF-16 Little Endian
+Text: 夀莏
+------------------------------
+
+Entry 603:
+Position: 0x0005A2
+Encoding: UTF-16 Little Endian
+Text: 絳瀣
+------------------------------
+
+Entry 604:
+Position: 0x0005B8
+Encoding: UTF-16 Big Endian
+Text: 较紀獽
+------------------------------
+
+Entry 605:
+Position: 0x0005C8
+Encoding: UTF-16 Little Endian
+Text: 煣秀
+------------------------------
+
+Entry 606:
+Position: 0x0005D0
+Encoding: UTF-16 Little Endian
+Text: 蕹焁秀
+------------------------------
+
+Entry 607:
+Position: 0x0005E6
+Encoding: UTF-16 Big Endian
+Text: 蔀燀禅
+------------------------------
+
+Entry 608:
+Position: 0x0005FC
+Encoding: Shift-JIS
+Text: 扛亦
+------------------------------
+
+Entry 609:
+Position: 0x00061A
+Encoding: UTF-16 Big Endian
+Text: 蛼一
+------------------------------
+
+Entry 610:
+Position: 0x000624
+Encoding: UTF-16 Little Endian
+Text: 捌絾沝
+------------------------------
+
+Entry 611:
+Position: 0x000640
+Encoding: UTF-16 Big Endian
+Text: 繽鵬
+------------------------------
+
+Entry 612:
+Position: 0x000642
+Encoding: UTF-16 Little Endian
+Text: 鴀陋
+------------------------------
+
+Entry 613:
+Position: 0x000648
+Encoding: UTF-16 Little Endian
+Text: 獿欁翜
+------------------------------
+
+Entry 614:
+Position: 0x00065E
+Encoding: UTF-16 Big Endian
+Text: 鈀毜罳
+------------------------------
+
+Entry 615:
+Position: 0x000674
+Encoding: UTF-16 Big Endian
+Text: 挣鶘
+------------------------------
+
+Entry 616:
+Position: 0x00067C
+Encoding: UTF-16 Little Endian
+Text: ヅ驳
+------------------------------
+
+Entry 617:
+Position: 0x00069C
+Encoding: UTF-16 Big Endian
+Text: 圚帀
+------------------------------
+
+Entry 618:
+Position: 0x0006A0
+Encoding: UTF-16 Little Endian
+Text: 濄阀
+------------------------------
+
+Entry 619:
+Position: 0x0006B4
+Encoding: UTF-16 Little Endian
+Text: 阀謨
+------------------------------
+
+Entry 620:
+Position: 0x0006D6
+Encoding: UTF-16 Little Endian
+Text: 鱣廵
+------------------------------
+
+Entry 621:
+Position: 0x000710
+Encoding: UTF-16 Little Endian
+Text: 褀滤
+------------------------------
+
+Entry 622:
+Position: 0x000722
+Encoding: UTF-16 Little Endian
+Text: 嵹戀
+------------------------------
+
+Entry 623:
+Position: 0x00074A
+Encoding: UTF-16 Big Endian
+Text: 崀蒭
+------------------------------
+
+Entry 624:
+Position: 0x00077A
+Encoding: UTF-16 Little Endian
+Text: 秨改
+------------------------------
+
+Entry 625:
+Position: 0x000796
+Encoding: UTF-16 Big Endian
+Text: 损烊
+------------------------------
+
+Entry 626:
+Position: 0x0007BA
+Encoding: UTF-16 Little Endian
+Text: 匀佒
+------------------------------
+
+Entry 627:
+Position: 0x0007E4
+Encoding: UTF-16 Little Endian
+Text: 堻姅
+------------------------------
+
+Entry 628:
+Position: 0x0007F8
+Encoding: UTF-16 Little Endian
+Text: 籼巺
+------------------------------
+
+Entry 629:
+Position: 0x000800
+Encoding: UTF-16 Big Endian
+Text: 糎娀
+------------------------------
+
+Entry 630:
+Position: 0x000804
+Encoding: UTF-16 Little Endian
+Text: 蛃吀孶
+------------------------------
+
+Entry 631:
+Position: 0x00081A
+Encoding: UTF-16 Big Endian
+Text: 瞧瀀
+------------------------------
+
+Entry 632:
+Position: 0x000824
+Encoding: UTF-16 Big Endian
+Text: 癛猀倆
+------------------------------
+
+Entry 633:
+Position: 0x000832
+Encoding: UTF-16 Little Endian
+Text: 挶淥墩谀儚
+------------------------------
+
+Entry 634:
+Position: 0x000832
+Encoding: UTF-16 Big Endian
+Text: 峄鈐
+------------------------------
+
+Entry 635:
+Position: 0x000862
+Encoding: UTF-16 Big Endian
+Text: 言鉑
+------------------------------
+
+Entry 636:
+Position: 0x000868
+Encoding: UTF-16 Little Endian
+Text: 一诺
+------------------------------
+
+Entry 637:
+Position: 0x000886
+Encoding: UTF-16 Little Endian
+Text: 騀承
+------------------------------
+
+Entry 638:
+Position: 0x000896
+Encoding: UTF-16 Little Endian
+Text: 嬛刂
+------------------------------
+
+Entry 639:
+Position: 0x00089E
+Encoding: UTF-16 Little Endian
+Text: 唀瑒
+------------------------------
+
+Entry 640:
+Position: 0x00089E
+Encoding: UTF-16 Big Endian
+Text: 歑鈖
+------------------------------
+
+Entry 641:
+Position: 0x0008A4
+Encoding: UTF-16 Big Endian
+Text: 罢鼀
+------------------------------
+
+Entry 642:
+Position: 0x0008D8
+Encoding: UTF-16 Little Endian
+Text: 持軟
+------------------------------
+
+Entry 643:
+Position: 0x0008F1
+Encoding: Shift-JIS
+Text: 書痘
+------------------------------
+
+Entry 644:
+Position: 0x0008FE
+Encoding: UTF-16 Little Endian
+Text: 持蠃懥一
+------------------------------
+
+Entry 645:
+Position: 0x00090A
+Encoding: UTF-16 Little Endian
+Text: 誘戳
+------------------------------
+
+Entry 646:
+Position: 0x000940
+Encoding: UTF-16 Little Endian
+Text: 匎荒
+------------------------------
+
+Entry 647:
+Position: 0x000946
+Encoding: UTF-16 Little Endian
+Text: 镣刚
+------------------------------
+
+Entry 648:
+Position: 0x000956
+Encoding: UTF-16 Little Endian
+Text: 諡圂
+------------------------------
+
+Entry 649:
+Position: 0x000960
+Encoding: UTF-16 Little Endian
+Text: 敘羍
+------------------------------
+
+Entry 650:
+Position: 0x00096E
+Encoding: UTF-16 Big Endian
+Text: 藦眀
+------------------------------
+
+Entry 651:
+Position: 0x000976
+Encoding: UTF-16 Little Endian
+Text: 輀鎑
+------------------------------
+
+Entry 652:
+Position: 0x00097C
+Encoding: UTF-16 Big Endian
+Text: 塥赿
+------------------------------
+
+Entry 653:
+Position: 0x000986
+Encoding: UTF-16 Big Endian
+Text: 蹵忑
+------------------------------
+
+Entry 654:
+Position: 0x000996
+Encoding: UTF-16 Big Endian
+Text: 醓需寃
+------------------------------
+
+Entry 655:
+Position: 0x000998
+Encoding: UTF-16 Little Endian
+Text: 唀剢讒
+------------------------------
+
+Entry 656:
+Position: 0x0009B4
+Encoding: UTF-16 Little Endian
+Text: 卅鉐
+------------------------------
+
+Entry 657:
+Position: 0x0009B8
+Encoding: UTF-16 Big Endian
+Text: 扒銋
+------------------------------
+
+Entry 658:
+Position: 0x0009DC
+Encoding: UTF-16 Big Endian
+Text: 簀窭
+------------------------------
+
+Entry 659:
+Position: 0x0009F8
+Encoding: UTF-16 Big Endian
+Text: 笀衛ヲ
+------------------------------
+
+Entry 660:
+Position: 0x000A00
+Encoding: UTF-16 Big Endian
+Text: 搸蠀濫騢
+------------------------------
+
+Entry 661:
+Position: 0x000A2C
+Encoding: UTF-16 Little Endian
+Text: 挄齘
+------------------------------
+
+Entry 662:
+Position: 0x000A2C
+Encoding: UTF-16 Big Endian
+Text: 卐鼀
+------------------------------
+
+Entry 663:
+Position: 0x000A60
+Encoding: UTF-16 Big Endian
+Text: 掔踿
+------------------------------
+
+Entry 664:
+Position: 0x000A7C
+Encoding: UTF-16 Little Endian
+Text: 挂展
+------------------------------
+
+Entry 665:
+Position: 0x000AD0
+Encoding: UTF-16 Big Endian
+Text: 捕尊
+------------------------------
+
+Entry 666:
+Position: 0x000B1A
+Encoding: UTF-16 Little Endian
+Text: 挆展
+------------------------------
+
+Entry 667:
+Position: 0x000B26
+Encoding: UTF-16 Little Endian
+Text: 枊尪
+------------------------------
+
+Entry 668:
+Position: 0x000B40
+Encoding: UTF-16 Big Endian
+Text: 掊未封詧
+------------------------------
+
+Entry 669:
+Position: 0x000BB6
+Encoding: UTF-16 Little Endian
+Text: 挂夞誐
+------------------------------
+
+Entry 670:
+Position: 0x000BDE
+Encoding: UTF-16 Big Endian
+Text: 妐言
+------------------------------
+
+Entry 671:
+Position: 0x000C02
+Encoding: UTF-16 Little Endian
+Text: 夞誐
+------------------------------
+
+Entry 672:
+Position: 0x000C1C
+Encoding: UTF-16 Big Endian
+Text: 挞妐訁
+------------------------------
+
+Entry 673:
+Position: 0x000C46
+Encoding: UTF-16 Little Endian
+Text: 挃鍶
+------------------------------
+
+Entry 674:
+Position: 0x000D84
+Encoding: UTF-16 Big Endian
+Text: 醧衤
+------------------------------
+
+Entry 675:
+Position: 0x000D94
+Encoding: UTF-16 Little Endian
+Text: 挃嫾
+------------------------------
+
+Entry 676:
+Position: 0x000DEC
+Encoding: UTF-16 Big Endian
+Text: 啝尊
+------------------------------
+
+Entry 677:
+Position: 0x000E22
+Encoding: UTF-16 Little Endian
+Text: 礁揱
+------------------------------
+
+Entry 678:
+Position: 0x000E32
+Encoding: UTF-16 Big Endian
+Text: 啝尖
+------------------------------
+
+Entry 679:
+Position: 0x000E38
+Encoding: UTF-16 Big Endian
+Text: 秱振
+------------------------------
+
+Entry 680:
+Position: 0x000EB4
+Encoding: UTF-16 Little Endian
+Text: 轻笁笆
+------------------------------
+
+Entry 681:
+Position: 0x000ECC
+Encoding: UTF-16 Big Endian
+Text: 笆箏
+------------------------------
+
+Entry 682:
+Position: 0x000EDE
+Encoding: UTF-16 Little Endian
+Text: 昀吘
+------------------------------
+
+Entry 683:
+Position: 0x000EE8
+Encoding: UTF-16 Little Endian
+Text: 娀酚
+------------------------------
+
+Entry 684:
+Position: 0x000EF2
+Encoding: UTF-16 Little Endian
+Text: 刀兘
+------------------------------
+
+Entry 685:
+Position: 0x000F02
+Encoding: UTF-16 Big Endian
+Text: 媑鴀
+------------------------------
+
+Entry 686:
+Position: 0x000F0C
+Encoding: UTF-16 Little Endian
+Text: 峊似
+------------------------------
+
+Entry 687:
+Position: 0x000F16
+Encoding: UTF-16 Little Endian
+Text: 厑攟
+------------------------------
+
+Entry 688:
+Position: 0x000F46
+Encoding: UTF-16 Little Endian
+Text: 岖开
+------------------------------
+
+Entry 689:
+Position: 0x000F58
+Encoding: UTF-16 Little Endian
+Text: 撥寛
+------------------------------
+
+Entry 690:
+Position: 0x000F7C
+Encoding: UTF-16 Little Endian
+Text: 琬鰁
+------------------------------
+
+Entry 691:
+Position: 0x000FC8
+Encoding: UTF-16 Little Endian
+Text: 耋匀
+------------------------------
+
+Entry 692:
+Position: 0x001004
+Encoding: UTF-16 Little Endian
+Text: 稕厰
+------------------------------
+
+Entry 693:
+Position: 0x00101A
+Encoding: UTF-16 Big Endian
+Text: 戕窰匁
+------------------------------
+
+Entry 694:
+Position: 0x00102C
+Encoding: UTF-16 Big Endian
+Text: 拃鼄
+------------------------------
+
+Entry 695:
+Position: 0x001058
+Encoding: UTF-16 Little Endian
+Text: 湪勒
+------------------------------
+
+Entry 696:
+Position: 0x001070
+Encoding: UTF-16 Big Endian
+Text: 捪滒刁橮
+------------------------------
+
+Entry 697:
+Position: 0x0010FC
+Encoding: UTF-16 Little Endian
+Text: 汣簟
+------------------------------
+
+Entry 698:
+Position: 0x001102
+Encoding: UTF-16 Little Endian
+Text: 嶓漭
+------------------------------
+
+Entry 699:
+Position: 0x001120
+Encoding: UTF-16 Little Endian
+Text: 漚桐
+------------------------------
+
+Entry 700:
+Position: 0x00114A
+Encoding: UTF-16 Big Endian
+Text: 潐栀
+------------------------------
+
+Entry 701:
+Position: 0x001192
+Encoding: UTF-16 Little Endian
+Text: 戀矬
+------------------------------
+
+Entry 702:
+Position: 0x0011CC
+Encoding: UTF-16 Little Endian
+Text: 戀耢
+------------------------------
+
+Entry 703:
+Position: 0x0011DC
+Encoding: UTF-16 Big Endian
+Text: 拆整
+------------------------------
+
+Entry 704:
+Position: 0x00120C
+Encoding: UTF-16 Little Endian
+Text: 商拿
+------------------------------
+
+Entry 705:
+Position: 0x00123C
+Encoding: UTF-16 Little Endian
+Text: 戀莱
+------------------------------
+
+Entry 706:
+Position: 0x001254
+Encoding: UTF-16 Little Endian
+Text: 匀鉐
+------------------------------
+
+Entry 707:
+Position: 0x0012B2
+Encoding: UTF-16 Little Endian
+Text: 射嵜
+------------------------------
+
+Entry 708:
+Position: 0x001304
+Encoding: UTF-16 Big Endian
+Text: 抪涽
+------------------------------
+
+Entry 709:
+Position: 0x00132A
+Encoding: UTF-16 Little Endian
+Text: 戁渊
+------------------------------
+
+Entry 710:
+Position: 0x001330
+Encoding: UTF-16 Little Endian
+Text: 頀昋
+------------------------------
+
+Entry 711:
+Position: 0x00133A
+Encoding: UTF-16 Little Endian
+Text: 爀叔
+------------------------------
+
+Entry 712:
+Position: 0x00136C
+Encoding: UTF-16 Little Endian
+Text: 嘀恁
+------------------------------
+
+Entry 713:
+Position: 0x00136C
+Encoding: UTF-16 Big Endian
+Text: 菥焀
+------------------------------
+
+Entry 714:
+Position: 0x00138C
+Encoding: UTF-16 Big Endian
+Text: 伀闅
+------------------------------
+
+Entry 715:
+Position: 0x001392
+Encoding: UTF-16 Little Endian
+Text: 匎茎
+------------------------------
+
+Entry 716:
+Position: 0x001398
+Encoding: UTF-16 Big Endian
+Text: 噁怩
+------------------------------
+
+Entry 717:
+Position: 0x0013C8
+Encoding: UTF-16 Little Endian
+Text: 匎漎
+------------------------------
+
+Entry 718:
+Position: 0x0013DA
+Encoding: UTF-16 Little Endian
+Text: 匎娎
+------------------------------
+
+Entry 719:
+Position: 0x00141A
+Encoding: UTF-16 Little Endian
+Text: 綽醦
+------------------------------
+
+Entry 720:
+Position: 0x00144E
+Encoding: UTF-16 Big Endian
+Text: 匎簗
+------------------------------
+
+Entry 721:
+Position: 0x001460
+Encoding: UTF-16 Big Endian
+Text: 匎鶹
+------------------------------
+
+Entry 722:
+Position: 0x001485
+Encoding: Shift-JIS
+Text: 瑪捻
+------------------------------
+
+Entry 723:
+Position: 0x0014B6
+Encoding: UTF-16 Little Endian
+Text: 槼圅
+------------------------------
+
+Entry 724:
+Position: 0x0014C4
+Encoding: UTF-16 Little Endian
+Text: 匀霎
+------------------------------
+
+Entry 725:
+Position: 0x0014E2
+Encoding: UTF-16 Little Endian
+Text: 半税痒僜
+------------------------------
+
+Entry 726:
+Position: 0x001516
+Encoding: UTF-16 Big Endian
+Text: 煥僜
+------------------------------
+
+Entry 727:
+Position: 0x00153C
+Encoding: UTF-16 Little Endian
+Text: 錭傺
+------------------------------
+
+Entry 728:
+Position: 0x001568
+Encoding: UTF-16 Big Endian
+Text: 覍僜
+------------------------------
+
+Entry 729:
+Position: 0x001605
+Encoding: Shift-JIS
+Text: 濠撤
+------------------------------
+
+Entry 730:
+Position: 0x00161E
+Encoding: UTF-16 Little Endian
+Text: 半萎倠傀
+------------------------------
+
+Entry 731:
+Position: 0x00169A
+Encoding: UTF-16 Little Endian
+Text: 箟偎
+------------------------------
+
+Entry 732:
+Position: 0x0016BC
+Encoding: UTF-16 Big Endian
+Text: 齻乐
+------------------------------
+
+Entry 733:
+Position: 0x001714
+Encoding: UTF-16 Little Endian
+Text: 半鼎
+------------------------------
+
+Entry 734:
+Position: 0x00172A
+Encoding: UTF-16 Little Endian
+Text: 赜鎊
+------------------------------
+
+Entry 735:
+Position: 0x00172C
+Encoding: UTF-16 Big Endian
+Text: 匎曭僜
+------------------------------
+
+Entry 736:
+Position: 0x00174E
+Encoding: UTF-16 Big Endian
+Text: 匎岍誓僜
+------------------------------
+
+Entry 737:
+Position: 0x00178A
+Encoding: UTF-16 Big Endian
+Text: 匎澵婷僜
+------------------------------
+
+Entry 738:
+Position: 0x0017D6
+Encoding: UTF-16 Big Endian
+Text: 匎鱉
+------------------------------
+
+Entry 739:
+Position: 0x0017F0
+Encoding: UTF-16 Little Endian
+Text: 半谎傑
+------------------------------
+
+Entry 740:
+Position: 0x001812
+Encoding: UTF-16 Big Endian
+Text: 匎茠
+------------------------------
+
+Entry 741:
+Position: 0x001824
+Encoding: UTF-16 Little Endian
+Text: 媨僕
+------------------------------
+
+Entry 742:
+Position: 0x001846
+Encoding: UTF-16 Little Endian
+Text: 苩傲
+------------------------------
+
+Entry 743:
+Position: 0x001874
+Encoding: UTF-16 Little Endian
+Text: 半圎
+------------------------------
+
+Entry 744:
+Position: 0x0018E0
+Encoding: UTF-16 Little Endian
+Text: 鱡准
+------------------------------
+
+Entry 745:
+Position: 0x0018EE
+Encoding: UTF-16 Little Endian
+Text: 半逎
+------------------------------
+
+Entry 746:
+Position: 0x00190C
+Encoding: UTF-16 Big Endian
+Text: 匎憜
+------------------------------
+
+Entry 747:
+Position: 0x00191A
+Encoding: UTF-16 Little Endian
+Text: 半鸎鞽倃
+------------------------------
+
+Entry 748:
+Position: 0x00195C
+Encoding: UTF-16 Big Endian
+Text: 彞僜
+------------------------------
+
+Entry 749:
+Position: 0x00196A
+Encoding: UTF-16 Little Endian
+Text: 屈傁
+------------------------------
+
+Entry 750:
+Position: 0x001988
+Encoding: UTF-16 Big Endian
+Text: 佊僜
+------------------------------
+
+Entry 751:
+Position: 0x0019DE
+Encoding: UTF-16 Little Endian
+Text: 戀眒
+------------------------------
+
+Entry 752:
+Position: 0x0019E0
+Encoding: UTF-16 Big Endian
+Text: 匎氲
+------------------------------
+
+Entry 753:
+Position: 0x0019F6
+Encoding: UTF-16 Big Endian
+Text: 纴衐
+------------------------------
+
+Entry 754:
+Position: 0x001A22
+Encoding: Shift-JIS
+Text: 筺漲
+------------------------------
+
+Entry 755:
+Position: 0x001AF6
+Encoding: UTF-16 Big Endian
+Text: 邧嬁
+------------------------------
+
+Entry 756:
+Position: 0x001B00
+Encoding: UTF-16 Little Endian
+Text: 緟命
+------------------------------
+
+Entry 757:
+Position: 0x001B50
+Encoding: UTF-16 Little Endian
+Text: 昺杩瑨琯瑵
+------------------------------
+
+Entry 758:
+Position: 0x001B5C
+Encoding: UTF-16 Little Endian
+Text: 畴潴敟晦漮扲
+------------------------------
+
+Entry 759:
+Position: 0x001B6E
+Encoding: UTF-16 Little Endian
+Text: ガンナーギア・ドラコキッド
+------------------------------
+
+Entry 760:
+Position: 0x001B7A
+Encoding: UTF-16 Big Endian
+Text: 楧桴
+------------------------------
+
+Entry 761:
+Position: 0x001B80
+Encoding: UTF-16 Big Endian
+Text: 畴漯瑵瑯彥晦
+------------------------------
+
+Entry 762:
+Position: 0x001B92
+Encoding: UTF-16 Little Endian
+Text: 籫搀丰簰
+------------------------------
+
+Entry 763:
+Position: 0x001BA0
+Encoding: UTF-16 Little Endian
+Text: 匰挰愰渰
+------------------------------
+
+Entry 764:
+Position: 0x001BAA
+Encoding: UTF-16 Little Endian
+Text: 簀瀀坥籛夀
+------------------------------
+
+Entry 765:
+Position: 0x001BB0
+Encoding: UTF-16 Big Endian
+Text: 麽霃
+------------------------------
+
+Entry 766:
+Position: 0x001BB6
+Encoding: UTF-16 Little Endian
+Text: 堰簰
+------------------------------
+
+Entry 767:
+Position: 0x001BBE
+Encoding: UTF-16 Little Endian
+Text: 匰渰
+------------------------------
+
+Entry 768:
+Position: 0x001BBE
+Encoding: UTF-16 Big Endian
+Text: ぎぼ
+------------------------------
+
+Entry 769:
+Position: 0x001BC8
+Encoding: UTF-16 Big Endian
+Text: こっちの
+------------------------------
+
+Entry 770:
+Position: 0x001BD6
+Encoding: UTF-16 Big Endian
+Text: 敗孼
+------------------------------
+
+Entry 771:
+Position: 0x001BDC
+Encoding: UTF-16 Big Endian
+Text: うじぼ
+------------------------------
+
+Entry 772:
+Position: 0x001C00
+Encoding: UTF-16 Big Endian
+Text: カードの
+------------------------------
+
+Entry 773:
+Position: 0x001C02
+Encoding: UTF-16 Little Endian
+Text: 紀蠀
+------------------------------
+
+Entry 774:
+Position: 0x001C0C
+Encoding: UTF-16 Little Endian
+Text: ダメージゾーンのカードが
+------------------------------
+
+Entry 775:
+Position: 0x001C1E
+Encoding: UTF-16 Big Endian
+Text: パワー
+------------------------------
+
+Entry 776:
+Position: 0x001C44
+Encoding: UTF-16 Little Endian
+Text: まい
+------------------------------
+
+Entry 777:
+Position: 0x001C52
+Encoding: UTF-16 Little Endian
+Text: になると
+------------------------------
+
+Entry 778:
+Position: 0x001C68
+Encoding: UTF-16 Little Endian
+Text: けよ
+------------------------------
+
+Entry 779:
+Position: 0x001C68
+Encoding: UTF-16 Big Endian
+Text: 簀驧簀縰
+------------------------------
+
+Entry 780:
+Position: 0x001C7A
+Encoding: UTF-16 Big Endian
+Text: 紀欰樰謰栰
+------------------------------
+
+Entry 781:
+Position: 0x001C8A
+Encoding: UTF-16 Big Endian
+Text: 簀縰簀
+------------------------------
+
+Entry 782:
+Position: 0x001C92
+Encoding: UTF-16 Little Endian
+Text: 紀欀搰
+------------------------------
+
+Entry 783:
+Position: 0x001C92
+Encoding: UTF-16 Big Endian
+Text: 儰蠰
+------------------------------
+
+Entry 784:
+Position: 0x001CA0
+Encoding: UTF-16 Little Endian
+Text: 簀猀粊伀輰簰
+------------------------------
+
+Entry 785:
+Position: 0x001CAE
+Encoding: UTF-16 Little Endian
+Text: 圀估
+------------------------------
+
+Entry 786:
+Position: 0x001CB0
+Encoding: UTF-16 Big Endian
+Text: レイマットほ
+------------------------------
+
+Entry 787:
+Position: 0x001CBA
+Encoding: UTF-16 Little Endian
+Text: 籦嬀搰脰
+------------------------------
+
+Entry 788:
+Position: 0x001CC2
+Encoding: UTF-16 Big Endian
+Text: ついて
+------------------------------
+
+Entry 789:
+Position: 0x001CC8
+Encoding: UTF-16 Little Endian
+Text: 夀謰洰
+------------------------------
+
+Entry 790:
+Position: 0x001CD4
+Encoding: UTF-16 Big Endian
+Text: わぼ
+------------------------------
+
+Entry 791:
+Position: 0x001CDE
+Encoding: UTF-16 Little Endian
+Text: つぎ
+------------------------------
+
+Entry 792:
+Position: 0x001CE4
+Encoding: UTF-16 Big Endian
+Text: 討晼
+------------------------------
+
+Entry 793:
+Position: 0x001CEA
+Encoding: UTF-16 Little Endian
+Text: その
+------------------------------
+
+Entry 794:
+Position: 0x001CEA
+Encoding: UTF-16 Big Endian
+Text: つめいぼ
+------------------------------
+
+Entry 795:
+Position: 0x001CF6
+Encoding: UTF-16 Little Endian
+Text: ほか
+------------------------------
+
+Entry 796:
+Position: 0x001CF6
+Encoding: UTF-16 Big Endian
+Text: るね
+------------------------------
+
+Entry 797:
+Position: 0x001CFE
+Encoding: UTF-16 Little Endian
+Text: のフィールドの
+------------------------------
+
+Entry 798:
+Position: 0x001D08
+Encoding: UTF-16 Big Endian
+Text: 簀搰丰簀
+------------------------------
+
+Entry 799:
+Position: 0x001D10
+Encoding: UTF-16 Little Endian
+Text: 説明
+------------------------------
+
+Entry 800:
+Position: 0x001D16
+Encoding: UTF-16 Little Endian
+Text: せつめい
+------------------------------
+
+Entry 801:
+Position: 0x001D16
+Encoding: UTF-16 Big Endian
+Text: 崰渰
+------------------------------
+
+Entry 802:
+Position: 0x001D20
+Encoding: UTF-16 Big Endian
+Text: 簀笰
+------------------------------
+
+Entry 803:
+Position: 0x001D22
+Encoding: UTF-16 Little Endian
+Text: をするね
+------------------------------
+
+Entry 804:
+Position: 0x001D30
+Encoding: UTF-16 Little Endian
+Text: 嵒谰帰谰渰笰
+------------------------------
+
+Entry 805:
+Position: 0x001D40
+Encoding: UTF-16 Big Endian
+Text: 簀嬰搰脰
+------------------------------
+
+Entry 806:
+Position: 0x001D4E
+Encoding: UTF-16 Big Endian
+Text: 鈰夰謰洰
+------------------------------
+
+Entry 807:
+Position: 0x001D5A
+Encoding: UTF-16 Little Endian
+Text: 簀渀籿
+------------------------------
+
+Entry 808:
+Position: 0x001D5C
+Encoding: UTF-16 Big Endian
+Text: 剝れぞれのほ
+------------------------------
+
+Entry 809:
+Position: 0x001D68
+Encoding: UTF-16 Little Endian
+Text: 谰弰笰
+------------------------------
+
+Entry 810:
+Position: 0x001D70
+Encoding: UTF-16 Little Endian
+Text: 紀笀
+------------------------------
+
+Entry 811:
+Position: 0x001D7A
+Encoding: UTF-16 Big Endian
+Text: ィールドに
+------------------------------
+
+Entry 812:
+Position: 0x001D8E
+Encoding: UTF-16 Little Endian
+Text: 紀渀
+------------------------------
+
+Entry 813:
+Position: 0x001D94
+Encoding: UTF-16 Little Endian
+Text: 匀栰漰
+------------------------------
+
+Entry 814:
+Position: 0x001D94
+Encoding: UTF-16 Big Endian
+Text: れたほ
+------------------------------
+
+Entry 815:
+Position: 0x001DB2
+Encoding: UTF-16 Big Endian
+Text: ードほ
+------------------------------
+
+Entry 816:
+Position: 0x001DBA
+Encoding: UTF-16 Little Endian
+Text: 紀挀昰
+------------------------------
+
+Entry 817:
+Position: 0x001DC2
+Encoding: UTF-16 Big Endian
+Text: とは
+------------------------------
+
+Entry 818:
+Position: 0x001DDA
+Encoding: UTF-16 Little Endian
+Text: ドロップゾーンは
+------------------------------
+
+Entry 819:
+Position: 0x001DDC
+Encoding: UTF-16 Big Endian
+Text: ニットほ
+------------------------------
+
+Entry 820:
+Position: 0x001E00
+Encoding: UTF-16 Little Endian
+Text: フィールドから
+------------------------------
+
+Entry 821:
+Position: 0x001E12
+Encoding: UTF-16 Little Endian
+Text: 退却
+------------------------------
+
+Entry 822:
+Position: 0x001E18
+Encoding: UTF-16 Little Endian
+Text: たいきゃく
+------------------------------
+
+Entry 823:
+Position: 0x001E26
+Encoding: UTF-16 Little Endian
+Text: したカード
+------------------------------
+
+Entry 824:
+Position: 0x001E36
+Encoding: UTF-16 Little Endian
+Text: や蓖
+------------------------------
+
+Entry 825:
+Position: 0x001E40
+Encoding: UTF-16 Big Endian
+Text: 瑓簀弰
+------------------------------
+
+Entry 826:
+Position: 0x001E4A
+Encoding: UTF-16 Big Endian
+Text: 茰估簀
+------------------------------
+
+Entry 827:
+Position: 0x001E52
+Encoding: UTF-16 Big Endian
+Text: 地弰
+------------------------------
+
+Entry 828:
+Position: 0x001E56
+Encoding: UTF-16 Little Endian
+Text: 籧昀田怰簰
+------------------------------
+
+Entry 829:
+Position: 0x001E60
+Encoding: UTF-16 Big Endian
+Text: 紀萰
+------------------------------
+
+Entry 830:
+Position: 0x001E68
+Encoding: UTF-16 Little Endian
+Text: 簀栀籣夀簰
+------------------------------
+
+Entry 831:
+Position: 0x001E74
+Encoding: UTF-16 Little Endian
+Text: 昀弰
+------------------------------
+
+Entry 832:
+Position: 0x001E80
+Encoding: UTF-16 Big Endian
+Text: 戭杼
+------------------------------
+
+Entry 833:
+Position: 0x001E82
+Encoding: UTF-16 Little Endian
+Text: 紀鈀
+------------------------------
+
+Entry 834:
+Position: 0x001E86
+Encoding: UTF-16 Big Endian
+Text: ふだぼ
+------------------------------
+
+Entry 835:
+Position: 0x001E9E
+Encoding: UTF-16 Little Endian
+Text: 籢瀀地蜰簰
+------------------------------
+
+Entry 836:
+Position: 0x001EA2
+Encoding: UTF-16 Big Endian
+Text: たカードほ
+------------------------------
+
+Entry 837:
+Position: 0x001EB4
+Encoding: UTF-16 Little Endian
+Text: スチームナイト
+------------------------------
+
+Entry 838:
+Position: 0x001EC4
+Encoding: UTF-16 Little Endian
+Text: ウバル・トゥトゥ
+------------------------------
+
+Entry 839:
+Position: 0x001EC8
+Encoding: UTF-16 Big Endian
+Text: 塀扼
+------------------------------
+
+Entry 840:
+Position: 0x001ECE
+Encoding: UTF-16 Big Endian
+Text: しょぼ
+------------------------------
+
+Entry 841:
+Position: 0x001EDA
+Encoding: UTF-16 Big Endian
+Text: ピ胡
+------------------------------
+
+Entry 842:
+Position: 0x001F08
+Encoding: UTF-16 Little Endian
+Text: 昰渰
+------------------------------
+
+Entry 843:
+Position: 0x001F18
+Encoding: UTF-16 Big Endian
+Text: ィールドとカードほ
+------------------------------
+
+Entry 844:
+Position: 0x001F24
+Encoding: UTF-16 Little Endian
+Text: 鈀夰謰洰
+------------------------------
+
+Entry 845:
+Position: 0x001F30
+Encoding: UTF-16 Big Endian
+Text: ついての
+------------------------------
+
+Entry 846:
+Position: 0x001F38
+Encoding: UTF-16 Little Endian
+Text: 最後
+------------------------------
+
+Entry 847:
+Position: 0x001F3E
+Encoding: UTF-16 Little Endian
+Text: さいご
+------------------------------
+
+Entry 848:
+Position: 0x001F4E
+Encoding: UTF-16 Little Endian
+Text: この
+------------------------------
+
+Entry 849:
+Position: 0x001F52
+Encoding: UTF-16 Big Endian
+Text: するね
+------------------------------
+
+Entry 850:
+Position: 0x001F56
+Encoding: UTF-16 Little Endian
+Text: 場所
+------------------------------
+
+Entry 851:
+Position: 0x001F5C
+Encoding: UTF-16 Little Endian
+Text: ばしょ
+------------------------------
+
+Entry 852:
+Position: 0x001F66
+Encoding: UTF-16 Big Endian
+Text: 豟簀唰
+------------------------------
+
+Entry 853:
+Position: 0x001F6E
+Encoding: UTF-16 Big Endian
+Text: 吰簀
+------------------------------
+
+Entry 854:
+Position: 0x001F7E
+Encoding: UTF-16 Little Endian
+Text: ジェネレーションゾーン
+------------------------------
+
+Entry 855:
+Position: 0x001F86
+Encoding: UTF-16 Big Endian
+Text: 簀瀰地蜰簀
+------------------------------
+
+Entry 856:
+Position: 0x001F98
+Encoding: UTF-16 Little Endian
+Text: ゾーン
+------------------------------
+
+Entry 857:
+Position: 0x001FB2
+Encoding: UTF-16 Little Endian
+Text: 豧籟唀
+------------------------------
+
+Entry 858:
+Position: 0x001FBA
+Encoding: UTF-16 Little Endian
+Text: 吰簰
+------------------------------
+
+Entry 859:
+Position: 0x001FDC
+Encoding: UTF-16 Little Endian
+Text: 漀笰
+------------------------------
+
+Entry 860:
+Position: 0x001FDE
+Encoding: UTF-16 Big Endian
+Text: 枌彼
+------------------------------
+
+Entry 861:
+Position: 0x001FE4
+Encoding: UTF-16 Big Endian
+Text: いごぼ
+------------------------------
+
+Entry 862:
+Position: 0x00201C
+Encoding: UTF-16 Little Endian
+Text: 栰地昰渰
+------------------------------
+
+Entry 863:
+Position: 0x00201E
+Encoding: UTF-16 Big Endian
+Text: シールド
+------------------------------
+
+Entry 864:
+Position: 0x002034
+Encoding: UTF-16 Big Endian
+Text: ールドはガーディアンとしての
+------------------------------
+
+Entry 865:
+Position: 0x00203E
+Encoding: UTF-16 Little Endian
+Text: ヴァンガードがダメージを
+------------------------------
+
+Entry 866:
+Position: 0x002054
+Encoding: UTF-16 Big Endian
+Text: 齻丷笀
+------------------------------
+
+Entry 867:
+Position: 0x002064
+Encoding: UTF-16 Little Endian
+Text: ける
+------------------------------
+
+Entry 868:
+Position: 0x002074
+Encoding: UTF-16 Little Endian
+Text: ここにカードが
+------------------------------
+
+Entry 869:
+Position: 0x002090
+Encoding: UTF-16 Little Endian
+Text: かれるわ
+------------------------------
+
+Entry 870:
+Position: 0x002090
+Encoding: UTF-16 Big Endian
+Text: 儰謰笀
+------------------------------
+
+Entry 871:
+Position: 0x002098
+Encoding: UTF-16 Big Endian
+Text: 紀栰
+------------------------------
+
+Entry 872:
+Position: 0x00209A
+Encoding: UTF-16 Little Endian
+Text: 鱡准匰渰
+------------------------------
+
+Entry 873:
+Position: 0x0020A0
+Encoding: UTF-16 Big Endian
+Text: 匰匰欰
+------------------------------
+
+Entry 874:
+Position: 0x0020B0
+Encoding: UTF-16 Big Endian
+Text: 簀湿簀
+------------------------------
+
+Entry 875:
+Position: 0x0020BE
+Encoding: UTF-16 Big Endian
+Text: 谰謰輰
+------------------------------
+
+Entry 876:
+Position: 0x0020E2
+Encoding: UTF-16 Little Endian
+Text: 簀栀粈
+------------------------------
+
+Entry 877:
+Position: 0x0020EA
+Encoding: UTF-16 Little Endian
+Text: 褰輰簰
+------------------------------
+
+Entry 878:
+Position: 0x0020F2
+Encoding: UTF-16 Little Endian
+Text: 圀昰
+------------------------------
+
+Entry 879:
+Position: 0x0020F8
+Encoding: UTF-16 Little Endian
+Text: 謰渰
+------------------------------
+
+Entry 880:
+Position: 0x0020FA
+Encoding: UTF-16 Big Endian
+Text: グレード
+------------------------------
+
+Entry 881:
+Position: 0x002104
+Encoding: UTF-16 Little Endian
+Text: ここは
+------------------------------
+
+Entry 882:
+Position: 0x002116
+Encoding: UTF-16 Big Endian
+Text: らわぼ
+------------------------------
+
+Entry 883:
+Position: 0x00211C
+Encoding: UTF-16 Little Endian
+Text: ダメージゾーン
+------------------------------
+
+Entry 884:
+Position: 0x002120
+Encoding: UTF-16 Big Endian
+Text: ているの
+------------------------------
+
+Entry 885:
+Position: 0x00212E
+Encoding: UTF-16 Big Endian
+Text: 娗匰匰漰笀
+------------------------------
+
+Entry 886:
+Position: 0x00213C
+Encoding: UTF-16 Little Endian
+Text: 籎笀
+------------------------------
+
+Entry 887:
+Position: 0x002146
+Encoding: UTF-16 Little Endian
+Text: 欀舰
+------------------------------
+
+Entry 888:
+Position: 0x002150
+Encoding: UTF-16 Little Endian
+Text: 欰搰
+------------------------------
+
+Entry 889:
+Position: 0x002156
+Encoding: UTF-16 Little Endian
+Text: 昰漰
+------------------------------
+
+Entry 890:
+Position: 0x00215E
+Encoding: UTF-16 Little Endian
+Text: 簀爀
+------------------------------
+
+Entry 891:
+Position: 0x002164
+Encoding: UTF-16 Little Endian
+Text: 夰籥
+------------------------------
+
+Entry 892:
+Position: 0x00216C
+Encoding: UTF-16 Big Endian
+Text: かぼ
+------------------------------
+
+Entry 893:
+Position: 0x002172
+Encoding: UTF-16 Little Endian
+Text: 地簰
+------------------------------
+
+Entry 894:
+Position: 0x002174
+Encoding: UTF-16 Big Endian
+Text: もカードについては
+------------------------------
+
+Entry 895:
+Position: 0x00217A
+Encoding: UTF-16 Little Endian
+Text: 謰匰栰
+------------------------------
+
+Entry 896:
+Position: 0x002184
+Encoding: UTF-16 Little Endian
+Text: 謰錰怰儰椰
+------------------------------
+
+Entry 897:
+Position: 0x00218E
+Encoding: UTF-16 Big Endian
+Text: 舅す敼
+------------------------------
+
+Entry 898:
+Position: 0x002192
+Encoding: UTF-16 Little Endian
+Text: 忨扞パワーは
+------------------------------
+
+Entry 899:
+Position: 0x002196
+Encoding: UTF-16 Big Endian
+Text: ろいろおしぼ
+------------------------------
+
+Entry 900:
+Position: 0x0021A6
+Encoding: UTF-16 Big Endian
+Text: ることがあるんだけど
+------------------------------
+
+Entry 901:
+Position: 0x0021B4
+Encoding: UTF-16 Little Endian
+Text: 攻撃
+------------------------------
+
+Entry 902:
+Position: 0x0021BA
+Encoding: UTF-16 Little Endian
+Text: こうげき
+------------------------------
+
+Entry 903:
+Position: 0x0021C6
+Encoding: UTF-16 Little Endian
+Text: する
+------------------------------
+
+Entry 904:
+Position: 0x0021C8
+Encoding: UTF-16 Big Endian
+Text: 漰笀
+------------------------------
+
+Entry 905:
+Position: 0x0021D2
+Encoding: UTF-16 Little Endian
+Text: とき
+------------------------------
+
+Entry 906:
+Position: 0x0021E2
+Encoding: UTF-16 Big Endian
+Text: 荤簀匰
+------------------------------
+
+Entry 907:
+Position: 0x0021F2
+Encoding: UTF-16 Big Endian
+Text: 夰謰
+------------------------------
+
+Entry 908:
+Position: 0x0021FA
+Encoding: UTF-16 Little Endian
+Text: 防御
+------------------------------
+
+Entry 909:
+Position: 0x0021FC
+Encoding: UTF-16 Big Endian
+Text: 簀栰
+------------------------------
+
+Entry 910:
+Position: 0x002200
+Encoding: UTF-16 Little Endian
+Text: ぼうぎょ
+------------------------------
+
+Entry 911:
+Position: 0x00220A
+Encoding: UTF-16 Big Endian
+Text: 紀舰
+------------------------------
+
+Entry 912:
+Position: 0x00222A
+Encoding: UTF-16 Big Endian
+Text: 簀簰
+------------------------------
+
+Entry 913:
+Position: 0x002230
+Encoding: UTF-16 Big Endian
+Text: 丰蜰簀
+------------------------------
+
+Entry 914:
+Position: 0x002232
+Encoding: UTF-16 Little Endian
+Text: たか
+------------------------------
+
+Entry 915:
+Position: 0x00223A
+Encoding: UTF-16 Little Endian
+Text: いほうが
+------------------------------
+
+Entry 916:
+Position: 0x002246
+Encoding: UTF-16 Little Endian
+Text: 有利
+------------------------------
+
+Entry 917:
+Position: 0x00224C
+Encoding: UTF-16 Little Endian
+Text: ゆうり
+------------------------------
+
+Entry 918:
+Position: 0x002258
+Encoding: UTF-16 Big Endian
+Text: 簀簀弰
+------------------------------
+
+Entry 919:
+Position: 0x00225C
+Encoding: UTF-16 Little Endian
+Text: 挺筟
+------------------------------
+
+Entry 920:
+Position: 0x002274
+Encoding: UTF-16 Big Endian
+Text: 簀蘰
+------------------------------
+
+Entry 921:
+Position: 0x002278
+Encoding: UTF-16 Little Endian
+Text: 扵粗圀弰
+------------------------------
+
+Entry 922:
+Position: 0x00227A
+Encoding: UTF-16 Big Endian
+Text: 訰簀
+------------------------------
+
+Entry 923:
+Position: 0x002282
+Encoding: UTF-16 Little Endian
+Text: 脰錰簰
+------------------------------
+
+Entry 924:
+Position: 0x0022A0
+Encoding: UTF-16 Big Endian
+Text: 主畢靼
+------------------------------
+
+Entry 925:
+Position: 0x0022A8
+Encoding: UTF-16 Big Endian
+Text: たがめんぼ
+------------------------------
+
+Entry 926:
+Position: 0x0022B2
+Encoding: UTF-16 Little Endian
+Text: 紀夀謰栰
+------------------------------
+
+Entry 927:
+Position: 0x0022C2
+Encoding: UTF-16 Big Endian
+Text: 痏偼
+------------------------------
+
+Entry 928:
+Position: 0x0022C8
+Encoding: UTF-16 Big Endian
+Text: ぞうぼ
+------------------------------
+
+Entry 929:
+Position: 0x0022D2
+Encoding: UTF-16 Big Endian
+Text: タッチほ
+------------------------------
+
+Entry 930:
+Position: 0x0022E0
+Encoding: UTF-16 Big Endian
+Text: ると
+------------------------------
+
+Entry 931:
+Position: 0x0022F8
+Encoding: UTF-16 Little Endian
+Text: 估怰
+------------------------------
+
+Entry 932:
+Position: 0x0022FC
+Encoding: UTF-16 Big Endian
+Text: ード
+------------------------------
+
+Entry 933:
+Position: 0x002306
+Encoding: UTF-16 Little Endian
+Text: 紀夀謰匰栰舰朰
+------------------------------
+
+Entry 934:
+Position: 0x002316
+Encoding: UTF-16 Little Endian
+Text: 謰蠰
+------------------------------
+
+Entry 935:
+Position: 0x00231C
+Encoding: UTF-16 Big Endian
+Text: 戧奼
+------------------------------
+
+Entry 936:
+Position: 0x002322
+Encoding: UTF-16 Little Endian
+Text: ファイトは
+------------------------------
+
+Entry 937:
+Position: 0x002322
+Encoding: UTF-16 Big Endian
+Text: くだいぼ
+------------------------------
+
+Entry 938:
+Position: 0x002334
+Encoding: UTF-16 Big Endian
+Text: ることもできるよ
+------------------------------
+
+Entry 939:
+Position: 0x002344
+Encoding: UTF-16 Little Endian
+Text: プレイマット
+------------------------------
+
+Entry 940:
+Position: 0x002358
+Encoding: UTF-16 Big Endian
+Text: 匰渰笀
+------------------------------
+
+Entry 941:
+Position: 0x002360
+Encoding: UTF-16 Little Endian
+Text: うえ
+------------------------------
+
+Entry 942:
+Position: 0x002374
+Encoding: UTF-16 Little Endian
+Text: おこな
+------------------------------
+
+Entry 943:
+Position: 0x00237C
+Encoding: UTF-16 Big Endian
+Text: 紀渰
+------------------------------
+
+Entry 944:
+Position: 0x00237E
+Encoding: UTF-16 Little Endian
+Text: われるの
+------------------------------
+
+Entry 945:
+Position: 0x00238A
+Encoding: UTF-16 Little Endian
+Text: 朼笷
+------------------------------
+
+Entry 946:
+Position: 0x00239E
+Encoding: UTF-16 Big Endian
+Text: 匰樰簀
+------------------------------
+
+Entry 947:
+Position: 0x0023A6
+Encoding: UTF-16 Big Endian
+Text: 輰谰謰渰
+------------------------------
+
+Entry 948:
+Position: 0x0023B2
+Encoding: UTF-16 Little Endian
+Text: 紀萀
+------------------------------
+
+Entry 949:
+Position: 0x0023C8
+Encoding: UTF-16 Big Endian
+Text: ライブチェックほ
+------------------------------
+
+Entry 950:
+Position: 0x0023E0
+Encoding: UTF-16 Little Endian
+Text: 紀鈀地弰
+------------------------------
+
+Entry 951:
+Position: 0x0023EA
+Encoding: UTF-16 Little Endian
+Text: 簀鬀粖唀
+------------------------------
+
+Entry 952:
+Position: 0x0023F6
+Encoding: UTF-16 Big Endian
+Text: メージチェックほ
+------------------------------
+
+Entry 953:
+Position: 0x0023FE
+Encoding: UTF-16 Little Endian
+Text: 剨このカード
+------------------------------
+
+Entry 954:
+Position: 0x002412
+Encoding: UTF-16 Little Endian
+Text: たち
+------------------------------
+
+Entry 955:
+Position: 0x00241A
+Encoding: UTF-16 Big Endian
+Text: いぼ
+------------------------------
+
+Entry 956:
+Position: 0x00241C
+Encoding: UTF-16 Little Endian
+Text: デッキ
+------------------------------
+
+Entry 957:
+Position: 0x002424
+Encoding: UTF-16 Big Endian
+Text: 桒匰渰
+------------------------------
+
+Entry 958:
+Position: 0x002432
+Encoding: UTF-16 Big Endian
+Text: 簀咐簀弰愰簀
+------------------------------
+
+Entry 959:
+Position: 0x002438
+Encoding: UTF-16 Little Endian
+Text: あなたと
+------------------------------
+
+Entry 960:
+Position: 0x002444
+Encoding: UTF-16 Little Endian
+Text: 一緒
+------------------------------
+
+Entry 961:
+Position: 0x00244A
+Encoding: UTF-16 Little Endian
+Text: いっしょ
+------------------------------
+
+Entry 962:
+Position: 0x002460
+Encoding: UTF-16 Big Endian
+Text: 樰弰栰
+------------------------------
+
+Entry 963:
+Position: 0x002472
+Encoding: UTF-16 Big Endian
+Text: 挰地蜰簀
+------------------------------
+
+Entry 964:
+Position: 0x00247A
+Encoding: UTF-16 Little Endian
+Text: たたか
+------------------------------
+
+Entry 965:
+Position: 0x00247C
+Encoding: UTF-16 Big Endian
+Text: 欰笀
+------------------------------
+
+Entry 966:
+Position: 0x00248A
+Encoding: UTF-16 Little Endian
+Text: 仲間
+------------------------------
+
+Entry 967:
+Position: 0x002490
+Encoding: UTF-16 Little Endian
+Text: なかま
+------------------------------
+
+Entry 968:
+Position: 0x00249E
+Encoding: UTF-16 Big Endian
+Text: 簀弰弰
+------------------------------
+
+Entry 969:
+Position: 0x0024AA
+Encoding: UTF-16 Little Endian
+Text: 樰弰
+------------------------------
+
+Entry 970:
+Position: 0x0024B2
+Encoding: UTF-16 Little Endian
+Text: 簀簀籔蠀簰
+------------------------------
+
+Entry 971:
+Position: 0x0024B2
+Encoding: UTF-16 Big Endian
+Text: 鎕簀樰
+------------------------------
+
+Entry 972:
+Position: 0x0024BA
+Encoding: UTF-16 Big Endian
+Text: 縰簀
+------------------------------
+
+Entry 973:
+Position: 0x0024C4
+Encoding: UTF-16 Big Endian
+Text: 紀蠰
+------------------------------
+
+Entry 974:
+Position: 0x0024C6
+Encoding: UTF-16 Little Endian
+Text: 籑怀簰
+------------------------------
+
+Entry 975:
+Position: 0x0024CE
+Encoding: UTF-16 Little Endian
+Text: 圀弰
+------------------------------
+
+Entry 976:
+Position: 0x0024D0
+Encoding: UTF-16 Big Endian
+Text: なたが
+------------------------------
+
+Entry 977:
+Position: 0x0024E8
+Encoding: UTF-16 Little Endian
+Text: 簀猀
+------------------------------
+
+Entry 978:
+Position: 0x0024EE
+Encoding: UTF-16 Little Endian
+Text: 籥缀
+------------------------------
+
+Entry 979:
+Position: 0x0024F4
+Encoding: UTF-16 Little Endian
+Text: 弰簰
+------------------------------
+
+Entry 980:
+Position: 0x002512
+Encoding: UTF-16 Big Endian
+Text: 咹敼
+------------------------------
+
+Entry 981:
+Position: 0x002518
+Encoding: UTF-16 Big Endian
+Text: かたぼ
+------------------------------
+
+Entry 982:
+Position: 0x002522
+Encoding: UTF-16 Big Endian
+Text: カードほ
+------------------------------
+
+Entry 983:
+Position: 0x002538
+Encoding: UTF-16 Little Endian
+Text: メイデン・オブ・グラジオラス
+------------------------------
+
+Entry 984:
+Position: 0x002556
+Encoding: UTF-16 Little Endian
+Text: 睚崜谰
+------------------------------
+
+Entry 985:
+Position: 0x002562
+Encoding: UTF-16 Little Endian
+Text: 匰匰漰笰
+------------------------------
+
+Entry 986:
+Position: 0x00257A
+Encoding: UTF-16 Big Endian
+Text: 澵婷
+------------------------------
+
+Entry 987:
+Position: 0x002580
+Encoding: UTF-16 Big Endian
+Text: れから
+------------------------------
+
+Entry 988:
+Position: 0x002588
+Encoding: UTF-16 Big Endian
+Text: ここはほ
+------------------------------
+
+Entry 989:
+Position: 0x002590
+Encoding: UTF-16 Little Endian
+Text: 萰倠
+------------------------------
+
+Entry 990:
+Position: 0x002596
+Encoding: UTF-16 Little Endian
+Text: そして
+------------------------------
+
+Entry 991:
+Position: 0x00259E
+Encoding: UTF-16 Little Endian
+Text: ここが
+------------------------------
+
+Entry 992:
+Position: 0x0025A2
+Encoding: UTF-16 Big Endian
+Text: ロップゾーンほ
+------------------------------
+
+Entry 993:
+Position: 0x0025B6
+Encoding: UTF-16 Little Endian
+Text: ガーディアンサークル
+------------------------------
+
+Entry 994:
+Position: 0x0025BA
+Encoding: UTF-16 Big Endian
+Text: 耞崰地昰
+------------------------------
+
+Entry 995:
+Position: 0x0025C4
+Encoding: UTF-16 Big Endian
+Text: 匰匰
+------------------------------
+
+Entry 996:
+Position: 0x0025CA
+Encoding: Shift-JIS
+Text: 濠添
+------------------------------
+
+Entry 997:
+Position: 0x0025D4
+Encoding: UTF-16 Little Endian
+Text: 腜筇
+------------------------------
+
+Entry 998:
+Position: 0x0025EE
+Encoding: UTF-16 Little Endian
+Text: 鈰夰謰
+------------------------------
+
+Entry 999:
+Position: 0x0025F6
+Encoding: UTF-16 Little Endian
+Text: 簀鬀籒愀
+------------------------------
+
+Entry 1000:
+Position: 0x002600
+Encoding: UTF-16 Little Endian
+Text: 褰簰
+------------------------------
+
+Entry 1001:
+Position: 0x002610
+Encoding: UTF-16 Big Endian
+Text: ードをする
+------------------------------
+
+Entry 1002:
+Position: 0x002624
+Encoding: UTF-16 Big Endian
+Text: からぼ
+------------------------------
+
+Entry 1003:
+Position: 0x002634
+Encoding: UTF-16 Little Endian
+Text: 籎樀
+------------------------------
+
+Entry 1004:
+Position: 0x00263E
+Encoding: UTF-16 Little Endian
+Text: 欀漰
+------------------------------
+
+Entry 1005:
+Position: 0x00265A
+Encoding: UTF-16 Little Endian
+Text: 謰儰椰洰
+------------------------------
+
+Entry 1006:
+Position: 0x002666
+Encoding: UTF-16 Big Endian
+Text: はシールドがないカードもあるけどね
+------------------------------
+
+Entry 1007:
+Position: 0x00266A
+Encoding: UTF-16 Little Endian
+Text: それは
+------------------------------
+
+Entry 1008:
+Position: 0x002682
+Encoding: UTF-16 Little Endian
+Text: のチュートリアルで
+------------------------------
+
+Entry 1009:
+Position: 0x00268A
+Encoding: UTF-16 Big Endian
+Text: ヒ纴蠤崰谰漰
+------------------------------
+
+Entry 1010:
+Position: 0x00269E
+Encoding: UTF-16 Little Endian
+Text: おし
+------------------------------
+
+Entry 1011:
+Position: 0x0026A6
+Encoding: UTF-16 Little Endian
+Text: えていくね
+------------------------------
+
+Entry 1012:
+Position: 0x0026B6
+Encoding: UTF-16 Little Endian
+Text: 樰弰渰
+------------------------------
+
+Entry 1013:
+Position: 0x0026BE
+Encoding: UTF-16 Big Endian
+Text: 簀奥簀
+------------------------------
+
+Entry 1014:
+Position: 0x0026C4
+Encoding: UTF-16 Little Endian
+Text: 粎瘀錰地錰簰
+------------------------------
+
+Entry 1015:
+Position: 0x0026C6
+Encoding: UTF-16 Big Endian
+Text: 地簀
+------------------------------
+
+Entry 1016:
+Position: 0x0026D2
+Encoding: UTF-16 Little Endian
+Text: 欀樰謰
+------------------------------
+
+Entry 1017:
+Position: 0x0026D2
+Encoding: UTF-16 Big Endian
+Text: 估洰
+------------------------------
+
+Entry 1018:
+Position: 0x0026DE
+Encoding: UTF-16 Big Endian
+Text: なたの
+------------------------------
+
+Entry 1019:
+Position: 0x0026EA
+Encoding: UTF-16 Big Endian
+Text: 劫蹼
+------------------------------
+
+Entry 1020:
+Position: 0x0026F0
+Encoding: UTF-16 Big Endian
+Text: んしんぼ
+------------------------------
+
+Entry 1021:
+Position: 0x0026FC
+Encoding: UTF-16 Big Endian
+Text: なるカード
+------------------------------
+
+Entry 1022:
+Position: 0x00271C
+Encoding: UTF-16 Big Endian
+Text: ヴァンガード
+------------------------------
+
+Entry 1023:
+Position: 0x00273A
+Encoding: UTF-16 Little Endian
+Text: 春待ちの乙女
+------------------------------
+
+Entry 1024:
+Position: 0x002748
+Encoding: UTF-16 Little Endian
+Text: オズ
+------------------------------
+
+Entry 1025:
+Position: 0x00275C
+Encoding: UTF-16 Big Endian
+Text: ソ綦鄉
+------------------------------
+
+Entry 1026:
+Position: 0x002764
+Encoding: UTF-16 Big Endian
+Text: 蕟愰渰奎獙
+------------------------------
+
+Entry 1027:
+Position: 0x00276E
+Encoding: UTF-16 Little Endian
+Text: 樰弰渰笰
+------------------------------
+
+Entry 1028:
+Position: 0x002778
+Encoding: UTF-16 Big Endian
+Text: ェネレーションゾーンは
+------------------------------
+
+Entry 1029:
+Position: 0x002794
+Encoding: UTF-16 Big Endian
+Text: なたのほ
+------------------------------
+
+Entry 1030:
+Position: 0x0027B0
+Encoding: UTF-16 Big Endian
+Text: ニットを
+------------------------------
+
+Entry 1031:
+Position: 0x0027C0
+Encoding: UTF-16 Little Endian
+Text: 尰認妓
+------------------------------
+
+Entry 1032:
+Position: 0x0027CA
+Encoding: UTF-16 Little Endian
+Text: 山札
+------------------------------
+
+Entry 1033:
+Position: 0x0027D0
+Encoding: UTF-16 Little Endian
+Text: やまふだ
+------------------------------
+
+Entry 1034:
+Position: 0x0027DC
+Encoding: UTF-16 Little Endian
+Text: からめくったカードを
+------------------------------
+
+Entry 1035:
+Position: 0x0027E6
+Encoding: UTF-16 Big Endian
+Text: ぜ越鍙
+------------------------------
+
+Entry 1036:
+Position: 0x0027EE
+Encoding: UTF-16 Big Endian
+Text: 簀煜
+------------------------------
+
+Entry 1037:
+Position: 0x0027F4
+Encoding: UTF-16 Little Endian
+Text: 一度
+------------------------------
+
+Entry 1038:
+Position: 0x0027F4
+Encoding: UTF-16 Big Endian
+Text: 簀萰縰田怰簀
+------------------------------
+
+Entry 1039:
+Position: 0x0027FA
+Encoding: UTF-16 Little Endian
+Text: いちど
+------------------------------
+
+Entry 1040:
+Position: 0x002804
+Encoding: UTF-16 Big Endian
+Text: 褰脰估挰弰
+------------------------------
+
+Entry 1041:
+Position: 0x002812
+Encoding: UTF-16 Little Endian
+Text: いて
+------------------------------
+
+Entry 1042:
+Position: 0x002822
+Encoding: UTF-16 Big Endian
+Text: 愰椰簀
+------------------------------
+
+Entry 1043:
+Position: 0x002830
+Encoding: UTF-16 Little Endian
+Text: 相手
+------------------------------
+
+Entry 1044:
+Position: 0x002836
+Encoding: UTF-16 Little Endian
+Text: あいて
+------------------------------
+
+Entry 1045:
+Position: 0x002850
+Encoding: UTF-16 Little Endian
+Text: せる
+------------------------------
+
+Entry 1046:
+Position: 0x00285A
+Encoding: UTF-16 Little Endian
+Text: ための
+------------------------------
+
+Entry 1047:
+Position: 0x002860
+Encoding: UTF-16 Big Endian
+Text: 昰簀
+------------------------------
+
+Entry 1048:
+Position: 0x00286A
+Encoding: UTF-16 Big Endian
+Text: 簀讉簀缰簀
+------------------------------
+
+Entry 1049:
+Position: 0x002876
+Encoding: UTF-16 Big Endian
+Text: 嬰謰笀
+------------------------------
+
+Entry 1050:
+Position: 0x00287A
+Encoding: UTF-16 Little Endian
+Text: 铳崨渰
+------------------------------
+
+Entry 1051:
+Position: 0x00287E
+Encoding: UTF-16 Big Endian
+Text: 紀弰脰渰
+------------------------------
+
+Entry 1052:
+Position: 0x0028DA
+Encoding: UTF-16 Big Endian
+Text: アガードサークルほ
+------------------------------
+
+Entry 1053:
+Position: 0x0028E6
+Encoding: UTF-16 Little Endian
+Text: カードについての
+------------------------------
+
+Entry 1054:
+Position: 0x00292E
+Encoding: UTF-16 Little Endian
+Text: 下画面
+------------------------------
+
+Entry 1055:
+Position: 0x002936
+Encoding: UTF-16 Little Endian
+Text: したがめん
+------------------------------
+
+Entry 1056:
+Position: 0x00294E
+Encoding: UTF-16 Little Endian
+Text: しるし
+------------------------------
+
+Entry 1057:
+Position: 0x002958
+Encoding: UTF-16 Little Endian
+Text: のついている
+------------------------------
+
+Entry 1058:
+Position: 0x002958
+Encoding: UTF-16 Big Endian
+Text: 抗簀地弰
+------------------------------
+
+Entry 1059:
+Position: 0x002962
+Encoding: UTF-16 Big Endian
+Text: 脰錰簀
+------------------------------
+
+Entry 1060:
+Position: 0x002968
+Encoding: UTF-16 Little Endian
+Text: 部分
+------------------------------
+
+Entry 1061:
+Position: 0x00296E
+Encoding: UTF-16 Little Endian
+Text: ぶぶん
+------------------------------
+
+Entry 1062:
+Position: 0x00296E
+Encoding: UTF-16 Big Endian
+Text: 簀灓簀地謰地簀
+------------------------------
+
+Entry 1063:
+Position: 0x00297E
+Encoding: UTF-16 Big Endian
+Text: 渰搰
+------------------------------
+
+Entry 1064:
+Position: 0x002992
+Encoding: UTF-16 Big Endian
+Text: 簀瘰瘰錰簀
+------------------------------
+
+Entry 1065:
+Position: 0x0029A2
+Encoding: UTF-16 Big Endian
+Text: 紀鈰
+------------------------------
+
+Entry 1066:
+Position: 0x0029B2
+Encoding: UTF-16 Little Endian
+Text: ジャングルロード・ドラゴン
+------------------------------
+
+Entry 1067:
+Position: 0x0029BE
+Encoding: UTF-16 Big Endian
+Text: ーザーギア・ドラゴンゝ
+------------------------------
+
+Entry 1068:
+Position: 0x0029D0
+Encoding: UTF-16 Little Endian
+Text: 協渰
+------------------------------
+
+Entry 1069:
+Position: 0x0029F6
+Encoding: UTF-16 Big Endian
+Text: 呓の
+------------------------------
+
+Entry 1070:
+Position: 0x0029FE
+Encoding: UTF-16 Little Endian
+Text: 簀焀
+------------------------------
+
+Entry 1071:
+Position: 0x002A04
+Encoding: UTF-16 Little Endian
+Text: 籧萀縰田怰簰
+------------------------------
+
+Entry 1072:
+Position: 0x002A16
+Encoding: UTF-16 Little Endian
+Text: 紀栀
+------------------------------
+
+Entry 1073:
+Position: 0x002A28
+Encoding: UTF-16 Little Endian
+Text: 挀昰
+------------------------------
+
+Entry 1074:
+Position: 0x002A28
+Encoding: UTF-16 Big Endian
+Text: 尭杼
+------------------------------
+
+Entry 1075:
+Position: 0x002A2E
+Encoding: UTF-16 Big Endian
+Text: まふだぼ
+------------------------------
+
+Entry 1076:
+Position: 0x002A42
+Encoding: UTF-16 Little Endian
+Text: 簀开籧开瀰簰
+------------------------------
+
+Entry 1077:
+Position: 0x002A58
+Encoding: UTF-16 Big Endian
+Text: なたのカードの
+------------------------------
+
+Entry 1078:
+Position: 0x002A70
+Encoding: UTF-16 Big Endian
+Text: ばぼ
+------------------------------
+
+Entry 1079:
+Position: 0x002A7E
+Encoding: UTF-16 Little Endian
+Text: デッキのカード
+------------------------------
+
+Entry 1080:
+Position: 0x002A90
+Encoding: UTF-16 Little Endian
+Text: 枚数
+------------------------------
+
+Entry 1081:
+Position: 0x002A96
+Encoding: UTF-16 Little Endian
+Text: まいすう
+------------------------------
+
+Entry 1082:
+Position: 0x002AB4
+Encoding: UTF-16 Big Endian
+Text: 簀驧灥簀縰
+------------------------------
+
+Entry 1083:
+Position: 0x002ACA
+Encoding: UTF-16 Little Endian
+Text: ちょうど
+------------------------------
+
+Entry 1084:
+Position: 0x002ADA
+Encoding: UTF-16 Little Endian
+Text: じゃないといけないから
+------------------------------
+
+Entry 1085:
+Position: 0x002AF0
+Encoding: UTF-16 Big Endian
+Text: 愰蜰
+------------------------------
+
+Entry 1086:
+Position: 0x002AF6
+Encoding: UTF-16 Little Endian
+Text: 注意
+------------------------------
+
+Entry 1087:
+Position: 0x002AF6
+Encoding: UTF-16 Big Endian
+Text: 椰笀
+------------------------------
+
+Entry 1088:
+Position: 0x002AFC
+Encoding: UTF-16 Little Endian
+Text: ちゅうい
+------------------------------
+
+Entry 1089:
+Position: 0x002B00
+Encoding: UTF-16 Big Endian
+Text: 堰茰樰
+------------------------------
+
+Entry 1090:
+Position: 0x002B08
+Encoding: UTF-16 Little Endian
+Text: してね
+------------------------------
+
+Entry 1091:
+Position: 0x002B0C
+Encoding: UTF-16 Big Endian
+Text: 儰樰
+------------------------------
+
+Entry 1092:
+Position: 0x002B20
+Encoding: UTF-16 Big Endian
+Text: 簀愰蔰
+------------------------------
+
+Entry 1093:
+Position: 0x002B24
+Encoding: UTF-16 Little Endian
+Text: 錭墺
+------------------------------
+
+Entry 1094:
+Position: 0x002B2E
+Encoding: UTF-16 Big Endian
+Text: 地昰洰
+------------------------------
+
+Entry 1095:
+Position: 0x002B3C
+Encoding: UTF-16 Big Endian
+Text: レースナイトゾ
+------------------------------
+
+Entry 1096:
+Position: 0x002B40
+Encoding: UTF-16 Little Endian
+Text: なか
+------------------------------
+
+Entry 1097:
+Position: 0x002B5C
+Encoding: UTF-16 Little Endian
+Text: カード
+------------------------------
+
+Entry 1098:
+Position: 0x002B64
+Encoding: UTF-16 Big Endian
+Text: 簀樰
+------------------------------
+
+Entry 1099:
+Position: 0x002B68
+Encoding: UTF-16 Little Endian
+Text: があるでしょ
+------------------------------
+
+Entry 1100:
+Position: 0x002B82
+Encoding: UTF-16 Little Endian
+Text: した
+------------------------------
+
+Entry 1101:
+Position: 0x002B8E
+Encoding: UTF-16 Little Endian
+Text: サークルは
+------------------------------
+
+Entry 1102:
+Position: 0x002B92
+Encoding: UTF-16 Big Endian
+Text: 謰朰地蜰
+------------------------------
+
+Entry 1103:
+Position: 0x002BA6
+Encoding: UTF-16 Big Endian
+Text: 簀地弰簀
+------------------------------
+
+Entry 1104:
+Position: 0x002BAA
+Encoding: UTF-16 Little Endian
+Text: ヴァンガードサークル
+------------------------------
+
+Entry 1105:
+Position: 0x002BD4
+Encoding: UTF-16 Little Endian
+Text: って
+------------------------------
+
+Entry 1106:
+Position: 0x002BF8
+Encoding: UTF-16 Little Endian
+Text: クロノジェット・ドラゴン
+------------------------------
+
+Entry 1107:
+Position: 0x002BFA
+Encoding: UTF-16 Big Endian
+Text: 挰昰茌
+------------------------------
+
+Entry 1108:
+Position: 0x002C04
+Encoding: UTF-16 Big Endian
+Text: モークギア・ドラゴン
+------------------------------
+
+Entry 1109:
+Position: 0x002C1C
+Encoding: UTF-16 Little Endian
+Text: 漰笰
+------------------------------
+
+Entry 1110:
+Position: 0x002C3C
+Encoding: UTF-16 Big Endian
+Text: レードはほ
+------------------------------
+
+Entry 1111:
+Position: 0x002C42
+Encoding: UTF-16 Little Endian
+Text: 紀縀朰
+------------------------------
+
+Entry 1112:
+Position: 0x002C56
+Encoding: UTF-16 Little Endian
+Text: 簀騀粉
+------------------------------
+
+Entry 1113:
+Position: 0x002C5E
+Encoding: UTF-16 Little Endian
+Text: 簰簰
+------------------------------
+
+Entry 1114:
+Position: 0x002C6C
+Encoding: UTF-16 Little Endian
+Text: 昰洰
+------------------------------
+
+Entry 1115:
+Position: 0x002C6C
+Encoding: UTF-16 Big Endian
+Text: であるから
+------------------------------
+
+Entry 1116:
+Position: 0x002C78
+Encoding: UTF-16 Little Endian
+Text: フルブルーム・ドラゴン
+------------------------------
+
+Entry 1117:
+Position: 0x002C84
+Encoding: UTF-16 Big Endian
+Text: ぼぼ
+------------------------------
+
+Entry 1118:
+Position: 0x002C8C
+Encoding: UTF-16 Big Endian
+Text: ておいてね
+------------------------------
+
+Entry 1119:
+Position: 0x002CA4
+Encoding: UTF-16 Little Endian
+Text: 如獎
+------------------------------
+
+Entry 1120:
+Position: 0x002CB8
+Encoding: UTF-16 Little Endian
+Text: さっき
+------------------------------
+
+Entry 1121:
+Position: 0x002CBA
+Encoding: UTF-16 Big Endian
+Text: ナンキュラスのケ艙乳夠
+------------------------------
+
+Entry 1122:
+Position: 0x002CCE
+Encoding: UTF-16 Little Endian
+Text: えた
+------------------------------
+
+Entry 1123:
+Position: 0x002CD2
+Encoding: UTF-16 Big Endian
+Text: ーシャ
+------------------------------
+
+Entry 1124:
+Position: 0x002CDE
+Encoding: UTF-16 Big Endian
+Text: 唰挰
+------------------------------
+
+Entry 1125:
+Position: 0x002CE8
+Encoding: UTF-16 Little Endian
+Text: にあるカードの
+------------------------------
+
+Entry 1126:
+Position: 0x002CFE
+Encoding: UTF-16 Little Endian
+Text: たば
+------------------------------
+
+Entry 1127:
+Position: 0x002D0A
+Encoding: UTF-16 Little Endian
+Text: これを
+------------------------------
+
+Entry 1128:
+Position: 0x002D1E
+Encoding: UTF-16 Big Endian
+Text: 簀彧簀弰瀰簀
+------------------------------
+
+Entry 1129:
+Position: 0x002D2E
+Encoding: UTF-16 Little Endian
+Text: っていうの
+------------------------------
+
+Entry 1130:
+Position: 0x002D30
+Encoding: UTF-16 Big Endian
+Text: 匰谰鈰笀
+------------------------------
+
+Entry 1131:
+Position: 0x002D46
+Encoding: UTF-16 Little Endian
+Text: 欰漰
+------------------------------
+
+Entry 1132:
+Position: 0x002D52
+Encoding: UTF-16 Big Endian
+Text: 紀挰昰
+------------------------------
+
+Entry 1133:
+Position: 0x002D68
+Encoding: UTF-16 Big Endian
+Text: ッキには
+------------------------------
+
+Entry 1134:
+Position: 0x002D7A
+Encoding: UTF-16 Little Endian
+Text: 簀礀
+------------------------------
+
+Entry 1135:
+Position: 0x002D80
+Encoding: UTF-16 Little Endian
+Text: 籒栀估礰搰簰
+------------------------------
+
+Entry 1136:
+Position: 0x002D96
+Encoding: UTF-16 Big Endian
+Text: ていう
+------------------------------
+
+Entry 1137:
+Position: 0x002DA4
+Encoding: UTF-16 Big Endian
+Text: 爥剼
+------------------------------
+
+Entry 1138:
+Position: 0x002DAA
+Encoding: UTF-16 Big Endian
+Text: くべつぼ
+------------------------------
+
+Entry 1139:
+Position: 0x002DB4
+Encoding: UTF-16 Little Endian
+Text: 籙唀
+------------------------------
+
+Entry 1140:
+Position: 0x002DB6
+Encoding: UTF-16 Big Endian
+Text: カードを
+------------------------------
+
+Entry 1141:
+Position: 0x002DC6
+Encoding: UTF-16 Little Endian
+Text: 簀騀籧縀
+------------------------------
+
+Entry 1142:
+Position: 0x002DD4
+Encoding: UTF-16 Little Endian
+Text: 縀朰笰
+------------------------------
+
+Entry 1143:
+Position: 0x002DD8
+Encoding: UTF-16 Big Endian
+Text: 朧奼
+------------------------------
+
+Entry 1144:
+Position: 0x002DDE
+Encoding: UTF-16 Big Endian
+Text: いだいぼ
+------------------------------
+
+Entry 1145:
+Position: 0x002DE0
+Encoding: UTF-16 Little Endian
+Text: 簀攀籑
+------------------------------
+
+Entry 1146:
+Position: 0x002DEC
+Encoding: UTF-16 Little Endian
+Text: 谀褰谰謰輰
+------------------------------
+
+Entry 1147:
+Position: 0x002DFC
+Encoding: UTF-16 Little Endian
+Text: 叚アタックされた
+------------------------------
+
+Entry 1148:
+Position: 0x002DFC
+Encoding: UTF-16 Big Endian
+Text: でほ
+------------------------------
+
+Entry 1149:
+Position: 0x002E10
+Encoding: UTF-16 Little Endian
+Text: 味方
+------------------------------
+
+Entry 1150:
+Position: 0x002E14
+Encoding: UTF-16 Big Endian
+Text: られるわ
+------------------------------
+
+Entry 1151:
+Position: 0x002E16
+Encoding: UTF-16 Little Endian
+Text: みかた
+------------------------------
+
+Entry 1152:
+Position: 0x002E2A
+Encoding: UTF-16 Little Endian
+Text: まも
+------------------------------
+
+Entry 1153:
+Position: 0x002E2A
+Encoding: UTF-16 Big Endian
+Text: 唰谰弰
+------------------------------
+
+Entry 1154:
+Position: 0x002E32
+Encoding: UTF-16 Big Endian
+Text: 簀獔
+------------------------------
+
+Entry 1155:
+Position: 0x002E38
+Encoding: UTF-16 Big Endian
+Text: 簀缰
+------------------------------
+
+Entry 1156:
+Position: 0x002E3E
+Encoding: UTF-16 Big Endian
+Text: 弰簀
+------------------------------
+
+Entry 1157:
+Position: 0x002E48
+Encoding: UTF-16 Little Endian
+Text: ガーディアン
+------------------------------
+
+Entry 1158:
+Position: 0x002E48
+Encoding: UTF-16 Big Endian
+Text: 簀衛簀縰舰簀
+------------------------------
+
+Entry 1159:
+Position: 0x002E6C
+Encoding: UTF-16 Little Endian
+Text: ばれるカードを
+------------------------------
+
+Entry 1160:
+Position: 0x002E84
+Encoding: UTF-16 Big Endian
+Text: 簀籔簀蠰簀
+------------------------------
+
+Entry 1161:
+Position: 0x002E90
+Encoding: UTF-16 Big Endian
+Text: 瀰谰謰
+------------------------------
+
+Entry 1162:
+Position: 0x002E9E
+Encoding: UTF-16 Little Endian
+Text: なの
+------------------------------
+
+Entry 1163:
+Position: 0x002EA6
+Encoding: UTF-16 Little Endian
+Text: 縢娰漰
+------------------------------
+
+Entry 1164:
+Position: 0x002EC2
+Encoding: UTF-16 Big Endian
+Text: 樰渰
+------------------------------
+
+Entry 1165:
+Position: 0x002EC8
+Encoding: UTF-16 Big Endian
+Text: 竒痜
+------------------------------
+
+Entry 1166:
+Position: 0x002ECE
+Encoding: UTF-16 Big Endian
+Text: ずは
+------------------------------
+
+Entry 1167:
+Position: 0x002EE8
+Encoding: UTF-16 Big Endian
+Text: ィールドほ
+------------------------------
+
+Entry 1168:
+Position: 0x002EF0
+Encoding: UTF-16 Little Endian
+Text: ブラスウイング・ドラゴン
+------------------------------
+
+Entry 1169:
+Position: 0x002F0A
+Encoding: UTF-16 Little Endian
+Text: 崥地昰
+------------------------------
+
+Entry 1170:
+Position: 0x002F30
+Encoding: UTF-16 Big Endian
+Text: して
+------------------------------
+
+Entry 1171:
+Position: 0x002F64
+Encoding: UTF-16 Big Endian
+Text: リガーゾーンほ
+------------------------------
+
+Entry 1172:
+Position: 0x002F6E
+Encoding: UTF-16 Little Endian
+Text: ジェネレーションゾーンにあるカードの
+------------------------------
+
+Entry 1173:
+Position: 0x002FA6
+Encoding: UTF-16 Little Endian
+Text: こっちは
+------------------------------
+
+Entry 1174:
+Position: 0x002FCA
+Encoding: UTF-16 Big Endian
+Text: 匰挰愰漰
+------------------------------
+
