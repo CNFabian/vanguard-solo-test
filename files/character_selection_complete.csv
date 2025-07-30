@@ -1,0 +1,8 @@
+pointer_offsets;pointer_value;separators;extract;original_japanese;context;priority
+0x8D3F50;0x00949ED8;00 00;You can change your character's appearance, name, and nickname;<|主人公|しゅじんこう|>の<|容姿|ようし|>や<|名前|なまえ|>、ニックネームを†<|変更|へんこう|>することができます;Character customization main description;1
+0x8D3F60;0x00949E70;00 00 00 00;You can change StreetPass communication settings;すれちがい<|通信|つうしん|>の<|設定|せってい|>を†<|変更|へんこう|>することができます;Communication settings menu;2
+0x8D3F48;0x00949B78;00 00;This is the title displayed in communication fights.†Set your favorite title.;<|通信|つうしん|>ファイトで<|表示|ひょうじ|>する<|称号|しょうごう|>です。†お<|気|き|>に<|入|い|>りの<|称号|しょうごう|>を<|設定|せってい|>しましょう。;Title/badge selection help text;3
+0x8D3F40;0x00949C34;00 00;This is the message displayed in communication fights.†Set a message for your opponent.;<|通信|つうしん|>ファイトで<|表示|ひょうじ|>するメッセージです。†<|相手|あいて|>へのメッセージを<|設定|せってい|>しましょう。;Message customization help text;4
+0x8D3F28;0x00949DC8;00 00;You can check win rates and information for characters†and other players you've faced in events;イベントで<|対戦|たいせん|>したキャラクターや<|他|ほか|>の†プレイヤーとの<|勝率|しょうりつ|>や<|情報|じょうほう|>を<|確認|かくにん|>できます;Player statistics help text;5
+0x8D3F58;0x0094A21C;00 00;You can fight characters from events and†other players through communication;イベントで<|対戦|たいせん|>したキャラクターや†<|通信|つうしん|>で<|他|ほか|>のプレイヤーとファイトできます;Multiplayer options help text;6
+0x8D3F10;0x00949F5C;00 00;Press the START button during the tutorial†to exit at any time;チュートリアル<|中|ちゅう|>に<|START|スタート|>ボタンを<|押|お|>すと†<|途中|とちゅう|>で<|終了|しゅうりょう|>することができます;Tutorial exit instructions;7
