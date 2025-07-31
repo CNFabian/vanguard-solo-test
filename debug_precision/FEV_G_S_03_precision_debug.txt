@@ -1,0 +1,27 @@
+Precision Injection Debug: FEV_G_S_03.rtz
+==================================================
+
+Successful replacements: 6
+Total translations attempted: 12
+
+Search Results Summary:
+  Exact matches: 96
+  Partial matches: 280
+
+Alignments used:
+  Alignment 0: 33 results
+  Alignment 1: 14 results
+  Alignment 2: 33 results
+  Alignment 3: 14 results
+  Alignment 4: 33 results
+  Alignment 5: 14 results
+  Alignment 6: 33 results
+  Alignment 7: 14 results
+  Alignment 8: 33 results
+  Alignment 9: 14 results
+  Alignment 10: 33 results
+  Alignment 11: 14 results
+  Alignment 12: 33 results
+  Alignment 13: 14 results
+  Alignment 14: 33 results
+  Alignment 15: 14 results

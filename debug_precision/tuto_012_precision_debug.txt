@@ -1,0 +1,27 @@
+Precision Injection Debug: tuto_012.rtz
+==================================================
+
+Successful replacements: 8
+Total translations attempted: 41
+
+Search Results Summary:
+  Exact matches: 328
+  Partial matches: 576
+
+Alignments used:
+  Alignment 0: 44 results
+  Alignment 1: 69 results
+  Alignment 2: 44 results
+  Alignment 3: 69 results
+  Alignment 4: 44 results
+  Alignment 5: 69 results
+  Alignment 6: 44 results
+  Alignment 7: 69 results
+  Alignment 8: 44 results
+  Alignment 9: 69 results
+  Alignment 10: 44 results
+  Alignment 11: 69 results
+  Alignment 12: 44 results
+  Alignment 13: 69 results
+  Alignment 14: 44 results
+  Alignment 15: 69 results

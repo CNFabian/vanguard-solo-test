@@ -1,0 +1,85 @@
+file,offset,japanese_text,english_text,confidence,source_section,priority,translation_status,translation_timestamp,quality_assessment,quality_reason,analysis_timestamp
+romfs/fe/tuto_007.rtz,0x3BEC,"6600}ヴァンガード{$}で
+アタック","6600} VANGUARD{$}
+ア",0.85,file_end,HIGH,COMPLETED,2025-07-30T17:03:04.012069,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.039573
+romfs/fe/tuto_007.rtz,0x3BEE,"600}ヴァンガード{$}で
+アタックし","600} VANGUARD{$}
+ア",0.85,file_end,HIGH,COMPLETED,2025-07-30T17:03:04.253648,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.039606
+romfs/fe/tuto_007.rtz,0x3BF0,"00}ヴァンガード{$}で
+アタックした","00} VANGUARD{$}
+ATTACKED",0.85,file_end,HIGH,COMPLETED,2025-07-30T17:03:04.480238,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.039634
+romfs/fe/tuto_007.rtz,0x3BF2,"0}ヴァンガード{$}で
+アタックしたよ","0} VANGUARD{$}
+ア",0.85,file_end,HIGH,COMPLETED,2025-07-30T17:03:04.722093,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.039657
+romfs/fe/tuto_007.rtz,0x3BF4,"}ヴァンガード{$}で
+アタックしたよね","}VANGUARD{$}
+ア",0.85,file_end,HIGH,COMPLETED,2025-07-30T17:03:04.964619,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.039677
+romfs/fe/tuto_007.rtz,0x3BCE,|こんかい|>あなたは{$336600}ヴァンガード{$}で,_COLOR_0__VAN GUARD{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:08.979613,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042695
+romfs/fe/tuto_007.rtz,0x3BDA,>あなたは{$336600}ヴァンガード,>YOU_{$336600} VANGUARD,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:09.191584,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042717
+romfs/fe/tuto_007.rtz,0x3BDE,なたは{$336600}ヴァンガード{$,{$336600} VANGUARD {$,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:09.590310,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042761
+romfs/fe/tuto_007.rtz,0x3BE0,たは{$336600}ヴァンガード{$},{$336600} VANGUARD{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:09.810876,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042783
+romfs/fe/tuto_007.rtz,0x3BE2,は{$336600}ヴァンガード{$}で,{$336600}VANGUARD{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:10.176349,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042803
+romfs/fe/tuto_007.rtz,0x3BE4,{$336600}ヴァンガード{$}で,{$336600}VANG GUARD{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:10.404713,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042822
+romfs/fe/tuto_007.rtz,0x3BE6,"$336600}ヴァンガード{$}で
+ア","$336600} VANGUARD{$}
+ ア",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:10.638060,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042843
+romfs/fe/tuto_007.rtz,0x3BE8,"336600}ヴァンガード{$}で
+アタ","336600}VANGUARD{$}
+ア",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:10.875714,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042863
+romfs/fe/tuto_007.rtz,0x3BEA,"36600}ヴァンガード{$}で
+アタッ","36600} VANGUARD{$}
+ア",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:11.127811,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.042883
+romfs/fe/tuto_007.rtz,0x3EF8,|>のヴァンガードを,|> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:14.441725,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043030
+romfs/fe/tuto_007.rtz,0x3EFA,>のヴァンガードを{,> VanGuard {,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:14.605321,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043056
+romfs/fe/tuto_013.rtz,0x2FF3,ヴァンガードに{$},{$} ON VANGUARD,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:23.748962,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043719
+romfs/fe/tuto_013.rtz,0x35DB,く|>のヴァンガード,Home,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:24.821402,good,unusual length ratio (0.4); contains game terminology; proper capitalization; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043750
+romfs/fe/tuto_013.rtz,0x35DD,|>のヴァンガードに,|> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:25.009379,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043769
+romfs/fe/tuto_013.rtz,0x35DF,>のヴァンガードにア,> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:25.179027,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043788
+romfs/fe/tuto_012.rtz,0x2BF5,|>のヴァンガードは,_> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:26.390127,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043915
+romfs/fe/tuto_012.rtz,0x2DDF,|>いのヴァンガード,HOME,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:27.851496,good,unusual length ratio (0.4); contains game terminology; proper capitalization; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043988
+romfs/fe/tuto_012.rtz,0x2DE1,>いのヴァンガードが,> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:28.015797,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044006
+romfs/fe/tuto_012.rtz,0x3813,なたの{$336600}ヴァンガード{$,{$336600} VANGUARD {$,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:40.099033,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044603
+romfs/fe/tuto_012.rtz,0x3815,たの{$336600}ヴァンガード{$},_{$336600} VANGUARD{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:40.324013,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044728
+romfs/fe/tuto_012.rtz,0x3817,の{$336600}ヴァンガード{$}で,_{$336600}VANGUARD{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:40.543360,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044777
+romfs/fe/tuto_012.rtz,0x3819,{$336600}ヴァンガード{$}で,{$336600}VANG GUARD{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:40.757908,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044815
+romfs/fe/tuto_012.rtz,0x381B,"$336600}ヴァンガード{$}で
+{","$336600} VANGUARD{$}
+{",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:41.061823,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044839
+romfs/fe/tuto_012.rtz,0x381D,"336600}ヴァンガード{$}で
+{$","336600}VANGUARD{$}
+ {",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:41.310021,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044860
+romfs/fe/tuto_012.rtz,0x381F,"36600}ヴァンガード{$}で
+{$3","36600} VANGUARD{$}
+{",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:41.549415,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044885
+romfs/fe/tuto_012.rtz,0x3821,"6600}ヴァンガード{$}で
+{$33","6600} VANGUARD{$}
+{",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:41.789836,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044904
+romfs/fe/tuto_012.rtz,0x3823,"600}ヴァンガード{$}で
+{$336","600} VANGUARD{$}
+{$336",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:42.039597,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044924
+romfs/fe/tuto_012.rtz,0x3825,"00}ヴァンガード{$}で
+{$3366","00} VANGUARD{$}
+{$3366",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:42.270281,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044943
+romfs/fe/tuto_012.rtz,0x3827,"0}ヴァンガード{$}で
+{$33660","0} VANGUARD{$}
+{$33660",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:42.512944,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044962
+romfs/fe/tuto_012.rtz,0x3829,"}ヴァンガード{$}で
+{$336600","}VANGUARD{$}
+{$336600",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:42.754899,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.044983
+romfs/fe/tuto_012.rtz,0x3861,|>のヴァンガードに,|> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:43.298960,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.045045
+romfs/fe/tuto_012.rtz,0x3863,>のヴァンガードにア,> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:43.457097,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.045062
+romfs/fe/tuto_012.rtz,0x390B,蓽{$336600}ヴァンガードサークル, {$336600} VANGUARD CIRCLE,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:02.657294,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046092
+romfs/fe/tuto_012.rtz,0x390D,{$336600}ヴァンガードサークル{$}と{$33660,{$336600} VANGUARD CIRCLE{$} AND {$33660,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:02.953572,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046120
+romfs/fe/tuto_012.rtz,0x390F,$336600}ヴァンガードサークル{$}と{$336600,$336600} VANGUARD CIRCLE{$} AND {$336600,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:03.255657,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046146
+romfs/fe/tuto_012.rtz,0x3911,336600}ヴァンガードサークル{$}と{$336600},336600} VANGUARD CIRCLE{$} AND{$336600},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:03.524872,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046167
+romfs/fe/tuto_012.rtz,0x3913,36600}ヴァンガードサークル{$}と,36600} VANGUARD CIRCLE{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:03.741056,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046315
+romfs/fe/tuto_012.rtz,0x3915,6600}ヴァンガードサークル{$}と{,6600} VANGUARD CIRCLE{$} AND {,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:03.963529,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046391
+romfs/fe/tuto_012.rtz,0x3917,600}ヴァンガードサークル{$}と{$,600} VANGUARD CIRCLE{$} AND {$,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:04.180005,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046458
+romfs/fe/tuto_012.rtz,0x3919,00}ヴァンガードサークル{$}と{$3,00} VANGUARD CIRCLE{$} AND {$3,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:04.401882,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046500
+romfs/fe/tuto_012.rtz,0x391B,0}ヴァンガードサークル{$}と{$33,0} VANGUARD CIRCLE{$} AND {$33,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:04.658130,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046532
+romfs/fe/tuto_012.rtz,0x391D,}ヴァンガードサークル{$}と{$336,} VANGUARD CIRCLE{$} AND {$336,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:04.872438,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.046553
+romfs/script/FEV_G_S_03.rtz,0x592E,">じパワーで
+ガード","> Power
+",0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:20.954304,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.047252
+romfs/script/FEV_G_S_03.rtz,0x5E9C,|>のヴァンガードが,_> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:22.121671,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.047347
+romfs/script/FEV_G_S_03.rtz,0x5E9E,>のヴァンガードがア,> VanGuard,0.70,file_end,HIGH,COMPLETED,2025-07-30T17:05:22.286482,good,good length ratio; contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.047365

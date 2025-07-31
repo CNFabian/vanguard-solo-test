@@ -1,0 +1,55 @@
+
+🎮 CF VANGUARD TRANSLATION QUALITY REPORT
+=========================================
+Generated: 2025-07-30 17:10:08
+Total Entries Analyzed: 434
+
+📊 QUALITY BREAKDOWN:
+Excellent:   47 (10.8%)
+Good:        50 (11.5%)
+Acceptable:   1 (0.2%)
+Poor:         0 (0.0%)
+Corrupted:  336 (77.4%)
+
+🎯 USABLE TRANSLATIONS: 98 (22.6%)
+
+🏆 EXCELLENT EXAMPLES:
+1. JP: ダメージとしてカード...
+   EN: Card as Damage...
+   Confidence: 0.70
+
+2. JP: あなたは{$336600}ヴァンガード{...
+   EN: YOU {$336600} VANGUARD {...
+   Confidence: 0.70
+
+3. JP: ヴァンガード{$}で...
+   EN: VANGUARD{$}...
+   Confidence: 0.70
+
+4. JP: し|>のヴァンガード...
+   EN: VanGuard...
+   Confidence: 0.70
+
+5. JP: のヴァンガードを{$...
+   EN: The VanGuard {$...
+   Confidence: 0.70
+
+
+⚠️  CORRUPTED DATA EXAMPLES:
+1. JP: 䭶籢䈀䐰昰簰㸀欀笰␀㌀㌀㘀㘀　　紀ሀ샿ﰰ렰鈰笰␀紀਀笀␀㌀㌀㘀㘀　　紀㰀簀฀籎䈀弰簰㸀䠀笰␀紀褀...
+   Reason: Corrupted Japanese: [^\x00-\x7F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]+
+
+2. JP: 䭶籢䈀䐰昰簰㸀欀笰␀㌀㌀㘀㘀　　紀ሀ샿ﰰ렰鈰笰␀紀਀笀␀㌀㌀㘀㘀　　紀㰀簀฀籎䈀弰簰㸀䠀笰␀紀褀谰...
+   Reason: Corrupted Japanese: [^\x00-\x7F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]+
+
+3. JP: 籢䈀䐰昰簰㸀欀笰␀㌀㌀㘀㘀　　紀ሀ샿ﰰ렰鈰笰␀紀਀笀␀㌀㌀㘀㘀　　紀㰀簀฀籎䈀弰簰㸀䠀笰␀紀褀谰謰...
+   Reason: Corrupted Japanese: [^\x00-\x7F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]+
+
+
+🔧 RECOMMENDATIONS:
+1. Use 'filtered_usable_*.csv' for ROM injection (98 entries)
+2. Focus human review on 'filtered_good_*.csv' entries
+3. Manually translate 'excellent' entries if needed for key game text
+4. Ignore corrupted entries - these are extraction artifacts
+
+📈 OVERALL SUCCESS RATE: 22.6%

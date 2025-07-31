@@ -1,0 +1,29 @@
+
+🎮 CF VANGUARD RTZ INJECTION REPORT (FIXED VERSION)
+===================================================
+Generated: 2025-07-30 17:28:02
+
+📊 INJECTION STATISTICS:
+Files Processed:      4
+Files Modified:       0 / 4
+Translations Applied: 0 / 98
+Translations Failed:  98
+Bytes Added:          0
+
+📁 OUTPUT DIRECTORIES:
+Original RomFS:   romfs
+Backup RomFS:     romfs_backup
+English RomFS:    romfs_english
+
+🎯 SUCCESS RATE: 0.0%
+
+🚀 NEXT STEPS:
+1. Build English ROM using modified romfs_english/
+2. Test in Citra emulator
+3. Validate English text display in game
+
+📋 FILES MODIFIED:
+   fe/tuto_007.rtz: 0/29 translations
+   fe/tuto_013.rtz: 0/16 translations
+   fe/tuto_012.rtz: 0/41 translations
+   script/FEV_G_S_03.rtz: 0/12 translations

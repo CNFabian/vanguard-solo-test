@@ -1,0 +1,2 @@
+file,offset,japanese_text,english_text,confidence,source_section,priority,translation_status,translation_timestamp,quality_assessment,quality_reason,analysis_timestamp
+romfs/fe/tuto_007.rtz,0x3EFE,ヴァンガードを{$},{$},0.70,file_end,HIGH,COMPLETED,2025-07-30T17:04:14.997986,acceptable,unusual length ratio (0.3); contains game terminology; no obvious mistranslations; good extraction confidence,2025-07-30T17:10:08.043104
