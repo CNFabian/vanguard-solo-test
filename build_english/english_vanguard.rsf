@@ -1,0 +1,16 @@
+BasicInfo:
+  Title                   : CF Vanguard Stride to Victory English
+  ProductCode             : CTR-BVCJ-EUR
+  Logo                    : Nintendo
+
+TitleInfo:
+  UniqueId                : 0x2ee01
+  Category                : Application
+  
+RomFs:
+  RootPath                : romfs.bin
+
+SystemControlInfo:
+  SaveDataSize            : 1MB
+  RemasterVersion         : 0
+  StackSize               : 0x40000
