@@ -10,25 +10,91 @@
 cf_vanguard.3ds
 cf_vanguard_g_stv.cia
 
+# Built/modified ROM files - UPDATED FOR PHASE 5.3.1
+cf_vanguard_english_*.3ds
+*_english.3ds
+*_patched.3ds
+*_translated.3ds
+*_test.3ds
+*_debug.3ds
+*_v*.3ds
+rebuild_*.3ds
+
+# Build directories and workspaces
+build/
+build_english/
+vanguard-solo-test/
+partition*_english*.cxi
+debug_precision/
+test_builds/
+test_output/
+
 # Extracted ROM content
 romfs/
+romfs_*/
+romfs_english/
+romfs_english_precision/
+romfs_complete_english.bin
+exefs_extracted/
+extracted/
+extracted_content/
+modified/
+
+# Binary dumps and extracted sections
+*.bin
+extract/
 code.bin
 full_padded.bin
 full_patched.bin
 exheader.bin
 exheader_patched.bin
 
-# Built/modified ROM files
-rebuild_*.3ds
-*_patched.3ds
-*_translated.3ds
-extracted/
-modified/
+# =============================================================================
+# RTZ FILES AND GAME TEXT DATA - NEW SECTION
+# =============================================================================
 
-# Binary dumps and extracted sections
-*.bin
-extract/
-extracted_content/
+# RTZ files (copyrighted game text content)
+*.rtz
+**/fe/*.rtz
+**/script/*.rtz
+
+# CTPK files (texture/image archives)
+*.ctpk
+**/ctpk/
+ctpk_extracted/
+texture_*/
+
+# BCSTM files (audio/sound files)
+*.bcstm
+**/sound/
+**/audio/
+bcstm_extracted/
+audio_*/
+sound_*/
+
+# ORB files (object/resource bundles)
+*.orb
+**/orb/
+orb_extracted/
+orb_*/
+
+# AUZ files (compressed audio/data)
+*.auz
+**/auz/
+auz_extracted/
+auz_*/
+
+# Extracted RTZ content
+*_decompressed.bin
+*_patched.bin
+rtz_content/
+rtz_extracted/
+rtz_debug/
+
+# RTZ processing temporary files
+rtz_temp/
+*_rtz_backup/
+rtz_injection_logs/
 
 # =============================================================================
 # TEMPORARY AND WORKING FILES
@@ -40,7 +106,6 @@ __pycache__/
 *$py.class
 *.so
 .Python
-build/
 develop-eggs/
 dist/
 downloads/
@@ -116,16 +181,29 @@ argos-data/
 logs/
 debug.log
 translation.log
+injection_*.log
+makerom_*.log
+romfs_build_*.log
 
 # =============================================================================
-# TESTING AND OUTPUT
+# TESTING AND DEBUG FILES - UPDATED
 # =============================================================================
 
-# Test ROM builds
-test_builds/
-test_output/
-*_test.3ds
-*_debug.3ds
+# Debug and analysis files
+debug_*/
+*_debug/
+precision_debug/
+injection_debug/
+compare_*/
+analysis_*/
+
+# Test saves and configurations
+*.sav
+test_saves/
+citra_config/
+
+# Hex editor sessions
+*.ses
 
 # IDA Pro files (if using)
 *.i64
@@ -136,8 +214,22 @@ test_output/
 *.nam
 *.til
 
-# Hex editor sessions
-*.ses
+# =============================================================================
+# BUILD ARTIFACTS AND TOOLS
+# =============================================================================
+
+# ROM building tools (should be installed separately)
+3dstool
+ctrtool
+makerom
+tools/3dstool
+tools/ctrtool
+tools/makerom
+
+# Build artifacts
+*.rsf
+english_vanguard.rsf
+build_*.sh.log
 
 # =============================================================================
 # KEEP THESE FILES (commented for clarity)
@@ -150,7 +242,8 @@ test_output/
 # docker-compose.yaml
 # README.md
 # *.md documentation files
-# cf_vanguard.rsf
+# requirements.txt
+# build_english_rom_fixed.sh
 
 # =============================================================================
 # PLATFORM SPECIFIC
@@ -187,3 +280,4 @@ $RECYCLE.BIN/
 *.7z
 backup_*.zip
 rom_backup_*.zip
+project_backup_*.zip
